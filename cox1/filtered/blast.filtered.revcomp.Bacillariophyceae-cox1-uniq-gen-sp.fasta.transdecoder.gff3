@@ -1,0 +1,339 @@
+cox11	transdecoder	gene	1	575	.	+	.	ID=GENE.cox11~~cox11.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D247.79
+cox11	transdecoder	mRNA	1	575	.	+	.	ID=cox11.p1;Parent=GENE.cox11~~cox11.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D247.79
+cox11	transdecoder	five_prime_UTR	1	2	.	+	.	ID=cox11.p1.utr5p1;Parent=cox11.p1
+cox11	transdecoder	exon	1	575	.	+	.	ID=cox11.p1.exon1;Parent=cox11.p1
+cox11	transdecoder	CDS	3	575	.	+	0	ID=cds.cox11.p1;Parent=cox11.p1
+
+cox110	transdecoder	gene	1	712	.	+	.	ID=GENE.cox110~~cox110.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29%2Cscore%3D320.38
+cox110	transdecoder	mRNA	1	712	.	+	.	ID=cox110.p1;Parent=GENE.cox110~~cox110.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29%2Cscore%3D320.38
+cox110	transdecoder	five_prime_UTR	1	2	.	+	.	ID=cox110.p1.utr5p1;Parent=cox110.p1
+cox110	transdecoder	exon	1	712	.	+	.	ID=cox110.p1.exon1;Parent=cox110.p1
+cox110	transdecoder	CDS	3	710	.	+	0	ID=cds.cox110.p1;Parent=cox110.p1
+cox110	transdecoder	three_prime_UTR	711	712	.	+	.	ID=cox110.p1.utr3p1;Parent=cox110.p1
+
+cox111	transdecoder	gene	1	721	.	+	.	ID=GENE.cox111~~cox111.p1;Name=ORF%20type%3Ainternal%20len%3A241%20%28%2B%29%2Cscore%3D249.29
+cox111	transdecoder	mRNA	1	721	.	+	.	ID=cox111.p1;Parent=GENE.cox111~~cox111.p1;Name=ORF%20type%3Ainternal%20len%3A241%20%28%2B%29%2Cscore%3D249.29
+cox111	transdecoder	exon	1	721	.	+	.	ID=cox111.p1.exon1;Parent=cox111.p1
+cox111	transdecoder	CDS	1	720	.	+	0	ID=cds.cox111.p1;Parent=cox111.p1
+cox111	transdecoder	three_prime_UTR	721	721	.	+	.	ID=cox111.p1.utr3p1;Parent=cox111.p1
+
+cox112	transdecoder	gene	1	615	.	+	.	ID=GENE.cox112~~cox112.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D294.37
+cox112	transdecoder	mRNA	1	615	.	+	.	ID=cox112.p1;Parent=GENE.cox112~~cox112.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D294.37
+cox112	transdecoder	exon	1	615	.	+	.	ID=cox112.p1.exon1;Parent=cox112.p1
+cox112	transdecoder	CDS	1	615	.	+	0	ID=cds.cox112.p1;Parent=cox112.p1
+
+cox113	transdecoder	gene	1	603	.	+	.	ID=GENE.cox113~~cox113.p1;Name=ORF%20type%3Ainternal%20len%3A202%20%28%2B%29%2Cscore%3D211.23
+cox113	transdecoder	mRNA	1	603	.	+	.	ID=cox113.p1;Parent=GENE.cox113~~cox113.p1;Name=ORF%20type%3Ainternal%20len%3A202%20%28%2B%29%2Cscore%3D211.23
+cox113	transdecoder	exon	1	603	.	+	.	ID=cox113.p1.exon1;Parent=cox113.p1
+cox113	transdecoder	CDS	1	603	.	+	0	ID=cds.cox113.p1;Parent=cox113.p1
+
+cox114	transdecoder	gene	1	695	.	+	.	ID=GENE.cox114~~cox114.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29%2Cscore%3D283.82
+cox114	transdecoder	mRNA	1	695	.	+	.	ID=cox114.p1;Parent=GENE.cox114~~cox114.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29%2Cscore%3D283.82
+cox114	transdecoder	exon	1	695	.	+	.	ID=cox114.p1.exon1;Parent=cox114.p1
+cox114	transdecoder	CDS	1	693	.	+	0	ID=cds.cox114.p1;Parent=cox114.p1
+cox114	transdecoder	three_prime_UTR	694	695	.	+	.	ID=cox114.p1.utr3p1;Parent=cox114.p1
+
+cox115	transdecoder	gene	1	563	.	+	.	ID=GENE.cox115~~cox115.p1;Name=ORF%20type%3A3prime_partial%20len%3A188%20%28%2B%29%2Cscore%3D275.96
+cox115	transdecoder	mRNA	1	563	.	+	.	ID=cox115.p1;Parent=GENE.cox115~~cox115.p1;Name=ORF%20type%3A3prime_partial%20len%3A188%20%28%2B%29%2Cscore%3D275.96
+cox115	transdecoder	exon	1	563	.	+	.	ID=cox115.p1.exon1;Parent=cox115.p1
+cox115	transdecoder	CDS	1	561	.	+	0	ID=cds.cox115.p1;Parent=cox115.p1
+cox115	transdecoder	three_prime_UTR	562	563	.	+	.	ID=cox115.p1.utr3p1;Parent=cox115.p1
+
+cox116	transdecoder	gene	1	615	.	+	.	ID=GENE.cox116~~cox116.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D309.20
+cox116	transdecoder	mRNA	1	615	.	+	.	ID=cox116.p1;Parent=GENE.cox116~~cox116.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D309.20
+cox116	transdecoder	exon	1	615	.	+	.	ID=cox116.p1.exon1;Parent=cox116.p1
+cox116	transdecoder	CDS	1	615	.	+	0	ID=cds.cox116.p1;Parent=cox116.p1
+
+cox117	transdecoder	gene	1	579	.	+	.	ID=GENE.cox117~~cox117.p1;Name=ORF%20type%3Ainternal%20len%3A194%20%28%2B%29%2Cscore%3D266.19
+cox117	transdecoder	mRNA	1	579	.	+	.	ID=cox117.p1;Parent=GENE.cox117~~cox117.p1;Name=ORF%20type%3Ainternal%20len%3A194%20%28%2B%29%2Cscore%3D266.19
+cox117	transdecoder	exon	1	579	.	+	.	ID=cox117.p1.exon1;Parent=cox117.p1
+cox117	transdecoder	CDS	1	579	.	+	0	ID=cds.cox117.p1;Parent=cox117.p1
+
+cox118	transdecoder	gene	1	615	.	+	.	ID=GENE.cox118~~cox118.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D302.37
+cox118	transdecoder	mRNA	1	615	.	+	.	ID=cox118.p1;Parent=GENE.cox118~~cox118.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D302.37
+cox118	transdecoder	exon	1	615	.	+	.	ID=cox118.p1.exon1;Parent=cox118.p1
+cox118	transdecoder	CDS	1	615	.	+	0	ID=cds.cox118.p1;Parent=cox118.p1
+
+cox119	transdecoder	gene	1	615	.	+	.	ID=GENE.cox119~~cox119.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D305.30
+cox119	transdecoder	mRNA	1	615	.	+	.	ID=cox119.p1;Parent=GENE.cox119~~cox119.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D305.30
+cox119	transdecoder	exon	1	615	.	+	.	ID=cox119.p1.exon1;Parent=cox119.p1
+cox119	transdecoder	CDS	1	615	.	+	0	ID=cds.cox119.p1;Parent=cox119.p1
+
+cox12	transdecoder	gene	1	563	.	+	.	ID=GENE.cox12~~cox12.p1;Name=ORF%20type%3Ainternal%20len%3A188%20%28%2B%29%2Cscore%3D253.53
+cox12	transdecoder	mRNA	1	563	.	+	.	ID=cox12.p1;Parent=GENE.cox12~~cox12.p1;Name=ORF%20type%3Ainternal%20len%3A188%20%28%2B%29%2Cscore%3D253.53
+cox12	transdecoder	exon	1	563	.	+	.	ID=cox12.p1.exon1;Parent=cox12.p1
+cox12	transdecoder	CDS	1	561	.	+	0	ID=cds.cox12.p1;Parent=cox12.p1
+cox12	transdecoder	three_prime_UTR	562	563	.	+	.	ID=cox12.p1.utr3p1;Parent=cox12.p1
+
+cox120	transdecoder	gene	1	615	.	+	.	ID=GENE.cox120~~cox120.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D311.02
+cox120	transdecoder	mRNA	1	615	.	+	.	ID=cox120.p1;Parent=GENE.cox120~~cox120.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D311.02
+cox120	transdecoder	exon	1	615	.	+	.	ID=cox120.p1.exon1;Parent=cox120.p1
+cox120	transdecoder	CDS	1	615	.	+	0	ID=cds.cox120.p1;Parent=cox120.p1
+
+cox121	transdecoder	gene	1	615	.	+	.	ID=GENE.cox121~~cox121.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D264.27
+cox121	transdecoder	mRNA	1	615	.	+	.	ID=cox121.p1;Parent=GENE.cox121~~cox121.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D264.27
+cox121	transdecoder	exon	1	615	.	+	.	ID=cox121.p1.exon1;Parent=cox121.p1
+cox121	transdecoder	CDS	1	615	.	+	0	ID=cds.cox121.p1;Parent=cox121.p1
+
+cox122	transdecoder	gene	1	615	.	+	.	ID=GENE.cox122~~cox122.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D289.58
+cox122	transdecoder	mRNA	1	615	.	+	.	ID=cox122.p1;Parent=GENE.cox122~~cox122.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D289.58
+cox122	transdecoder	exon	1	615	.	+	.	ID=cox122.p1.exon1;Parent=cox122.p1
+cox122	transdecoder	CDS	1	615	.	+	0	ID=cds.cox122.p1;Parent=cox122.p1
+
+cox123	transdecoder	gene	1	615	.	+	.	ID=GENE.cox123~~cox123.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D272.89
+cox123	transdecoder	mRNA	1	615	.	+	.	ID=cox123.p1;Parent=GENE.cox123~~cox123.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D272.89
+cox123	transdecoder	exon	1	615	.	+	.	ID=cox123.p1.exon1;Parent=cox123.p1
+cox123	transdecoder	CDS	1	615	.	+	0	ID=cds.cox123.p1;Parent=cox123.p1
+
+cox124	transdecoder	gene	1	615	.	+	.	ID=GENE.cox124~~cox124.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D279.90
+cox124	transdecoder	mRNA	1	615	.	+	.	ID=cox124.p1;Parent=GENE.cox124~~cox124.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D279.90
+cox124	transdecoder	exon	1	615	.	+	.	ID=cox124.p1.exon1;Parent=cox124.p1
+cox124	transdecoder	CDS	1	615	.	+	0	ID=cds.cox124.p1;Parent=cox124.p1
+
+cox125	transdecoder	gene	1	611	.	+	.	ID=GENE.cox125~~cox125.p1;Name=ORF%20type%3Ainternal%20len%3A204%20%28%2B%29%2Cscore%3D305.94
+cox125	transdecoder	mRNA	1	611	.	+	.	ID=cox125.p1;Parent=GENE.cox125~~cox125.p1;Name=ORF%20type%3Ainternal%20len%3A204%20%28%2B%29%2Cscore%3D305.94
+cox125	transdecoder	exon	1	611	.	+	.	ID=cox125.p1.exon1;Parent=cox125.p1
+cox125	transdecoder	CDS	1	609	.	+	0	ID=cds.cox125.p1;Parent=cox125.p1
+cox125	transdecoder	three_prime_UTR	610	611	.	+	.	ID=cox125.p1.utr3p1;Parent=cox125.p1
+
+cox126	transdecoder	gene	1	615	.	+	.	ID=GENE.cox126~~cox126.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D286.51
+cox126	transdecoder	mRNA	1	615	.	+	.	ID=cox126.p1;Parent=GENE.cox126~~cox126.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D286.51
+cox126	transdecoder	exon	1	615	.	+	.	ID=cox126.p1.exon1;Parent=cox126.p1
+cox126	transdecoder	CDS	1	615	.	+	0	ID=cds.cox126.p1;Parent=cox126.p1
+
+cox127	transdecoder	gene	1	615	.	+	.	ID=GENE.cox127~~cox127.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D271.72
+cox127	transdecoder	mRNA	1	615	.	+	.	ID=cox127.p1;Parent=GENE.cox127~~cox127.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D271.72
+cox127	transdecoder	exon	1	615	.	+	.	ID=cox127.p1.exon1;Parent=cox127.p1
+cox127	transdecoder	CDS	1	615	.	+	0	ID=cds.cox127.p1;Parent=cox127.p1
+
+cox128	transdecoder	gene	1	615	.	+	.	ID=GENE.cox128~~cox128.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D246.50
+cox128	transdecoder	mRNA	1	615	.	+	.	ID=cox128.p1;Parent=GENE.cox128~~cox128.p1;Name=ORF%20type%3Ainternal%20len%3A206%20%28%2B%29%2Cscore%3D246.50
+cox128	transdecoder	exon	1	615	.	+	.	ID=cox128.p1.exon1;Parent=cox128.p1
+cox128	transdecoder	CDS	1	615	.	+	0	ID=cds.cox128.p1;Parent=cox128.p1
+
+cox129	transdecoder	gene	1	611	.	+	.	ID=GENE.cox129~~cox129.p1;Name=ORF%20type%3Ainternal%20len%3A204%20%28%2B%29%2Cscore%3D268.86
+cox129	transdecoder	mRNA	1	611	.	+	.	ID=cox129.p1;Parent=GENE.cox129~~cox129.p1;Name=ORF%20type%3Ainternal%20len%3A204%20%28%2B%29%2Cscore%3D268.86
+cox129	transdecoder	exon	1	611	.	+	.	ID=cox129.p1.exon1;Parent=cox129.p1
+cox129	transdecoder	CDS	1	609	.	+	0	ID=cds.cox129.p1;Parent=cox129.p1
+cox129	transdecoder	three_prime_UTR	610	611	.	+	.	ID=cox129.p1.utr3p1;Parent=cox129.p1
+
+cox13	transdecoder	gene	1	563	.	+	.	ID=GENE.cox13~~cox13.p1;Name=ORF%20type%3Ainternal%20len%3A188%20%28%2B%29%2Cscore%3D257.81
+cox13	transdecoder	mRNA	1	563	.	+	.	ID=cox13.p1;Parent=GENE.cox13~~cox13.p1;Name=ORF%20type%3Ainternal%20len%3A188%20%28%2B%29%2Cscore%3D257.81
+cox13	transdecoder	exon	1	563	.	+	.	ID=cox13.p1.exon1;Parent=cox13.p1
+cox13	transdecoder	CDS	1	561	.	+	0	ID=cds.cox13.p1;Parent=cox13.p1
+cox13	transdecoder	three_prime_UTR	562	563	.	+	.	ID=cox13.p1.utr3p1;Parent=cox13.p1
+
+cox130	transdecoder	gene	1	631	.	+	.	ID=GENE.cox130~~cox130.p1;Name=ORF%20type%3Ainternal%20len%3A211%20%28%2B%29%2Cscore%3D299.79
+cox130	transdecoder	mRNA	1	631	.	+	.	ID=cox130.p1;Parent=GENE.cox130~~cox130.p1;Name=ORF%20type%3Ainternal%20len%3A211%20%28%2B%29%2Cscore%3D299.79
+cox130	transdecoder	exon	1	631	.	+	.	ID=cox130.p1.exon1;Parent=cox130.p1
+cox130	transdecoder	CDS	1	630	.	+	0	ID=cds.cox130.p1;Parent=cox130.p1
+cox130	transdecoder	three_prime_UTR	631	631	.	+	.	ID=cox130.p1.utr3p1;Parent=cox130.p1
+
+cox131	transdecoder	gene	1	671	.	+	.	ID=GENE.cox131~~cox131.p1;Name=ORF%20type%3Ainternal%20len%3A224%20%28%2B%29%2Cscore%3D288.36
+cox131	transdecoder	mRNA	1	671	.	+	.	ID=cox131.p1;Parent=GENE.cox131~~cox131.p1;Name=ORF%20type%3Ainternal%20len%3A224%20%28%2B%29%2Cscore%3D288.36
+cox131	transdecoder	exon	1	671	.	+	.	ID=cox131.p1.exon1;Parent=cox131.p1
+cox131	transdecoder	CDS	1	669	.	+	0	ID=cds.cox131.p1;Parent=cox131.p1
+cox131	transdecoder	three_prime_UTR	670	671	.	+	.	ID=cox131.p1.utr3p1;Parent=cox131.p1
+
+cox132	transdecoder	gene	1	565	.	+	.	ID=GENE.cox132~~cox132.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D211.85
+cox132	transdecoder	mRNA	1	565	.	+	.	ID=cox132.p1;Parent=GENE.cox132~~cox132.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D211.85
+cox132	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cox132.p1.utr5p1;Parent=cox132.p1
+cox132	transdecoder	exon	1	565	.	+	.	ID=cox132.p1.exon1;Parent=cox132.p1
+cox132	transdecoder	CDS	2	565	.	+	0	ID=cds.cox132.p1;Parent=cox132.p1
+
+cox133	transdecoder	gene	1	591	.	+	.	ID=GENE.cox133~~cox133.p1;Name=ORF%20type%3Ainternal%20len%3A198%20%28%2B%29%2Cscore%3D232.23
+cox133	transdecoder	mRNA	1	591	.	+	.	ID=cox133.p1;Parent=GENE.cox133~~cox133.p1;Name=ORF%20type%3Ainternal%20len%3A198%20%28%2B%29%2Cscore%3D232.23
+cox133	transdecoder	exon	1	591	.	+	.	ID=cox133.p1.exon1;Parent=cox133.p1
+cox133	transdecoder	CDS	1	591	.	+	0	ID=cds.cox133.p1;Parent=cox133.p1
+
+cox134	transdecoder	gene	1	564	.	+	.	ID=GENE.cox134~~cox134.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D195.35
+cox134	transdecoder	mRNA	1	564	.	+	.	ID=cox134.p1;Parent=GENE.cox134~~cox134.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D195.35
+cox134	transdecoder	exon	1	564	.	+	.	ID=cox134.p1.exon1;Parent=cox134.p1
+cox134	transdecoder	CDS	1	564	.	+	0	ID=cds.cox134.p1;Parent=cox134.p1
+
+cox135	transdecoder	gene	1	614	.	+	.	ID=GENE.cox135~~cox135.p1;Name=ORF%20type%3Ainternal%20len%3A205%20%28%2B%29%2Cscore%3D235.43
+cox135	transdecoder	mRNA	1	614	.	+	.	ID=cox135.p1;Parent=GENE.cox135~~cox135.p1;Name=ORF%20type%3Ainternal%20len%3A205%20%28%2B%29%2Cscore%3D235.43
+cox135	transdecoder	exon	1	614	.	+	.	ID=cox135.p1.exon1;Parent=cox135.p1
+cox135	transdecoder	CDS	1	612	.	+	0	ID=cds.cox135.p1;Parent=cox135.p1
+cox135	transdecoder	three_prime_UTR	613	614	.	+	.	ID=cox135.p1.utr3p1;Parent=cox135.p1
+
+cox136	transdecoder	gene	1	586	.	+	.	ID=GENE.cox136~~cox136.p1;Name=ORF%20type%3Ainternal%20len%3A196%20%28%2B%29%2Cscore%3D236.37
+cox136	transdecoder	mRNA	1	586	.	+	.	ID=cox136.p1;Parent=GENE.cox136~~cox136.p1;Name=ORF%20type%3Ainternal%20len%3A196%20%28%2B%29%2Cscore%3D236.37
+cox136	transdecoder	exon	1	586	.	+	.	ID=cox136.p1.exon1;Parent=cox136.p1
+cox136	transdecoder	CDS	1	585	.	+	0	ID=cds.cox136.p1;Parent=cox136.p1
+cox136	transdecoder	three_prime_UTR	586	586	.	+	.	ID=cox136.p1.utr3p1;Parent=cox136.p1
+
+cox137	transdecoder	gene	1	591	.	+	.	ID=GENE.cox137~~cox137.p1;Name=ORF%20type%3Ainternal%20len%3A198%20%28%2B%29%2Cscore%3D236.68
+cox137	transdecoder	mRNA	1	591	.	+	.	ID=cox137.p1;Parent=GENE.cox137~~cox137.p1;Name=ORF%20type%3Ainternal%20len%3A198%20%28%2B%29%2Cscore%3D236.68
+cox137	transdecoder	exon	1	591	.	+	.	ID=cox137.p1.exon1;Parent=cox137.p1
+cox137	transdecoder	CDS	1	591	.	+	0	ID=cds.cox137.p1;Parent=cox137.p1
+
+cox138	transdecoder	gene	1	647	.	+	.	ID=GENE.cox138~~cox138.p1;Name=ORF%20type%3Ainternal%20len%3A216%20%28%2B%29%2Cscore%3D296.26
+cox138	transdecoder	mRNA	1	647	.	+	.	ID=cox138.p1;Parent=GENE.cox138~~cox138.p1;Name=ORF%20type%3Ainternal%20len%3A216%20%28%2B%29%2Cscore%3D296.26
+cox138	transdecoder	exon	1	647	.	+	.	ID=cox138.p1.exon1;Parent=cox138.p1
+cox138	transdecoder	CDS	1	645	.	+	0	ID=cds.cox138.p1;Parent=cox138.p1
+cox138	transdecoder	three_prime_UTR	646	647	.	+	.	ID=cox138.p1.utr3p1;Parent=cox138.p1
+
+cox139	transdecoder	gene	1	545	.	+	.	ID=GENE.cox139~~cox139.p1;Name=ORF%20type%3Ainternal%20len%3A182%20%28%2B%29%2Cscore%3D233.28
+cox139	transdecoder	mRNA	1	545	.	+	.	ID=cox139.p1;Parent=GENE.cox139~~cox139.p1;Name=ORF%20type%3Ainternal%20len%3A182%20%28%2B%29%2Cscore%3D233.28
+cox139	transdecoder	exon	1	545	.	+	.	ID=cox139.p1.exon1;Parent=cox139.p1
+cox139	transdecoder	CDS	1	543	.	+	0	ID=cds.cox139.p1;Parent=cox139.p1
+cox139	transdecoder	three_prime_UTR	544	545	.	+	.	ID=cox139.p1.utr3p1;Parent=cox139.p1
+
+cox140	transdecoder	gene	1	421	.	+	.	ID=GENE.cox140~~cox140.p1;Name=ORF%20type%3A3prime_partial%20len%3A140%20%28%2B%29%2Cscore%3D175.45
+cox140	transdecoder	mRNA	1	421	.	+	.	ID=cox140.p1;Parent=GENE.cox140~~cox140.p1;Name=ORF%20type%3A3prime_partial%20len%3A140%20%28%2B%29%2Cscore%3D175.45
+cox140	transdecoder	five_prime_UTR	1	2	.	+	.	ID=cox140.p1.utr5p1;Parent=cox140.p1
+cox140	transdecoder	exon	1	421	.	+	.	ID=cox140.p1.exon1;Parent=cox140.p1
+cox140	transdecoder	CDS	3	419	.	+	0	ID=cds.cox140.p1;Parent=cox140.p1
+cox140	transdecoder	three_prime_UTR	420	421	.	+	.	ID=cox140.p1.utr3p1;Parent=cox140.p1
+
+cox141	transdecoder	gene	1	487	.	+	.	ID=GENE.cox141~~cox141.p1;Name=ORF%20type%3Ainternal%20len%3A162%20%28%2B%29%2Cscore%3D198.03
+cox141	transdecoder	mRNA	1	487	.	+	.	ID=cox141.p1;Parent=GENE.cox141~~cox141.p1;Name=ORF%20type%3Ainternal%20len%3A162%20%28%2B%29%2Cscore%3D198.03
+cox141	transdecoder	five_prime_UTR	1	2	.	+	.	ID=cox141.p1.utr5p1;Parent=cox141.p1
+cox141	transdecoder	exon	1	487	.	+	.	ID=cox141.p1.exon1;Parent=cox141.p1
+cox141	transdecoder	CDS	3	485	.	+	0	ID=cds.cox141.p1;Parent=cox141.p1
+cox141	transdecoder	three_prime_UTR	486	487	.	+	.	ID=cox141.p1.utr3p1;Parent=cox141.p1
+
+cox142	transdecoder	gene	1	602	.	+	.	ID=GENE.cox142~~cox142.p1;Name=ORF%20type%3Ainternal%20len%3A201%20%28%2B%29%2Cscore%3D261.65
+cox142	transdecoder	mRNA	1	602	.	+	.	ID=cox142.p1;Parent=GENE.cox142~~cox142.p1;Name=ORF%20type%3Ainternal%20len%3A201%20%28%2B%29%2Cscore%3D261.65
+cox142	transdecoder	exon	1	602	.	+	.	ID=cox142.p1.exon1;Parent=cox142.p1
+cox142	transdecoder	CDS	1	600	.	+	0	ID=cds.cox142.p1;Parent=cox142.p1
+cox142	transdecoder	three_prime_UTR	601	602	.	+	.	ID=cox142.p1.utr3p1;Parent=cox142.p1
+
+cox143	transdecoder	gene	1	647	.	+	.	ID=GENE.cox143~~cox143.p1;Name=ORF%20type%3Ainternal%20len%3A216%20%28%2B%29%2Cscore%3D251.53
+cox143	transdecoder	mRNA	1	647	.	+	.	ID=cox143.p1;Parent=GENE.cox143~~cox143.p1;Name=ORF%20type%3Ainternal%20len%3A216%20%28%2B%29%2Cscore%3D251.53
+cox143	transdecoder	exon	1	647	.	+	.	ID=cox143.p1.exon1;Parent=cox143.p1
+cox143	transdecoder	CDS	1	645	.	+	0	ID=cds.cox143.p1;Parent=cox143.p1
+cox143	transdecoder	three_prime_UTR	646	647	.	+	.	ID=cox143.p1.utr3p1;Parent=cox143.p1
+
+cox144	transdecoder	gene	1	564	.	+	.	ID=GENE.cox144~~cox144.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D195.35
+cox144	transdecoder	mRNA	1	564	.	+	.	ID=cox144.p1;Parent=GENE.cox144~~cox144.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D195.35
+cox144	transdecoder	exon	1	564	.	+	.	ID=cox144.p1.exon1;Parent=cox144.p1
+cox144	transdecoder	CDS	1	564	.	+	0	ID=cds.cox144.p1;Parent=cox144.p1
+
+cox145	transdecoder	gene	1	647	.	+	.	ID=GENE.cox145~~cox145.p1;Name=ORF%20type%3Ainternal%20len%3A216%20%28%2B%29%2Cscore%3D256.95
+cox145	transdecoder	mRNA	1	647	.	+	.	ID=cox145.p1;Parent=GENE.cox145~~cox145.p1;Name=ORF%20type%3Ainternal%20len%3A216%20%28%2B%29%2Cscore%3D256.95
+cox145	transdecoder	exon	1	647	.	+	.	ID=cox145.p1.exon1;Parent=cox145.p1
+cox145	transdecoder	CDS	1	645	.	+	0	ID=cds.cox145.p1;Parent=cox145.p1
+cox145	transdecoder	three_prime_UTR	646	647	.	+	.	ID=cox145.p1.utr3p1;Parent=cox145.p1
+
+cox146	transdecoder	gene	1	606	.	+	.	ID=GENE.cox146~~cox146.p1;Name=ORF%20type%3Ainternal%20len%3A203%20%28%2B%29%2Cscore%3D247.17
+cox146	transdecoder	mRNA	1	606	.	+	.	ID=cox146.p1;Parent=GENE.cox146~~cox146.p1;Name=ORF%20type%3Ainternal%20len%3A203%20%28%2B%29%2Cscore%3D247.17
+cox146	transdecoder	exon	1	606	.	+	.	ID=cox146.p1.exon1;Parent=cox146.p1
+cox146	transdecoder	CDS	1	606	.	+	0	ID=cds.cox146.p1;Parent=cox146.p1
+
+cox147	transdecoder	gene	1	548	.	+	.	ID=GENE.cox147~~cox147.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29%2Cscore%3D210.43
+cox147	transdecoder	mRNA	1	548	.	+	.	ID=cox147.p1;Parent=GENE.cox147~~cox147.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29%2Cscore%3D210.43
+cox147	transdecoder	exon	1	548	.	+	.	ID=cox147.p1.exon1;Parent=cox147.p1
+cox147	transdecoder	CDS	1	546	.	+	0	ID=cds.cox147.p1;Parent=cox147.p1
+cox147	transdecoder	three_prime_UTR	547	548	.	+	.	ID=cox147.p1.utr3p1;Parent=cox147.p1
+
+cox148	transdecoder	gene	1	459	.	+	.	ID=GENE.cox148~~cox148.p1;Name=ORF%20type%3A3prime_partial%20len%3A154%20%28%2B%29%2Cscore%3D214.44
+cox148	transdecoder	mRNA	1	459	.	+	.	ID=cox148.p1;Parent=GENE.cox148~~cox148.p1;Name=ORF%20type%3A3prime_partial%20len%3A154%20%28%2B%29%2Cscore%3D214.44
+cox148	transdecoder	exon	1	459	.	+	.	ID=cox148.p1.exon1;Parent=cox148.p1
+cox148	transdecoder	CDS	1	459	.	+	0	ID=cds.cox148.p1;Parent=cox148.p1
+
+cox149	transdecoder	gene	1	565	.	+	.	ID=GENE.cox149~~cox149.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D238.97
+cox149	transdecoder	mRNA	1	565	.	+	.	ID=cox149.p1;Parent=GENE.cox149~~cox149.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D238.97
+cox149	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cox149.p1.utr5p1;Parent=cox149.p1
+cox149	transdecoder	exon	1	565	.	+	.	ID=cox149.p1.exon1;Parent=cox149.p1
+cox149	transdecoder	CDS	2	565	.	+	0	ID=cds.cox149.p1;Parent=cox149.p1
+
+cox150	transdecoder	gene	1	620	.	+	.	ID=GENE.cox150~~cox150.p1;Name=ORF%20type%3Ainternal%20len%3A207%20%28%2B%29%2Cscore%3D268.41
+cox150	transdecoder	mRNA	1	620	.	+	.	ID=cox150.p1;Parent=GENE.cox150~~cox150.p1;Name=ORF%20type%3Ainternal%20len%3A207%20%28%2B%29%2Cscore%3D268.41
+cox150	transdecoder	exon	1	620	.	+	.	ID=cox150.p1.exon1;Parent=cox150.p1
+cox150	transdecoder	CDS	1	618	.	+	0	ID=cds.cox150.p1;Parent=cox150.p1
+cox150	transdecoder	three_prime_UTR	619	620	.	+	.	ID=cox150.p1.utr3p1;Parent=cox150.p1
+
+cox151	transdecoder	gene	1	439	.	+	.	ID=GENE.cox151~~cox151.p1;Name=ORF%20type%3Ainternal%20len%3A147%20%28%2B%29%2Cscore%3D214.37
+cox151	transdecoder	mRNA	1	439	.	+	.	ID=cox151.p1;Parent=GENE.cox151~~cox151.p1;Name=ORF%20type%3Ainternal%20len%3A147%20%28%2B%29%2Cscore%3D214.37
+cox151	transdecoder	exon	1	439	.	+	.	ID=cox151.p1.exon1;Parent=cox151.p1
+cox151	transdecoder	CDS	1	438	.	+	0	ID=cds.cox151.p1;Parent=cox151.p1
+cox151	transdecoder	three_prime_UTR	439	439	.	+	.	ID=cox151.p1.utr3p1;Parent=cox151.p1
+
+cox152	transdecoder	gene	1	621	.	+	.	ID=GENE.cox152~~cox152.p1;Name=ORF%20type%3Ainternal%20len%3A208%20%28%2B%29%2Cscore%3D252.95
+cox152	transdecoder	mRNA	1	621	.	+	.	ID=cox152.p1;Parent=GENE.cox152~~cox152.p1;Name=ORF%20type%3Ainternal%20len%3A208%20%28%2B%29%2Cscore%3D252.95
+cox152	transdecoder	exon	1	621	.	+	.	ID=cox152.p1.exon1;Parent=cox152.p1
+cox152	transdecoder	CDS	1	621	.	+	0	ID=cds.cox152.p1;Parent=cox152.p1
+
+cox153	transdecoder	gene	1	564	.	+	.	ID=GENE.cox153~~cox153.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D214.48
+cox153	transdecoder	mRNA	1	564	.	+	.	ID=cox153.p1;Parent=GENE.cox153~~cox153.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D214.48
+cox153	transdecoder	exon	1	564	.	+	.	ID=cox153.p1.exon1;Parent=cox153.p1
+cox153	transdecoder	CDS	1	564	.	+	0	ID=cds.cox153.p1;Parent=cox153.p1
+
+cox154	transdecoder	gene	1	564	.	+	.	ID=GENE.cox154~~cox154.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D227.56
+cox154	transdecoder	mRNA	1	564	.	+	.	ID=cox154.p1;Parent=GENE.cox154~~cox154.p1;Name=ORF%20type%3Ainternal%20len%3A189%20%28%2B%29%2Cscore%3D227.56
+cox154	transdecoder	exon	1	564	.	+	.	ID=cox154.p1.exon1;Parent=cox154.p1
+cox154	transdecoder	CDS	1	564	.	+	0	ID=cds.cox154.p1;Parent=cox154.p1
+
+cox155	transdecoder	gene	1	601	.	+	.	ID=GENE.cox155~~cox155.p1;Name=ORF%20type%3Ainternal%20len%3A201%20%28%2B%29%2Cscore%3D295.82
+cox155	transdecoder	mRNA	1	601	.	+	.	ID=cox155.p1;Parent=GENE.cox155~~cox155.p1;Name=ORF%20type%3Ainternal%20len%3A201%20%28%2B%29%2Cscore%3D295.82
+cox155	transdecoder	exon	1	601	.	+	.	ID=cox155.p1.exon1;Parent=cox155.p1
+cox155	transdecoder	CDS	1	600	.	+	0	ID=cds.cox155.p1;Parent=cox155.p1
+cox155	transdecoder	three_prime_UTR	601	601	.	+	.	ID=cox155.p1.utr3p1;Parent=cox155.p1
+
+cox156	transdecoder	gene	1	663	.	+	.	ID=GENE.cox156~~cox156.p1;Name=ORF%20type%3Ainternal%20len%3A222%20%28%2B%29%2Cscore%3D326.00
+cox156	transdecoder	mRNA	1	663	.	+	.	ID=cox156.p1;Parent=GENE.cox156~~cox156.p1;Name=ORF%20type%3Ainternal%20len%3A222%20%28%2B%29%2Cscore%3D326.00
+cox156	transdecoder	exon	1	663	.	+	.	ID=cox156.p1.exon1;Parent=cox156.p1
+cox156	transdecoder	CDS	1	663	.	+	0	ID=cds.cox156.p1;Parent=cox156.p1
+
+cox157	transdecoder	gene	1	636	.	+	.	ID=GENE.cox157~~cox157.p1;Name=ORF%20type%3Ainternal%20len%3A212%20%28%2B%29%2Cscore%3D320.27
+cox157	transdecoder	mRNA	1	636	.	+	.	ID=cox157.p1;Parent=GENE.cox157~~cox157.p1;Name=ORF%20type%3Ainternal%20len%3A212%20%28%2B%29%2Cscore%3D320.27
+cox157	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cox157.p1.utr5p1;Parent=cox157.p1
+cox157	transdecoder	exon	1	636	.	+	.	ID=cox157.p1.exon1;Parent=cox157.p1
+cox157	transdecoder	CDS	2	634	.	+	0	ID=cds.cox157.p1;Parent=cox157.p1
+cox157	transdecoder	three_prime_UTR	635	636	.	+	.	ID=cox157.p1.utr3p1;Parent=cox157.p1
+
+cox158	transdecoder	gene	1	665	.	+	.	ID=GENE.cox158~~cox158.p1;Name=ORF%20type%3Ainternal%20len%3A222%20%28%2B%29%2Cscore%3D307.00
+cox158	transdecoder	mRNA	1	665	.	+	.	ID=cox158.p1;Parent=GENE.cox158~~cox158.p1;Name=ORF%20type%3Ainternal%20len%3A222%20%28%2B%29%2Cscore%3D307.00
+cox158	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cox158.p1.utr5p1;Parent=cox158.p1
+cox158	transdecoder	exon	1	665	.	+	.	ID=cox158.p1.exon1;Parent=cox158.p1
+cox158	transdecoder	CDS	2	664	.	+	0	ID=cds.cox158.p1;Parent=cox158.p1
+cox158	transdecoder	three_prime_UTR	665	665	.	+	.	ID=cox158.p1.utr3p1;Parent=cox158.p1
+
+cox159	transdecoder	gene	1	665	.	+	.	ID=GENE.cox159~~cox159.p1;Name=ORF%20type%3Ainternal%20len%3A222%20%28%2B%29%2Cscore%3D284.44
+cox159	transdecoder	mRNA	1	665	.	+	.	ID=cox159.p1;Parent=GENE.cox159~~cox159.p1;Name=ORF%20type%3Ainternal%20len%3A222%20%28%2B%29%2Cscore%3D284.44
+cox159	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cox159.p1.utr5p1;Parent=cox159.p1
+cox159	transdecoder	exon	1	665	.	+	.	ID=cox159.p1.exon1;Parent=cox159.p1
+cox159	transdecoder	CDS	2	664	.	+	0	ID=cds.cox159.p1;Parent=cox159.p1
+cox159	transdecoder	three_prime_UTR	665	665	.	+	.	ID=cox159.p1.utr3p1;Parent=cox159.p1
+
+cox160	transdecoder	gene	1	651	.	+	.	ID=GENE.cox160~~cox160.p1;Name=ORF%20type%3Ainternal%20len%3A217%20%28%2B%29%2Cscore%3D281.17
+cox160	transdecoder	mRNA	1	651	.	+	.	ID=cox160.p1;Parent=GENE.cox160~~cox160.p1;Name=ORF%20type%3Ainternal%20len%3A217%20%28%2B%29%2Cscore%3D281.17
+cox160	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cox160.p1.utr5p1;Parent=cox160.p1
+cox160	transdecoder	exon	1	651	.	+	.	ID=cox160.p1.exon1;Parent=cox160.p1
+cox160	transdecoder	CDS	2	649	.	+	0	ID=cds.cox160.p1;Parent=cox160.p1
+cox160	transdecoder	three_prime_UTR	650	651	.	+	.	ID=cox160.p1.utr3p1;Parent=cox160.p1
+
+cox161	transdecoder	gene	1	623	.	+	.	ID=GENE.cox161~~cox161.p1;Name=ORF%20type%3Ainternal%20len%3A208%20%28%2B%29%2Cscore%3D255.22
+cox161	transdecoder	mRNA	1	623	.	+	.	ID=cox161.p1;Parent=GENE.cox161~~cox161.p1;Name=ORF%20type%3Ainternal%20len%3A208%20%28%2B%29%2Cscore%3D255.22
+cox161	transdecoder	exon	1	623	.	+	.	ID=cox161.p1.exon1;Parent=cox161.p1
+cox161	transdecoder	CDS	1	621	.	+	0	ID=cds.cox161.p1;Parent=cox161.p1
+cox161	transdecoder	three_prime_UTR	622	623	.	+	.	ID=cox161.p1.utr3p1;Parent=cox161.p1
+
+cox162	transdecoder	gene	1	623	.	+	.	ID=GENE.cox162~~cox162.p1;Name=ORF%20type%3Ainternal%20len%3A208%20%28%2B%29%2Cscore%3D278.87
+cox162	transdecoder	mRNA	1	623	.	+	.	ID=cox162.p1;Parent=GENE.cox162~~cox162.p1;Name=ORF%20type%3Ainternal%20len%3A208%20%28%2B%29%2Cscore%3D278.87
+cox162	transdecoder	exon	1	623	.	+	.	ID=cox162.p1.exon1;Parent=cox162.p1
+cox162	transdecoder	CDS	1	621	.	+	0	ID=cds.cox162.p1;Parent=cox162.p1
+cox162	transdecoder	three_prime_UTR	622	623	.	+	.	ID=cox162.p1.utr3p1;Parent=cox162.p1
+
+cox163	transdecoder	gene	1	656	.	+	.	ID=GENE.cox163~~cox163.p1;Name=ORF%20type%3Ainternal%20len%3A219%20%28%2B%29%2Cscore%3D307.77
+cox163	transdecoder	mRNA	1	656	.	+	.	ID=cox163.p1;Parent=GENE.cox163~~cox163.p1;Name=ORF%20type%3Ainternal%20len%3A219%20%28%2B%29%2Cscore%3D307.77
+cox163	transdecoder	exon	1	656	.	+	.	ID=cox163.p1.exon1;Parent=cox163.p1
+cox163	transdecoder	CDS	1	654	.	+	0	ID=cds.cox163.p1;Parent=cox163.p1
+cox163	transdecoder	three_prime_UTR	655	656	.	+	.	ID=cox163.p1.utr3p1;Parent=cox163.p1
+
+cox18	transdecoder	gene	1	673	.	+	.	ID=GENE.cox18~~cox18.p1;Name=ORF%20type%3Ainternal%20len%3A224%20%28%2B%29%2Cscore%3D302.66
+cox18	transdecoder	mRNA	1	673	.	+	.	ID=cox18.p1;Parent=GENE.cox18~~cox18.p1;Name=ORF%20type%3Ainternal%20len%3A224%20%28%2B%29%2Cscore%3D302.66
+cox18	transdecoder	five_prime_UTR	1	2	.	+	.	ID=cox18.p1.utr5p1;Parent=cox18.p1
+cox18	transdecoder	exon	1	673	.	+	.	ID=cox18.p1.exon1;Parent=cox18.p1
+cox18	transdecoder	CDS	3	671	.	+	0	ID=cds.cox18.p1;Parent=cox18.p1
+cox18	transdecoder	three_prime_UTR	672	673	.	+	.	ID=cox18.p1.utr3p1;Parent=cox18.p1
+
+cox19	transdecoder	gene	1	696	.	+	.	ID=GENE.cox19~~cox19.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29%2Cscore%3D284.07
+cox19	transdecoder	mRNA	1	696	.	+	.	ID=cox19.p1;Parent=GENE.cox19~~cox19.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29%2Cscore%3D284.07
+cox19	transdecoder	five_prime_UTR	1	2	.	+	.	ID=cox19.p1.utr5p1;Parent=cox19.p1
+cox19	transdecoder	exon	1	696	.	+	.	ID=cox19.p1.exon1;Parent=cox19.p1
+cox19	transdecoder	CDS	3	695	.	+	0	ID=cds.cox19.p1;Parent=cox19.p1
+cox19	transdecoder	three_prime_UTR	696	696	.	+	.	ID=cox19.p1.utr3p1;Parent=cox19.p1
+

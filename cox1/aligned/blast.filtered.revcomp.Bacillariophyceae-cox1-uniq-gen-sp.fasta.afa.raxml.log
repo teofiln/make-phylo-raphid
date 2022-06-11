@@ -1,0 +1,106 @@
+
+RAxML-NG v. 1.1.0 released on 29.11.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, 4 cores, 7 GB RAM
+
+RAxML-NG was called at 08-Jun-2022 10:46:38 as follows:
+
+./raxml-ng --search1 --msa cox1/aligned/blast.filtered.revcomp.Bacillariophyceae-cox1-uniq-gen-sp.fasta.afa --model GTR+G --prefix cox1/aligned/blast.filtered.revcomp.Bacillariophyceae-cox1-uniq-gen-sp.fasta.afa --threads 8 --seed 2
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (1)
+  random seed: 2
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000000
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (8 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: cox1/aligned/blast.filtered.revcomp.Bacillariophyceae-cox1-uniq-gen-sp.fasta.afa
+[00:00:00] Loaded alignment with 59 taxa and 972 sites
+
+WARNING: Sequences cox134.p1 and cox144.p1 are exactly identical!
+WARNING: Duplicate sequences found: 1
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /home/teo/src/make-phylo-raphid/cox1/aligned/blast.filtered.revcomp.Bacillariophyceae-cox1-uniq-gen-sp.fasta.afa.raxml.reduced.phy
+
+Alignment comprises 1 partitions and 429 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 972 / 429
+Gaps: 37.91 %
+Invariant sites: 64.92 %
+
+
+NOTE: Binary MSA file created: cox1/aligned/blast.filtered.revcomp.Bacillariophyceae-cox1-uniq-gen-sp.fasta.afa.raxml.rba
+
+Parallelization scheme autoconfig: 1 worker(s) x 8 thread(s)
+
+Parallel reduction/worker buffer size: 1 KB  / 0 KB
+
+[00:00:00] Generating 1 random starting tree(s) with 59 taxa
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 54 / 864
+[00:00:00] Data distribution: max. searches per worker: 1
+
+Starting ML tree search with 1 distinct starting trees
+
+[00:00:00 -18350.775659] Initial branch length optimization
+[00:00:00 -16550.327916] Model parameter optimization (eps = 10.000000)
+[00:00:00 -14795.108827] AUTODETECT spr round 1 (radius: 5)
+[00:00:00 -11854.059293] AUTODETECT spr round 2 (radius: 10)
+[00:00:00 -11397.414219] AUTODETECT spr round 3 (radius: 15)
+[00:00:00 -11394.108147] AUTODETECT spr round 4 (radius: 20)
+[00:00:00 -11394.106550] SPR radius for FAST iterations: 15 (autodetect)
+[00:00:00 -11394.106550] Model parameter optimization (eps = 3.000000)
+[00:00:01 -11327.044399] FAST spr round 1 (radius: 15)
+[00:00:01 -11161.727030] FAST spr round 2 (radius: 15)
+[00:00:01 -11158.267201] FAST spr round 3 (radius: 15)
+[00:00:01 -11153.487732] FAST spr round 4 (radius: 15)
+[00:00:01 -11152.477013] FAST spr round 5 (radius: 15)
+[00:00:01 -11151.436455] FAST spr round 6 (radius: 15)
+[00:00:02 -11150.710201] FAST spr round 7 (radius: 15)
+[00:00:02 -11150.307274] FAST spr round 8 (radius: 15)
+[00:00:02 -11150.232875] Model parameter optimization (eps = 1.000000)
+[00:00:02 -11149.536428] SLOW spr round 1 (radius: 5)
+[00:00:02 -11149.533020] SLOW spr round 2 (radius: 10)
+[00:00:03 -11149.532997] SLOW spr round 3 (radius: 15)
+[00:00:03 -11149.532996] SLOW spr round 4 (radius: 20)
+[00:00:03 -11149.532996] SLOW spr round 5 (radius: 25)
+[00:00:03 -11149.532996] Model parameter optimization (eps = 0.100000)
+
+[00:00:03] ML tree search #1, logLikelihood: -11149.470932
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.257033 (ML),  weights&rates: (0.250000,0.002456) (0.250000,0.071814) (0.250000,0.516085) (0.250000,3.409645) 
+   Base frequencies (ML): 0.267727 0.116082 0.126437 0.489755 
+   Substitution rates (ML): 0.858861 6.557095 1.967136 0.383753 8.400245 1.000000 
+
+
+Final LogLikelihood: -11149.470932
+
+AIC score: 22546.941864 / AICc score: 22583.541628 / BIC score: 23151.981984
+Free parameters (model + branch lengths): 124
+
+Best ML tree saved to: /home/teo/src/make-phylo-raphid/cox1/aligned/blast.filtered.revcomp.Bacillariophyceae-cox1-uniq-gen-sp.fasta.afa.raxml.bestTree
+Optimized model saved to: /home/teo/src/make-phylo-raphid/cox1/aligned/blast.filtered.revcomp.Bacillariophyceae-cox1-uniq-gen-sp.fasta.afa.raxml.bestModel
+
+Execution log saved to: /home/teo/src/make-phylo-raphid/cox1/aligned/blast.filtered.revcomp.Bacillariophyceae-cox1-uniq-gen-sp.fasta.afa.raxml.log
+
+Analysis started: 08-Jun-2022 10:46:38 / finished: 08-Jun-2022 10:46:42
+
+Elapsed time: 3.909 seconds
+

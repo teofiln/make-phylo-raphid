@@ -1,0 +1,101 @@
+
+RAxML-NG v. 1.1.0 released on 29.11.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, 4 cores, 7 GB RAM
+
+RAxML-NG was called at 08-Jun-2022 10:45:58 as follows:
+
+./raxml-ng --search1 --msa cob/aligned/blast.filtered.revcomp.Bacillariophyceae-cob-uniq-gen-sp.fasta.afa --model GTR+G --prefix cob/aligned/blast.filtered.revcomp.Bacillariophyceae-cob-uniq-gen-sp.fasta.afa --threads 8 --seed 2
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (1)
+  random seed: 2
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000000
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (8 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: cob/aligned/blast.filtered.revcomp.Bacillariophyceae-cob-uniq-gen-sp.fasta.afa
+[00:00:00] Loaded alignment with 68 taxa and 717 sites
+
+Alignment comprises 1 partitions and 483 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 717 / 483
+Gaps: 9.24 %
+Invariant sites: 37.80 %
+
+
+NOTE: Binary MSA file created: cob/aligned/blast.filtered.revcomp.Bacillariophyceae-cob-uniq-gen-sp.fasta.afa.raxml.rba
+
+Parallelization scheme autoconfig: 1 worker(s) x 8 thread(s)
+
+Parallel reduction/worker buffer size: 1 KB  / 0 KB
+
+[00:00:00] Generating 1 random starting tree(s) with 68 taxa
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 61 / 976
+[00:00:00] Data distribution: max. searches per worker: 1
+
+Starting ML tree search with 1 distinct starting trees
+
+[00:00:00 -26361.164785] Initial branch length optimization
+[00:00:00 -23944.058055] Model parameter optimization (eps = 10.000000)
+[00:00:01 -22071.061570] AUTODETECT spr round 1 (radius: 5)
+[00:00:01 -19688.770984] AUTODETECT spr round 2 (radius: 10)
+[00:00:01 -18348.196351] AUTODETECT spr round 3 (radius: 15)
+[00:00:01 -18348.190999] SPR radius for FAST iterations: 10 (autodetect)
+[00:00:01 -18348.190999] Model parameter optimization (eps = 3.000000)
+[00:00:01 -18300.731239] FAST spr round 1 (radius: 10)
+[00:00:02 -18097.727421] FAST spr round 2 (radius: 10)
+[00:00:02 -18077.728094] FAST spr round 3 (radius: 10)
+[00:00:02 -18076.476573] FAST spr round 4 (radius: 10)
+[00:00:02 -18072.669487] FAST spr round 5 (radius: 10)
+[00:00:03 -18071.402510] FAST spr round 6 (radius: 10)
+[00:00:03 -18070.706658] FAST spr round 7 (radius: 10)
+[00:00:03 -18070.486365] FAST spr round 8 (radius: 10)
+[00:00:03 -18070.287609] FAST spr round 9 (radius: 10)
+[00:00:03 -18069.732986] FAST spr round 10 (radius: 10)
+[00:00:04 -18069.732617] Model parameter optimization (eps = 1.000000)
+[00:00:04 -18069.116819] SLOW spr round 1 (radius: 5)
+[00:00:04 -18069.101367] SLOW spr round 2 (radius: 10)
+[00:00:05 -18069.100898] SLOW spr round 3 (radius: 15)
+[00:00:05 -18069.100883] SLOW spr round 4 (radius: 20)
+[00:00:06 -18069.100882] SLOW spr round 5 (radius: 25)
+[00:00:06 -18069.100882] Model parameter optimization (eps = 0.100000)
+
+[00:00:06] ML tree search #1, logLikelihood: -18069.010126
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.283768 (ML),  weights&rates: (0.250000,0.004071) (0.250000,0.091943) (0.250000,0.567509) (0.250000,3.336476) 
+   Base frequencies (ML): 0.324991 0.073695 0.098641 0.502673 
+   Substitution rates (ML): 4.471119 9.594520 0.914817 9.070743 20.273202 1.000000 
+
+
+Final LogLikelihood: -18069.010126
+
+AIC score: 36422.020252 / AICc score: 36492.772865 / BIC score: 37071.681021
+Free parameters (model + branch lengths): 142
+
+Best ML tree saved to: /home/teo/src/make-phylo-raphid/cob/aligned/blast.filtered.revcomp.Bacillariophyceae-cob-uniq-gen-sp.fasta.afa.raxml.bestTree
+Optimized model saved to: /home/teo/src/make-phylo-raphid/cob/aligned/blast.filtered.revcomp.Bacillariophyceae-cob-uniq-gen-sp.fasta.afa.raxml.bestModel
+
+Execution log saved to: /home/teo/src/make-phylo-raphid/cob/aligned/blast.filtered.revcomp.Bacillariophyceae-cob-uniq-gen-sp.fasta.afa.raxml.log
+
+Analysis started: 08-Jun-2022 10:45:58 / finished: 08-Jun-2022 10:46:05
+
+Elapsed time: 6.639 seconds
+

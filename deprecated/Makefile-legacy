@@ -1,0 +1,81 @@
+# TODO: masking rRNA alignments settings?
+
+# download settings
+GENE=rbcl
+MIN_LEN=300
+MAX_LEN=3000
+RIBOSOMAL=no
+OUTDIR=rbcl
+
+# blast settings
+IDENTITY=20
+COVERAGE=40
+
+# list of clades
+CLADES := $(file < Clades)
+
+# generate target file lists
+download := $(shell for i in $(CLADES); do echo $i-$(GENE)-uniq-gene-sp.fasta; done)
+blast := $(for i in $(CLADES); do echo $(OUTDIR)/filtered/blast.filtered.revcomp-$i-$(GENE)-uniq-gene-sp.fasta; done)
+align := $(for i in $(CLADES); do echo $(OUTDIR)/aligned/blast.filtered.revcomp-$i-$(GENE)-uniq-gene-sp.fasta.afa; done)
+
+.PHONY: all
+all: ; $(info $$CLADES is [${CLADES}]) $(info $$download is [${download}])
+
+# .PHONY: all
+# all: $(download)
+
+# .PHONY: download
+# download: $(download)
+
+# $(download) : $(CLADES)
+# 	parallel --keep-order --line-buffer './dl-seqs-tax.sh {} $(GENE) $(MIN_LEN) $(MAX_LEN) $(RIBOSOMAL) $(OUTDIR)' ::: $^
+
+
+# $(OUTDIR)/%uniq-gen-sp.fasta : Clades
+# 	parallel --keep-order --line-buffer './dl-seqs-tax.sh {} $(GENE) $(MIN_LEN) $(MAX_LEN) $(RIBOSOMAL) $(OUTDIR)' ::: $$(cat $(<F))
+
+$(OUTDIR)/filtered/%.fasta : $(OUTDIR)/*uniq-gen-sp.fasta
+	parallel --keep-order --line-buffer './blast-and-filter.sh baits/all-$(GENE)-baits.fa {} 1 20 40' ::: $^
+	\mkdir $(OUTDIR)/intermediary-revcomp-files
+	\mv $(OUTDIR)/ok* $(OUTDIR)/to-be* $(OUTDIR)/rev-comp* $(OUTDIR)/intermediary-revcomp-files
+	\mkdir $(OUTDIR)/filtered/intermediary
+	\mv $(OUTDIR)/filtered/*table $(OUTDIR)/filtered/intermediary
+
+# decide on what align script to use
+ifeq ($(RIBOSOMAL), yes)
+  ALIGNER=./rrna-align.sh
+else
+  ALIGNER=./coding-transd-align.sh
+endif
+
+$(OUTDIR)/aligned/%.afa : $(OUTDIR)/filtered/*.fasta
+	parallel --keep-order --line-buffer '$(ALIGNER) {}' ::: $^
+	\rm -r pipeliner*
+
+# download: $(OUTDIR)/%.fasta
+# 	parallel --keep-order --line-buffer './dl-seqs-tax.sh {} $(GENE) $(MIN_LEN) $(MAX_LEN) $(RIBOSOMAL) $(OUTDIR)' ::: $$(cat $(<F))
+
+# blast: $(OUTDIR)/filtered/%.fasta
+# 	\mkdir $(OUTDIR)/intermediary-revcomp-files
+# 	\mv $(OUTDIR)/ok* $(OUTDIR)/to-be* $(OUTDIR)/rev-comp* $(OUTDIR)/intermediary-revcomp-files
+# 	\mkdir $(OUTDIR)/filtered/intermediary
+# 	\mv $(OUTDIR)/filtered/*table $(OUTDIR)/filtered/intermediary
+
+# align: $(OUTDIR)/aligned/%.afa
+
+# all: $(OUTDIR)/%.fasta $(OUTDIR)/filtered/%.fasta $(OUTDIR)/aligned/%.afa
+
+blastclean:
+	\rm -r $(OUTDIR)/filtered $(OUTDIR)/blastout
+	\rm -r $(OUTDIR)/intermediary-revcomp-files
+
+alignclean:
+	\rm -r $(OUTDIR)/aligned
+
+allclean:
+	\rm -r $(OUTDIR)
+
+rmdeps:
+	\rm -r rg pal2nal.pl TransDecoder.*
+	\rm -r deps/pal2nal.v14/ deps/ripgrep-0.7.1-x86_64-unknown-linux-musl/ deps/TransDecoder-TransDecoder-v5.0.2/

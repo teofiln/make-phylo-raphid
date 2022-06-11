@@ -1,0 +1,199 @@
+atpb1	transdecoder	gene	1	1206	.	+	.	ID=GENE.atpb1~~atpb1.p1;Name=ORF%20type%3Ainternal%20len%3A403%20%28%2B%29
+atpb1	transdecoder	mRNA	1	1206	.	+	.	ID=atpb1.p1;Parent=GENE.atpb1~~atpb1.p1;Name=ORF%20type%3Ainternal%20len%3A403%20%28%2B%29
+atpb1	transdecoder	exon	1	1206	.	+	.	ID=atpb1.p1.exon1;Parent=atpb1.p1
+atpb1	transdecoder	CDS	1	1206	.	+	0	ID=cds.atpb1.p1;Parent=atpb1.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb2	transdecoder	gene	1	1182	.	+	.	ID=GENE.atpb2~~atpb2.p1;Name=ORF%20type%3Ainternal%20len%3A395%20%28%2B%29
+atpb2	transdecoder	mRNA	1	1182	.	+	.	ID=atpb2.p1;Parent=GENE.atpb2~~atpb2.p1;Name=ORF%20type%3Ainternal%20len%3A395%20%28%2B%29
+atpb2	transdecoder	exon	1	1182	.	+	.	ID=atpb2.p1.exon1;Parent=atpb2.p1
+atpb2	transdecoder	CDS	1	1182	.	+	0	ID=cds.atpb2.p1;Parent=atpb2.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb3	transdecoder	gene	1	1236	.	+	.	ID=GENE.atpb3~~atpb3.p1;Name=ORF%20type%3Ainternal%20len%3A413%20%28%2B%29
+atpb3	transdecoder	mRNA	1	1236	.	+	.	ID=atpb3.p1;Parent=GENE.atpb3~~atpb3.p1;Name=ORF%20type%3Ainternal%20len%3A413%20%28%2B%29
+atpb3	transdecoder	exon	1	1236	.	+	.	ID=atpb3.p1.exon1;Parent=atpb3.p1
+atpb3	transdecoder	CDS	1	1236	.	+	0	ID=cds.atpb3.p1;Parent=atpb3.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb4	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb4~~atpb4.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb4	transdecoder	mRNA	1	1287	.	+	.	ID=atpb4.p1;Parent=GENE.atpb4~~atpb4.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb4	transdecoder	exon	1	1287	.	+	.	ID=atpb4.p1.exon1;Parent=atpb4.p1
+atpb4	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb4.p1;Parent=atpb4.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb5	transdecoder	gene	1	1233	.	+	.	ID=GENE.atpb5~~atpb5.p1;Name=ORF%20type%3Ainternal%20len%3A412%20%28%2B%29
+atpb5	transdecoder	mRNA	1	1233	.	+	.	ID=atpb5.p1;Parent=GENE.atpb5~~atpb5.p1;Name=ORF%20type%3Ainternal%20len%3A412%20%28%2B%29
+atpb5	transdecoder	exon	1	1233	.	+	.	ID=atpb5.p1.exon1;Parent=atpb5.p1
+atpb5	transdecoder	CDS	1	1233	.	+	0	ID=cds.atpb5.p1;Parent=atpb5.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb5	transdecoder	gene	1	1233	.	-	.	ID=GENE.atpb5~~atpb5.p2;Name=ORF%20type%3Acomplete%20len%3A140%20%28-%29
+atpb5	transdecoder	mRNA	1	1233	.	-	.	ID=atpb5.p2;Parent=GENE.atpb5~~atpb5.p2;Name=ORF%20type%3Acomplete%20len%3A140%20%28-%29
+atpb5	transdecoder	five_prime_UTR	684	1233	.	-	.	ID=atpb5.p2.utr5p1;Parent=atpb5.p2
+atpb5	transdecoder	exon	1	1233	.	-	.	ID=atpb5.p2.exon1;Parent=atpb5.p2
+atpb5	transdecoder	CDS	264	683	.	-	0	ID=cds.atpb5.p2;Parent=atpb5.p2
+atpb5	transdecoder	three_prime_UTR	1	263	.	-	.	ID=atpb5.p2.utr3p1;Parent=atpb5.p2
+
+atpb6	transdecoder	gene	1	1281	.	+	.	ID=GENE.atpb6~~atpb6.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb6	transdecoder	mRNA	1	1281	.	+	.	ID=atpb6.p1;Parent=GENE.atpb6~~atpb6.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb6	transdecoder	exon	1	1281	.	+	.	ID=atpb6.p1.exon1;Parent=atpb6.p1
+atpb6	transdecoder	CDS	1	1281	.	+	0	ID=cds.atpb6.p1;Parent=atpb6.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb7	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb7~~atpb7.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb7	transdecoder	mRNA	1	1287	.	+	.	ID=atpb7.p1;Parent=GENE.atpb7~~atpb7.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb7	transdecoder	exon	1	1287	.	+	.	ID=atpb7.p1.exon1;Parent=atpb7.p1
+atpb7	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb7.p1;Parent=atpb7.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb8	transdecoder	gene	1	1236	.	+	.	ID=GENE.atpb8~~atpb8.p1;Name=ORF%20type%3Ainternal%20len%3A413%20%28%2B%29
+atpb8	transdecoder	mRNA	1	1236	.	+	.	ID=atpb8.p1;Parent=GENE.atpb8~~atpb8.p1;Name=ORF%20type%3Ainternal%20len%3A413%20%28%2B%29
+atpb8	transdecoder	exon	1	1236	.	+	.	ID=atpb8.p1.exon1;Parent=atpb8.p1
+atpb8	transdecoder	CDS	1	1236	.	+	0	ID=cds.atpb8.p1;Parent=atpb8.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb9	transdecoder	gene	1	1284	.	+	.	ID=GENE.atpb9~~atpb9.p1;Name=ORF%20type%3Ainternal%20len%3A429%20%28%2B%29
+atpb9	transdecoder	mRNA	1	1284	.	+	.	ID=atpb9.p1;Parent=GENE.atpb9~~atpb9.p1;Name=ORF%20type%3Ainternal%20len%3A429%20%28%2B%29
+atpb9	transdecoder	exon	1	1284	.	+	.	ID=atpb9.p1.exon1;Parent=atpb9.p1
+atpb9	transdecoder	CDS	1	1284	.	+	0	ID=cds.atpb9.p1;Parent=atpb9.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb10	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb10~~atpb10.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb10	transdecoder	mRNA	1	1287	.	+	.	ID=atpb10.p1;Parent=GENE.atpb10~~atpb10.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb10	transdecoder	exon	1	1287	.	+	.	ID=atpb10.p1.exon1;Parent=atpb10.p1
+atpb10	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb10.p1;Parent=atpb10.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb11	transdecoder	gene	1	1209	.	+	.	ID=GENE.atpb11~~atpb11.p1;Name=ORF%20type%3Ainternal%20len%3A404%20%28%2B%29
+atpb11	transdecoder	mRNA	1	1209	.	+	.	ID=atpb11.p1;Parent=GENE.atpb11~~atpb11.p1;Name=ORF%20type%3Ainternal%20len%3A404%20%28%2B%29
+atpb11	transdecoder	exon	1	1209	.	+	.	ID=atpb11.p1.exon1;Parent=atpb11.p1
+atpb11	transdecoder	CDS	1	1209	.	+	0	ID=cds.atpb11.p1;Parent=atpb11.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb12	transdecoder	gene	1	1227	.	+	.	ID=GENE.atpb12~~atpb12.p1;Name=ORF%20type%3Ainternal%20len%3A410%20%28%2B%29
+atpb12	transdecoder	mRNA	1	1227	.	+	.	ID=atpb12.p1;Parent=GENE.atpb12~~atpb12.p1;Name=ORF%20type%3Ainternal%20len%3A410%20%28%2B%29
+atpb12	transdecoder	exon	1	1227	.	+	.	ID=atpb12.p1.exon1;Parent=atpb12.p1
+atpb12	transdecoder	CDS	1	1227	.	+	0	ID=cds.atpb12.p1;Parent=atpb12.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb13	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb13~~atpb13.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb13	transdecoder	mRNA	1	1287	.	+	.	ID=atpb13.p1;Parent=GENE.atpb13~~atpb13.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb13	transdecoder	exon	1	1287	.	+	.	ID=atpb13.p1.exon1;Parent=atpb13.p1
+atpb13	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb13.p1;Parent=atpb13.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb14	transdecoder	gene	1	1236	.	+	.	ID=GENE.atpb14~~atpb14.p1;Name=ORF%20type%3Ainternal%20len%3A413%20%28%2B%29
+atpb14	transdecoder	mRNA	1	1236	.	+	.	ID=atpb14.p1;Parent=GENE.atpb14~~atpb14.p1;Name=ORF%20type%3Ainternal%20len%3A413%20%28%2B%29
+atpb14	transdecoder	exon	1	1236	.	+	.	ID=atpb14.p1.exon1;Parent=atpb14.p1
+atpb14	transdecoder	CDS	1	1236	.	+	0	ID=cds.atpb14.p1;Parent=atpb14.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb15	transdecoder	gene	1	1272	.	+	.	ID=GENE.atpb15~~atpb15.p1;Name=ORF%20type%3Ainternal%20len%3A425%20%28%2B%29
+atpb15	transdecoder	mRNA	1	1272	.	+	.	ID=atpb15.p1;Parent=GENE.atpb15~~atpb15.p1;Name=ORF%20type%3Ainternal%20len%3A425%20%28%2B%29
+atpb15	transdecoder	exon	1	1272	.	+	.	ID=atpb15.p1.exon1;Parent=atpb15.p1
+atpb15	transdecoder	CDS	1	1272	.	+	0	ID=cds.atpb15.p1;Parent=atpb15.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb16	transdecoder	gene	1	1170	.	+	.	ID=GENE.atpb16~~atpb16.p1;Name=ORF%20type%3Ainternal%20len%3A391%20%28%2B%29
+atpb16	transdecoder	mRNA	1	1170	.	+	.	ID=atpb16.p1;Parent=GENE.atpb16~~atpb16.p1;Name=ORF%20type%3Ainternal%20len%3A391%20%28%2B%29
+atpb16	transdecoder	exon	1	1170	.	+	.	ID=atpb16.p1.exon1;Parent=atpb16.p1
+atpb16	transdecoder	CDS	1	1170	.	+	0	ID=cds.atpb16.p1;Parent=atpb16.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb17	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb17~~atpb17.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb17	transdecoder	mRNA	1	1287	.	+	.	ID=atpb17.p1;Parent=GENE.atpb17~~atpb17.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb17	transdecoder	exon	1	1287	.	+	.	ID=atpb17.p1.exon1;Parent=atpb17.p1
+atpb17	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb17.p1;Parent=atpb17.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb18	transdecoder	gene	1	1269	.	+	.	ID=GENE.atpb18~~atpb18.p1;Name=ORF%20type%3Ainternal%20len%3A424%20%28%2B%29
+atpb18	transdecoder	mRNA	1	1269	.	+	.	ID=atpb18.p1;Parent=GENE.atpb18~~atpb18.p1;Name=ORF%20type%3Ainternal%20len%3A424%20%28%2B%29
+atpb18	transdecoder	exon	1	1269	.	+	.	ID=atpb18.p1.exon1;Parent=atpb18.p1
+atpb18	transdecoder	CDS	1	1269	.	+	0	ID=cds.atpb18.p1;Parent=atpb18.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb19	transdecoder	gene	1	1206	.	+	.	ID=GENE.atpb19~~atpb19.p1;Name=ORF%20type%3Ainternal%20len%3A403%20%28%2B%29
+atpb19	transdecoder	mRNA	1	1206	.	+	.	ID=atpb19.p1;Parent=GENE.atpb19~~atpb19.p1;Name=ORF%20type%3Ainternal%20len%3A403%20%28%2B%29
+atpb19	transdecoder	exon	1	1206	.	+	.	ID=atpb19.p1.exon1;Parent=atpb19.p1
+atpb19	transdecoder	CDS	1	1206	.	+	0	ID=cds.atpb19.p1;Parent=atpb19.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb20	transdecoder	gene	1	1221	.	+	.	ID=GENE.atpb20~~atpb20.p1;Name=ORF%20type%3Ainternal%20len%3A408%20%28%2B%29
+atpb20	transdecoder	mRNA	1	1221	.	+	.	ID=atpb20.p1;Parent=GENE.atpb20~~atpb20.p1;Name=ORF%20type%3Ainternal%20len%3A408%20%28%2B%29
+atpb20	transdecoder	exon	1	1221	.	+	.	ID=atpb20.p1.exon1;Parent=atpb20.p1
+atpb20	transdecoder	CDS	1	1221	.	+	0	ID=cds.atpb20.p1;Parent=atpb20.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb21	transdecoder	gene	1	1230	.	+	.	ID=GENE.atpb21~~atpb21.p1;Name=ORF%20type%3Ainternal%20len%3A411%20%28%2B%29
+atpb21	transdecoder	mRNA	1	1230	.	+	.	ID=atpb21.p1;Parent=GENE.atpb21~~atpb21.p1;Name=ORF%20type%3Ainternal%20len%3A411%20%28%2B%29
+atpb21	transdecoder	exon	1	1230	.	+	.	ID=atpb21.p1.exon1;Parent=atpb21.p1
+atpb21	transdecoder	CDS	1	1230	.	+	0	ID=cds.atpb21.p1;Parent=atpb21.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb22	transdecoder	gene	1	1281	.	+	.	ID=GENE.atpb22~~atpb22.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb22	transdecoder	mRNA	1	1281	.	+	.	ID=atpb22.p1;Parent=GENE.atpb22~~atpb22.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb22	transdecoder	exon	1	1281	.	+	.	ID=atpb22.p1.exon1;Parent=atpb22.p1
+atpb22	transdecoder	CDS	1	1281	.	+	0	ID=cds.atpb22.p1;Parent=atpb22.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb23	transdecoder	gene	1	1227	.	+	.	ID=GENE.atpb23~~atpb23.p1;Name=ORF%20type%3Ainternal%20len%3A410%20%28%2B%29
+atpb23	transdecoder	mRNA	1	1227	.	+	.	ID=atpb23.p1;Parent=GENE.atpb23~~atpb23.p1;Name=ORF%20type%3Ainternal%20len%3A410%20%28%2B%29
+atpb23	transdecoder	exon	1	1227	.	+	.	ID=atpb23.p1.exon1;Parent=atpb23.p1
+atpb23	transdecoder	CDS	1	1227	.	+	0	ID=cds.atpb23.p1;Parent=atpb23.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb24	transdecoder	gene	1	1257	.	+	.	ID=GENE.atpb24~~atpb24.p1;Name=ORF%20type%3Ainternal%20len%3A420%20%28%2B%29
+atpb24	transdecoder	mRNA	1	1257	.	+	.	ID=atpb24.p1;Parent=GENE.atpb24~~atpb24.p1;Name=ORF%20type%3Ainternal%20len%3A420%20%28%2B%29
+atpb24	transdecoder	exon	1	1257	.	+	.	ID=atpb24.p1.exon1;Parent=atpb24.p1
+atpb24	transdecoder	CDS	1	1257	.	+	0	ID=cds.atpb24.p1;Parent=atpb24.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb25	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb25~~atpb25.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb25	transdecoder	mRNA	1	1287	.	+	.	ID=atpb25.p1;Parent=GENE.atpb25~~atpb25.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb25	transdecoder	exon	1	1287	.	+	.	ID=atpb25.p1.exon1;Parent=atpb25.p1
+atpb25	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb25.p1;Parent=atpb25.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb26	transdecoder	gene	1	1281	.	+	.	ID=GENE.atpb26~~atpb26.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb26	transdecoder	mRNA	1	1281	.	+	.	ID=atpb26.p1;Parent=GENE.atpb26~~atpb26.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb26	transdecoder	exon	1	1281	.	+	.	ID=atpb26.p1.exon1;Parent=atpb26.p1
+atpb26	transdecoder	CDS	1	1281	.	+	0	ID=cds.atpb26.p1;Parent=atpb26.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb27	transdecoder	gene	1	1173	.	+	.	ID=GENE.atpb27~~atpb27.p1;Name=ORF%20type%3Ainternal%20len%3A392%20%28%2B%29
+atpb27	transdecoder	mRNA	1	1173	.	+	.	ID=atpb27.p1;Parent=GENE.atpb27~~atpb27.p1;Name=ORF%20type%3Ainternal%20len%3A392%20%28%2B%29
+atpb27	transdecoder	exon	1	1173	.	+	.	ID=atpb27.p1.exon1;Parent=atpb27.p1
+atpb27	transdecoder	CDS	1	1173	.	+	0	ID=cds.atpb27.p1;Parent=atpb27.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb28	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb28~~atpb28.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb28	transdecoder	mRNA	1	1287	.	+	.	ID=atpb28.p1;Parent=GENE.atpb28~~atpb28.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb28	transdecoder	exon	1	1287	.	+	.	ID=atpb28.p1.exon1;Parent=atpb28.p1
+atpb28	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb28.p1;Parent=atpb28.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb29	transdecoder	gene	1	1281	.	+	.	ID=GENE.atpb29~~atpb29.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb29	transdecoder	mRNA	1	1281	.	+	.	ID=atpb29.p1;Parent=GENE.atpb29~~atpb29.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb29	transdecoder	exon	1	1281	.	+	.	ID=atpb29.p1.exon1;Parent=atpb29.p1
+atpb29	transdecoder	CDS	1	1281	.	+	0	ID=cds.atpb29.p1;Parent=atpb29.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb30	transdecoder	gene	1	463	.	+	.	ID=GENE.atpb30~~atpb30.p1;Name=ORF%20type%3Ainternal%20len%3A154%20%28%2B%29
+atpb30	transdecoder	mRNA	1	463	.	+	.	ID=atpb30.p1;Parent=GENE.atpb30~~atpb30.p1;Name=ORF%20type%3Ainternal%20len%3A154%20%28%2B%29
+atpb30	transdecoder	five_prime_UTR	1	2	.	+	.	ID=atpb30.p1.utr5p1;Parent=atpb30.p1
+atpb30	transdecoder	exon	1	463	.	+	.	ID=atpb30.p1.exon1;Parent=atpb30.p1
+atpb30	transdecoder	CDS	3	461	.	+	0	ID=cds.atpb30.p1;Parent=atpb30.p1;5_prime_partial=true;3_prime_partial=true
+atpb30	transdecoder	three_prime_UTR	462	463	.	+	.	ID=atpb30.p1.utr3p1;Parent=atpb30.p1
+
+atpb31	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb31~~atpb31.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb31	transdecoder	mRNA	1	1287	.	+	.	ID=atpb31.p1;Parent=GENE.atpb31~~atpb31.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb31	transdecoder	exon	1	1287	.	+	.	ID=atpb31.p1.exon1;Parent=atpb31.p1
+atpb31	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb31.p1;Parent=atpb31.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb32	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb32~~atpb32.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb32	transdecoder	mRNA	1	1287	.	+	.	ID=atpb32.p1;Parent=GENE.atpb32~~atpb32.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb32	transdecoder	exon	1	1287	.	+	.	ID=atpb32.p1.exon1;Parent=atpb32.p1
+atpb32	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb32.p1;Parent=atpb32.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb33	transdecoder	gene	1	1287	.	+	.	ID=GENE.atpb33~~atpb33.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb33	transdecoder	mRNA	1	1287	.	+	.	ID=atpb33.p1;Parent=GENE.atpb33~~atpb33.p1;Name=ORF%20type%3Ainternal%20len%3A430%20%28%2B%29
+atpb33	transdecoder	exon	1	1287	.	+	.	ID=atpb33.p1.exon1;Parent=atpb33.p1
+atpb33	transdecoder	CDS	1	1287	.	+	0	ID=cds.atpb33.p1;Parent=atpb33.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb34	transdecoder	gene	1	1215	.	+	.	ID=GENE.atpb34~~atpb34.p1;Name=ORF%20type%3Ainternal%20len%3A406%20%28%2B%29
+atpb34	transdecoder	mRNA	1	1215	.	+	.	ID=atpb34.p1;Parent=GENE.atpb34~~atpb34.p1;Name=ORF%20type%3Ainternal%20len%3A406%20%28%2B%29
+atpb34	transdecoder	exon	1	1215	.	+	.	ID=atpb34.p1.exon1;Parent=atpb34.p1
+atpb34	transdecoder	CDS	1	1215	.	+	0	ID=cds.atpb34.p1;Parent=atpb34.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb35	transdecoder	gene	1	1236	.	+	.	ID=GENE.atpb35~~atpb35.p1;Name=ORF%20type%3Ainternal%20len%3A413%20%28%2B%29
+atpb35	transdecoder	mRNA	1	1236	.	+	.	ID=atpb35.p1;Parent=GENE.atpb35~~atpb35.p1;Name=ORF%20type%3Ainternal%20len%3A413%20%28%2B%29
+atpb35	transdecoder	exon	1	1236	.	+	.	ID=atpb35.p1.exon1;Parent=atpb35.p1
+atpb35	transdecoder	CDS	1	1236	.	+	0	ID=cds.atpb35.p1;Parent=atpb35.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb36	transdecoder	gene	1	1281	.	+	.	ID=GENE.atpb36~~atpb36.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb36	transdecoder	mRNA	1	1281	.	+	.	ID=atpb36.p1;Parent=GENE.atpb36~~atpb36.p1;Name=ORF%20type%3Ainternal%20len%3A428%20%28%2B%29
+atpb36	transdecoder	exon	1	1281	.	+	.	ID=atpb36.p1.exon1;Parent=atpb36.p1
+atpb36	transdecoder	CDS	1	1281	.	+	0	ID=cds.atpb36.p1;Parent=atpb36.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb37	transdecoder	gene	1	1233	.	+	.	ID=GENE.atpb37~~atpb37.p1;Name=ORF%20type%3Ainternal%20len%3A412%20%28%2B%29
+atpb37	transdecoder	mRNA	1	1233	.	+	.	ID=atpb37.p1;Parent=GENE.atpb37~~atpb37.p1;Name=ORF%20type%3Ainternal%20len%3A412%20%28%2B%29
+atpb37	transdecoder	exon	1	1233	.	+	.	ID=atpb37.p1.exon1;Parent=atpb37.p1
+atpb37	transdecoder	CDS	1	1233	.	+	0	ID=cds.atpb37.p1;Parent=atpb37.p1;5_prime_partial=true;3_prime_partial=true
+
+atpb38	transdecoder	gene	1	1284	.	+	.	ID=GENE.atpb38~~atpb38.p1;Name=ORF%20type%3Ainternal%20len%3A429%20%28%2B%29
+atpb38	transdecoder	mRNA	1	1284	.	+	.	ID=atpb38.p1;Parent=GENE.atpb38~~atpb38.p1;Name=ORF%20type%3Ainternal%20len%3A429%20%28%2B%29
+atpb38	transdecoder	exon	1	1284	.	+	.	ID=atpb38.p1.exon1;Parent=atpb38.p1
+atpb38	transdecoder	CDS	1	1284	.	+	0	ID=cds.atpb38.p1;Parent=atpb38.p1;5_prime_partial=true;3_prime_partial=true
+

@@ -1,0 +1,455 @@
+psab1	transdecoder	gene	1	966	.	+	.	ID=GENE.psab1~~psab1.p1;Name=ORF%20type%3Ainternal%20len%3A323%20%28%2B%29%2Cscore%3D292.76
+psab1	transdecoder	mRNA	1	966	.	+	.	ID=psab1.p1;Parent=GENE.psab1~~psab1.p1;Name=ORF%20type%3Ainternal%20len%3A323%20%28%2B%29%2Cscore%3D292.76
+psab1	transdecoder	exon	1	966	.	+	.	ID=psab1.p1.exon1;Parent=psab1.p1
+psab1	transdecoder	CDS	1	966	.	+	0	ID=cds.psab1.p1;Parent=psab1.p1
+
+psab10	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab10~~psab10.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D779.38
+psab10	transdecoder	mRNA	1	1932	.	+	.	ID=psab10.p1;Parent=GENE.psab10~~psab10.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D779.38
+psab10	transdecoder	exon	1	1932	.	+	.	ID=psab10.p1.exon1;Parent=psab10.p1
+psab10	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab10.p1;Parent=psab10.p1
+
+psab11	transdecoder	gene	1	1920	.	+	.	ID=GENE.psab11~~psab11.p1;Name=ORF%20type%3Ainternal%20len%3A641%20%28%2B%29%2Cscore%3D737.35
+psab11	transdecoder	mRNA	1	1920	.	+	.	ID=psab11.p1;Parent=GENE.psab11~~psab11.p1;Name=ORF%20type%3Ainternal%20len%3A641%20%28%2B%29%2Cscore%3D737.35
+psab11	transdecoder	exon	1	1920	.	+	.	ID=psab11.p1.exon1;Parent=psab11.p1
+psab11	transdecoder	CDS	1	1920	.	+	0	ID=cds.psab11.p1;Parent=psab11.p1
+
+psab12	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab12~~psab12.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D696.14
+psab12	transdecoder	mRNA	1	1932	.	+	.	ID=psab12.p1;Parent=GENE.psab12~~psab12.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D696.14
+psab12	transdecoder	exon	1	1932	.	+	.	ID=psab12.p1.exon1;Parent=psab12.p1
+psab12	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab12.p1;Parent=psab12.p1
+
+psab13	transdecoder	gene	1	1869	.	+	.	ID=GENE.psab13~~psab13.p1;Name=ORF%20type%3Ainternal%20len%3A624%20%28%2B%29%2Cscore%3D731.83
+psab13	transdecoder	mRNA	1	1869	.	+	.	ID=psab13.p1;Parent=GENE.psab13~~psab13.p1;Name=ORF%20type%3Ainternal%20len%3A624%20%28%2B%29%2Cscore%3D731.83
+psab13	transdecoder	exon	1	1869	.	+	.	ID=psab13.p1.exon1;Parent=psab13.p1
+psab13	transdecoder	CDS	1	1869	.	+	0	ID=cds.psab13.p1;Parent=psab13.p1
+
+psab14	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab14~~psab14.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D867.96
+psab14	transdecoder	mRNA	1	1932	.	+	.	ID=psab14.p1;Parent=GENE.psab14~~psab14.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D867.96
+psab14	transdecoder	exon	1	1932	.	+	.	ID=psab14.p1.exon1;Parent=psab14.p1
+psab14	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab14.p1;Parent=psab14.p1
+
+psab15	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab15~~psab15.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D719.33
+psab15	transdecoder	mRNA	1	1932	.	+	.	ID=psab15.p1;Parent=GENE.psab15~~psab15.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D719.33
+psab15	transdecoder	exon	1	1932	.	+	.	ID=psab15.p1.exon1;Parent=psab15.p1
+psab15	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab15.p1;Parent=psab15.p1
+
+psab16	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab16~~psab16.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D830.22
+psab16	transdecoder	mRNA	1	1932	.	+	.	ID=psab16.p1;Parent=GENE.psab16~~psab16.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D830.22
+psab16	transdecoder	exon	1	1932	.	+	.	ID=psab16.p1.exon1;Parent=psab16.p1
+psab16	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab16.p1;Parent=psab16.p1
+
+psab17	transdecoder	gene	1	1937	.	+	.	ID=GENE.psab17~~psab17.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D715.48
+psab17	transdecoder	mRNA	1	1937	.	+	.	ID=psab17.p1;Parent=GENE.psab17~~psab17.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D715.48
+psab17	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psab17.p1.utr5p1;Parent=psab17.p1
+psab17	transdecoder	exon	1	1937	.	+	.	ID=psab17.p1.exon1;Parent=psab17.p1
+psab17	transdecoder	CDS	3	1937	.	+	0	ID=cds.psab17.p1;Parent=psab17.p1
+
+psab18	transdecoder	gene	1	1941	.	+	.	ID=GENE.psab18~~psab18.p1;Name=ORF%20type%3Ainternal%20len%3A647%20%28%2B%29%2Cscore%3D759.37
+psab18	transdecoder	mRNA	1	1941	.	+	.	ID=psab18.p1;Parent=GENE.psab18~~psab18.p1;Name=ORF%20type%3Ainternal%20len%3A647%20%28%2B%29%2Cscore%3D759.37
+psab18	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab18.p1.utr5p1;Parent=psab18.p1
+psab18	transdecoder	exon	1	1941	.	+	.	ID=psab18.p1.exon1;Parent=psab18.p1
+psab18	transdecoder	CDS	2	1939	.	+	0	ID=cds.psab18.p1;Parent=psab18.p1
+psab18	transdecoder	three_prime_UTR	1940	1941	.	+	.	ID=psab18.p1.utr3p1;Parent=psab18.p1
+
+psab19	transdecoder	gene	1	1894	.	+	.	ID=GENE.psab19~~psab19.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D802.02
+psab19	transdecoder	mRNA	1	1894	.	+	.	ID=psab19.p1;Parent=GENE.psab19~~psab19.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D802.02
+psab19	transdecoder	exon	1	1894	.	+	.	ID=psab19.p1.exon1;Parent=psab19.p1
+psab19	transdecoder	CDS	1	1893	.	+	0	ID=cds.psab19.p1;Parent=psab19.p1
+psab19	transdecoder	three_prime_UTR	1894	1894	.	+	.	ID=psab19.p1.utr3p1;Parent=psab19.p1
+
+psab2	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab2~~psab2.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D653.28
+psab2	transdecoder	mRNA	1	1932	.	+	.	ID=psab2.p1;Parent=GENE.psab2~~psab2.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D653.28
+psab2	transdecoder	exon	1	1932	.	+	.	ID=psab2.p1.exon1;Parent=psab2.p1
+psab2	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab2.p1;Parent=psab2.p1
+
+psab20	transdecoder	gene	1	1937	.	+	.	ID=GENE.psab20~~psab20.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D699.88
+psab20	transdecoder	mRNA	1	1937	.	+	.	ID=psab20.p1;Parent=GENE.psab20~~psab20.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D699.88
+psab20	transdecoder	exon	1	1937	.	+	.	ID=psab20.p1.exon1;Parent=psab20.p1
+psab20	transdecoder	CDS	1	1935	.	+	0	ID=cds.psab20.p1;Parent=psab20.p1
+psab20	transdecoder	three_prime_UTR	1936	1937	.	+	.	ID=psab20.p1.utr3p1;Parent=psab20.p1
+
+psab21	transdecoder	gene	1	1894	.	+	.	ID=GENE.psab21~~psab21.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D759.41
+psab21	transdecoder	mRNA	1	1894	.	+	.	ID=psab21.p1;Parent=GENE.psab21~~psab21.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D759.41
+psab21	transdecoder	exon	1	1894	.	+	.	ID=psab21.p1.exon1;Parent=psab21.p1
+psab21	transdecoder	CDS	1	1893	.	+	0	ID=cds.psab21.p1;Parent=psab21.p1
+psab21	transdecoder	three_prime_UTR	1894	1894	.	+	.	ID=psab21.p1.utr3p1;Parent=psab21.p1
+
+psab22	transdecoder	gene	1	1933	.	+	.	ID=GENE.psab22~~psab22.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D703.15
+psab22	transdecoder	mRNA	1	1933	.	+	.	ID=psab22.p1;Parent=GENE.psab22~~psab22.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D703.15
+psab22	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab22.p1.utr5p1;Parent=psab22.p1
+psab22	transdecoder	exon	1	1933	.	+	.	ID=psab22.p1.exon1;Parent=psab22.p1
+psab22	transdecoder	CDS	2	1933	.	+	0	ID=cds.psab22.p1;Parent=psab22.p1
+
+psab23	transdecoder	gene	1	1936	.	+	.	ID=GENE.psab23~~psab23.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D738.40
+psab23	transdecoder	mRNA	1	1936	.	+	.	ID=psab23.p1;Parent=GENE.psab23~~psab23.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D738.40
+psab23	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab23.p1.utr5p1;Parent=psab23.p1
+psab23	transdecoder	exon	1	1936	.	+	.	ID=psab23.p1.exon1;Parent=psab23.p1
+psab23	transdecoder	CDS	2	1936	.	+	0	ID=cds.psab23.p1;Parent=psab23.p1
+
+psab24	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab24~~psab24.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D836.19
+psab24	transdecoder	mRNA	1	1953	.	+	.	ID=psab24.p1;Parent=GENE.psab24~~psab24.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D836.19
+psab24	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab24.p1.utr5p1;Parent=psab24.p1
+psab24	transdecoder	exon	1	1953	.	+	.	ID=psab24.p1.exon1;Parent=psab24.p1
+psab24	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab24.p1;Parent=psab24.p1
+psab24	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab24.p1.utr3p1;Parent=psab24.p1
+
+psab25	transdecoder	gene	1	1933	.	+	.	ID=GENE.psab25~~psab25.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D782.43
+psab25	transdecoder	mRNA	1	1933	.	+	.	ID=psab25.p1;Parent=GENE.psab25~~psab25.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D782.43
+psab25	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab25.p1.utr5p1;Parent=psab25.p1
+psab25	transdecoder	exon	1	1933	.	+	.	ID=psab25.p1.exon1;Parent=psab25.p1
+psab25	transdecoder	CDS	2	1933	.	+	0	ID=cds.psab25.p1;Parent=psab25.p1
+
+psab26	transdecoder	gene	1	1894	.	+	.	ID=GENE.psab26~~psab26.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D795.51
+psab26	transdecoder	mRNA	1	1894	.	+	.	ID=psab26.p1;Parent=GENE.psab26~~psab26.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D795.51
+psab26	transdecoder	exon	1	1894	.	+	.	ID=psab26.p1.exon1;Parent=psab26.p1
+psab26	transdecoder	CDS	1	1893	.	+	0	ID=cds.psab26.p1;Parent=psab26.p1
+psab26	transdecoder	three_prime_UTR	1894	1894	.	+	.	ID=psab26.p1.utr3p1;Parent=psab26.p1
+
+psab27	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab27~~psab27.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D796.28
+psab27	transdecoder	mRNA	1	1953	.	+	.	ID=psab27.p1;Parent=GENE.psab27~~psab27.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D796.28
+psab27	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab27.p1.utr5p1;Parent=psab27.p1
+psab27	transdecoder	exon	1	1953	.	+	.	ID=psab27.p1.exon1;Parent=psab27.p1
+psab27	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab27.p1;Parent=psab27.p1
+psab27	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab27.p1.utr3p1;Parent=psab27.p1
+
+psab28	transdecoder	gene	1	1936	.	+	.	ID=GENE.psab28~~psab28.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D769.63
+psab28	transdecoder	mRNA	1	1936	.	+	.	ID=psab28.p1;Parent=GENE.psab28~~psab28.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D769.63
+psab28	transdecoder	exon	1	1936	.	+	.	ID=psab28.p1.exon1;Parent=psab28.p1
+psab28	transdecoder	CDS	1	1935	.	+	0	ID=cds.psab28.p1;Parent=psab28.p1
+psab28	transdecoder	three_prime_UTR	1936	1936	.	+	.	ID=psab28.p1.utr3p1;Parent=psab28.p1
+
+psab29	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab29~~psab29.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D775.17
+psab29	transdecoder	mRNA	1	1953	.	+	.	ID=psab29.p1;Parent=GENE.psab29~~psab29.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D775.17
+psab29	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab29.p1.utr5p1;Parent=psab29.p1
+psab29	transdecoder	exon	1	1953	.	+	.	ID=psab29.p1.exon1;Parent=psab29.p1
+psab29	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab29.p1;Parent=psab29.p1
+psab29	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab29.p1.utr3p1;Parent=psab29.p1
+
+psab3	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab3~~psab3.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D816.29
+psab3	transdecoder	mRNA	1	1932	.	+	.	ID=psab3.p1;Parent=GENE.psab3~~psab3.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D816.29
+psab3	transdecoder	exon	1	1932	.	+	.	ID=psab3.p1.exon1;Parent=psab3.p1
+psab3	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab3.p1;Parent=psab3.p1
+
+psab30	transdecoder	gene	1	1935	.	+	.	ID=GENE.psab30~~psab30.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D772.17
+psab30	transdecoder	mRNA	1	1935	.	+	.	ID=psab30.p1;Parent=GENE.psab30~~psab30.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D772.17
+psab30	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab30.p1.utr5p1;Parent=psab30.p1
+psab30	transdecoder	exon	1	1935	.	+	.	ID=psab30.p1.exon1;Parent=psab30.p1
+psab30	transdecoder	CDS	2	1933	.	+	0	ID=cds.psab30.p1;Parent=psab30.p1
+psab30	transdecoder	three_prime_UTR	1934	1935	.	+	.	ID=psab30.p1.utr3p1;Parent=psab30.p1
+
+psab31	transdecoder	gene	1	1917	.	+	.	ID=GENE.psab31~~psab31.p1;Name=ORF%20type%3Ainternal%20len%3A640%20%28%2B%29%2Cscore%3D739.73
+psab31	transdecoder	mRNA	1	1917	.	+	.	ID=psab31.p1;Parent=GENE.psab31~~psab31.p1;Name=ORF%20type%3Ainternal%20len%3A640%20%28%2B%29%2Cscore%3D739.73
+psab31	transdecoder	exon	1	1917	.	+	.	ID=psab31.p1.exon1;Parent=psab31.p1
+psab31	transdecoder	CDS	1	1917	.	+	0	ID=cds.psab31.p1;Parent=psab31.p1
+
+psab32	transdecoder	gene	1	1894	.	+	.	ID=GENE.psab32~~psab32.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D761.85
+psab32	transdecoder	mRNA	1	1894	.	+	.	ID=psab32.p1;Parent=GENE.psab32~~psab32.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D761.85
+psab32	transdecoder	exon	1	1894	.	+	.	ID=psab32.p1.exon1;Parent=psab32.p1
+psab32	transdecoder	CDS	1	1893	.	+	0	ID=cds.psab32.p1;Parent=psab32.p1
+psab32	transdecoder	three_prime_UTR	1894	1894	.	+	.	ID=psab32.p1.utr3p1;Parent=psab32.p1
+
+psab33	transdecoder	gene	1	1940	.	+	.	ID=GENE.psab33~~psab33.p1;Name=ORF%20type%3Ainternal%20len%3A647%20%28%2B%29%2Cscore%3D781.25
+psab33	transdecoder	mRNA	1	1940	.	+	.	ID=psab33.p1;Parent=GENE.psab33~~psab33.p1;Name=ORF%20type%3Ainternal%20len%3A647%20%28%2B%29%2Cscore%3D781.25
+psab33	transdecoder	exon	1	1940	.	+	.	ID=psab33.p1.exon1;Parent=psab33.p1
+psab33	transdecoder	CDS	1	1938	.	+	0	ID=cds.psab33.p1;Parent=psab33.p1
+psab33	transdecoder	three_prime_UTR	1939	1940	.	+	.	ID=psab33.p1.utr3p1;Parent=psab33.p1
+
+psab34	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab34~~psab34.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D869.48
+psab34	transdecoder	mRNA	1	1932	.	+	.	ID=psab34.p1;Parent=GENE.psab34~~psab34.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D869.48
+psab34	transdecoder	exon	1	1932	.	+	.	ID=psab34.p1.exon1;Parent=psab34.p1
+psab34	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab34.p1;Parent=psab34.p1
+
+psab35	transdecoder	gene	1	1553	.	+	.	ID=GENE.psab35~~psab35.p1;Name=ORF%20type%3Ainternal%20len%3A518%20%28%2B%29%2Cscore%3D576.76
+psab35	transdecoder	mRNA	1	1553	.	+	.	ID=psab35.p1;Parent=GENE.psab35~~psab35.p1;Name=ORF%20type%3Ainternal%20len%3A518%20%28%2B%29%2Cscore%3D576.76
+psab35	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab35.p1.utr5p1;Parent=psab35.p1
+psab35	transdecoder	exon	1	1553	.	+	.	ID=psab35.p1.exon1;Parent=psab35.p1
+psab35	transdecoder	CDS	2	1552	.	+	0	ID=cds.psab35.p1;Parent=psab35.p1
+psab35	transdecoder	three_prime_UTR	1553	1553	.	+	.	ID=psab35.p1.utr3p1;Parent=psab35.p1
+
+psab36	transdecoder	gene	1	1930	.	+	.	ID=GENE.psab36~~psab36.p1;Name=ORF%20type%3Ainternal%20len%3A643%20%28%2B%29%2Cscore%3D713.33
+psab36	transdecoder	mRNA	1	1930	.	+	.	ID=psab36.p1;Parent=GENE.psab36~~psab36.p1;Name=ORF%20type%3Ainternal%20len%3A643%20%28%2B%29%2Cscore%3D713.33
+psab36	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psab36.p1.utr5p1;Parent=psab36.p1
+psab36	transdecoder	exon	1	1930	.	+	.	ID=psab36.p1.exon1;Parent=psab36.p1
+psab36	transdecoder	CDS	3	1928	.	+	0	ID=cds.psab36.p1;Parent=psab36.p1
+psab36	transdecoder	three_prime_UTR	1929	1930	.	+	.	ID=psab36.p1.utr3p1;Parent=psab36.p1
+
+psab37	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab37~~psab37.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D752.81
+psab37	transdecoder	mRNA	1	1953	.	+	.	ID=psab37.p1;Parent=GENE.psab37~~psab37.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D752.81
+psab37	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab37.p1.utr5p1;Parent=psab37.p1
+psab37	transdecoder	exon	1	1953	.	+	.	ID=psab37.p1.exon1;Parent=psab37.p1
+psab37	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab37.p1;Parent=psab37.p1
+psab37	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab37.p1.utr3p1;Parent=psab37.p1
+
+psab38	transdecoder	gene	1	1937	.	+	.	ID=GENE.psab38~~psab38.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D735.91
+psab38	transdecoder	mRNA	1	1937	.	+	.	ID=psab38.p1;Parent=GENE.psab38~~psab38.p1;Name=ORF%20type%3Ainternal%20len%3A646%20%28%2B%29%2Cscore%3D735.91
+psab38	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab38.p1.utr5p1;Parent=psab38.p1
+psab38	transdecoder	exon	1	1937	.	+	.	ID=psab38.p1.exon1;Parent=psab38.p1
+psab38	transdecoder	CDS	2	1936	.	+	0	ID=cds.psab38.p1;Parent=psab38.p1
+psab38	transdecoder	three_prime_UTR	1937	1937	.	+	.	ID=psab38.p1.utr3p1;Parent=psab38.p1
+
+psab39	transdecoder	gene	1	1931	.	+	.	ID=GENE.psab39~~psab39.p1;Name=ORF%20type%3Ainternal%20len%3A644%20%28%2B%29%2Cscore%3D722.29
+psab39	transdecoder	mRNA	1	1931	.	+	.	ID=psab39.p1;Parent=GENE.psab39~~psab39.p1;Name=ORF%20type%3Ainternal%20len%3A644%20%28%2B%29%2Cscore%3D722.29
+psab39	transdecoder	exon	1	1931	.	+	.	ID=psab39.p1.exon1;Parent=psab39.p1
+psab39	transdecoder	CDS	1	1929	.	+	0	ID=cds.psab39.p1;Parent=psab39.p1
+psab39	transdecoder	three_prime_UTR	1930	1931	.	+	.	ID=psab39.p1.utr3p1;Parent=psab39.p1
+
+psab4	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab4~~psab4.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D816.94
+psab4	transdecoder	mRNA	1	1932	.	+	.	ID=psab4.p1;Parent=GENE.psab4~~psab4.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D816.94
+psab4	transdecoder	exon	1	1932	.	+	.	ID=psab4.p1.exon1;Parent=psab4.p1
+psab4	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab4.p1;Parent=psab4.p1
+
+psab40	transdecoder	gene	1	1920	.	+	.	ID=GENE.psab40~~psab40.p1;Name=ORF%20type%3Ainternal%20len%3A641%20%28%2B%29%2Cscore%3D736.53
+psab40	transdecoder	mRNA	1	1920	.	+	.	ID=psab40.p1;Parent=GENE.psab40~~psab40.p1;Name=ORF%20type%3Ainternal%20len%3A641%20%28%2B%29%2Cscore%3D736.53
+psab40	transdecoder	exon	1	1920	.	+	.	ID=psab40.p1.exon1;Parent=psab40.p1
+psab40	transdecoder	CDS	1	1920	.	+	0	ID=cds.psab40.p1;Parent=psab40.p1
+
+psab41	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab41~~psab41.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D861.66
+psab41	transdecoder	mRNA	1	1932	.	+	.	ID=psab41.p1;Parent=GENE.psab41~~psab41.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D861.66
+psab41	transdecoder	exon	1	1932	.	+	.	ID=psab41.p1.exon1;Parent=psab41.p1
+psab41	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab41.p1;Parent=psab41.p1
+
+psab42	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab42~~psab42.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D827.58
+psab42	transdecoder	mRNA	1	1932	.	+	.	ID=psab42.p1;Parent=GENE.psab42~~psab42.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D827.58
+psab42	transdecoder	exon	1	1932	.	+	.	ID=psab42.p1.exon1;Parent=psab42.p1
+psab42	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab42.p1;Parent=psab42.p1
+
+psab43	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab43~~psab43.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D867.78
+psab43	transdecoder	mRNA	1	1932	.	+	.	ID=psab43.p1;Parent=GENE.psab43~~psab43.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D867.78
+psab43	transdecoder	exon	1	1932	.	+	.	ID=psab43.p1.exon1;Parent=psab43.p1
+psab43	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab43.p1;Parent=psab43.p1
+
+psab44	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab44~~psab44.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D829.33
+psab44	transdecoder	mRNA	1	1932	.	+	.	ID=psab44.p1;Parent=GENE.psab44~~psab44.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D829.33
+psab44	transdecoder	exon	1	1932	.	+	.	ID=psab44.p1.exon1;Parent=psab44.p1
+psab44	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab44.p1;Parent=psab44.p1
+
+psab45	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab45~~psab45.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D806.34
+psab45	transdecoder	mRNA	1	1932	.	+	.	ID=psab45.p1;Parent=GENE.psab45~~psab45.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D806.34
+psab45	transdecoder	exon	1	1932	.	+	.	ID=psab45.p1.exon1;Parent=psab45.p1
+psab45	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab45.p1;Parent=psab45.p1
+
+psab46	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab46~~psab46.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D767.49
+psab46	transdecoder	mRNA	1	1953	.	+	.	ID=psab46.p1;Parent=GENE.psab46~~psab46.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D767.49
+psab46	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab46.p1.utr5p1;Parent=psab46.p1
+psab46	transdecoder	exon	1	1953	.	+	.	ID=psab46.p1.exon1;Parent=psab46.p1
+psab46	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab46.p1;Parent=psab46.p1
+psab46	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab46.p1.utr3p1;Parent=psab46.p1
+
+psab47	transdecoder	gene	1	1952	.	+	.	ID=GENE.psab47~~psab47.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D727.38
+psab47	transdecoder	mRNA	1	1952	.	+	.	ID=psab47.p1;Parent=GENE.psab47~~psab47.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D727.38
+psab47	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab47.p1.utr5p1;Parent=psab47.p1
+psab47	transdecoder	exon	1	1952	.	+	.	ID=psab47.p1.exon1;Parent=psab47.p1
+psab47	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab47.p1;Parent=psab47.p1
+psab47	transdecoder	three_prime_UTR	1952	1952	.	+	.	ID=psab47.p1.utr3p1;Parent=psab47.p1
+
+psab48	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab48~~psab48.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D770.31
+psab48	transdecoder	mRNA	1	1953	.	+	.	ID=psab48.p1;Parent=GENE.psab48~~psab48.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D770.31
+psab48	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab48.p1.utr5p1;Parent=psab48.p1
+psab48	transdecoder	exon	1	1953	.	+	.	ID=psab48.p1.exon1;Parent=psab48.p1
+psab48	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab48.p1;Parent=psab48.p1
+psab48	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab48.p1.utr3p1;Parent=psab48.p1
+
+psab49	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab49~~psab49.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D767.28
+psab49	transdecoder	mRNA	1	1953	.	+	.	ID=psab49.p1;Parent=GENE.psab49~~psab49.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D767.28
+psab49	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab49.p1.utr5p1;Parent=psab49.p1
+psab49	transdecoder	exon	1	1953	.	+	.	ID=psab49.p1.exon1;Parent=psab49.p1
+psab49	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab49.p1;Parent=psab49.p1
+psab49	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab49.p1.utr3p1;Parent=psab49.p1
+
+psab5	transdecoder	gene	1	1933	.	+	.	ID=GENE.psab5~~psab5.p1;Name=ORF%20type%3Ainternal%20len%3A644%20%28%2B%29%2Cscore%3D786.42
+psab5	transdecoder	mRNA	1	1933	.	+	.	ID=psab5.p1;Parent=GENE.psab5~~psab5.p1;Name=ORF%20type%3Ainternal%20len%3A644%20%28%2B%29%2Cscore%3D786.42
+psab5	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psab5.p1.utr5p1;Parent=psab5.p1
+psab5	transdecoder	exon	1	1933	.	+	.	ID=psab5.p1.exon1;Parent=psab5.p1
+psab5	transdecoder	CDS	3	1931	.	+	0	ID=cds.psab5.p1;Parent=psab5.p1
+psab5	transdecoder	three_prime_UTR	1932	1933	.	+	.	ID=psab5.p1.utr3p1;Parent=psab5.p1
+
+psab50	transdecoder	gene	1	1934	.	+	.	ID=GENE.psab50~~psab50.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D765.31
+psab50	transdecoder	mRNA	1	1934	.	+	.	ID=psab50.p1;Parent=GENE.psab50~~psab50.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D765.31
+psab50	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab50.p1.utr5p1;Parent=psab50.p1
+psab50	transdecoder	exon	1	1934	.	+	.	ID=psab50.p1.exon1;Parent=psab50.p1
+psab50	transdecoder	CDS	2	1933	.	+	0	ID=cds.psab50.p1;Parent=psab50.p1
+psab50	transdecoder	three_prime_UTR	1934	1934	.	+	.	ID=psab50.p1.utr3p1;Parent=psab50.p1
+
+psab51	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab51~~psab51.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D792.94
+psab51	transdecoder	mRNA	1	1953	.	+	.	ID=psab51.p1;Parent=GENE.psab51~~psab51.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D792.94
+psab51	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab51.p1.utr5p1;Parent=psab51.p1
+psab51	transdecoder	exon	1	1953	.	+	.	ID=psab51.p1.exon1;Parent=psab51.p1
+psab51	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab51.p1;Parent=psab51.p1
+psab51	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab51.p1.utr3p1;Parent=psab51.p1
+
+psab52	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab52~~psab52.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D795.21
+psab52	transdecoder	mRNA	1	1953	.	+	.	ID=psab52.p1;Parent=GENE.psab52~~psab52.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D795.21
+psab52	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab52.p1.utr5p1;Parent=psab52.p1
+psab52	transdecoder	exon	1	1953	.	+	.	ID=psab52.p1.exon1;Parent=psab52.p1
+psab52	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab52.p1;Parent=psab52.p1
+psab52	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab52.p1.utr3p1;Parent=psab52.p1
+
+psab53	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab53~~psab53.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D764.47
+psab53	transdecoder	mRNA	1	1953	.	+	.	ID=psab53.p1;Parent=GENE.psab53~~psab53.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D764.47
+psab53	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab53.p1.utr5p1;Parent=psab53.p1
+psab53	transdecoder	exon	1	1953	.	+	.	ID=psab53.p1.exon1;Parent=psab53.p1
+psab53	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab53.p1;Parent=psab53.p1
+psab53	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab53.p1.utr3p1;Parent=psab53.p1
+
+psab54	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab54~~psab54.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D784.67
+psab54	transdecoder	mRNA	1	1953	.	+	.	ID=psab54.p1;Parent=GENE.psab54~~psab54.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D784.67
+psab54	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab54.p1.utr5p1;Parent=psab54.p1
+psab54	transdecoder	exon	1	1953	.	+	.	ID=psab54.p1.exon1;Parent=psab54.p1
+psab54	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab54.p1;Parent=psab54.p1
+psab54	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab54.p1.utr3p1;Parent=psab54.p1
+
+psab55	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab55~~psab55.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D807.46
+psab55	transdecoder	mRNA	1	1953	.	+	.	ID=psab55.p1;Parent=GENE.psab55~~psab55.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D807.46
+psab55	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab55.p1.utr5p1;Parent=psab55.p1
+psab55	transdecoder	exon	1	1953	.	+	.	ID=psab55.p1.exon1;Parent=psab55.p1
+psab55	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab55.p1;Parent=psab55.p1
+psab55	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab55.p1.utr3p1;Parent=psab55.p1
+
+psab56	transdecoder	gene	1	1894	.	+	.	ID=GENE.psab56~~psab56.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D777.56
+psab56	transdecoder	mRNA	1	1894	.	+	.	ID=psab56.p1;Parent=GENE.psab56~~psab56.p1;Name=ORF%20type%3Ainternal%20len%3A632%20%28%2B%29%2Cscore%3D777.56
+psab56	transdecoder	exon	1	1894	.	+	.	ID=psab56.p1.exon1;Parent=psab56.p1
+psab56	transdecoder	CDS	1	1893	.	+	0	ID=cds.psab56.p1;Parent=psab56.p1
+psab56	transdecoder	three_prime_UTR	1894	1894	.	+	.	ID=psab56.p1.utr3p1;Parent=psab56.p1
+
+psab57	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab57~~psab57.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D786.92
+psab57	transdecoder	mRNA	1	1953	.	+	.	ID=psab57.p1;Parent=GENE.psab57~~psab57.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D786.92
+psab57	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab57.p1.utr5p1;Parent=psab57.p1
+psab57	transdecoder	exon	1	1953	.	+	.	ID=psab57.p1.exon1;Parent=psab57.p1
+psab57	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab57.p1;Parent=psab57.p1
+psab57	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab57.p1.utr3p1;Parent=psab57.p1
+
+psab58	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab58~~psab58.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D894.45
+psab58	transdecoder	mRNA	1	1932	.	+	.	ID=psab58.p1;Parent=GENE.psab58~~psab58.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D894.45
+psab58	transdecoder	exon	1	1932	.	+	.	ID=psab58.p1.exon1;Parent=psab58.p1
+psab58	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab58.p1;Parent=psab58.p1
+
+psab59	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab59~~psab59.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D782.72
+psab59	transdecoder	mRNA	1	1932	.	+	.	ID=psab59.p1;Parent=GENE.psab59~~psab59.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D782.72
+psab59	transdecoder	exon	1	1932	.	+	.	ID=psab59.p1.exon1;Parent=psab59.p1
+psab59	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab59.p1;Parent=psab59.p1
+
+psab6	transdecoder	gene	1	1904	.	+	.	ID=GENE.psab6~~psab6.p1;Name=ORF%20type%3Ainternal%20len%3A635%20%28%2B%29%2Cscore%3D776.50
+psab6	transdecoder	mRNA	1	1904	.	+	.	ID=psab6.p1;Parent=GENE.psab6~~psab6.p1;Name=ORF%20type%3Ainternal%20len%3A635%20%28%2B%29%2Cscore%3D776.50
+psab6	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab6.p1.utr5p1;Parent=psab6.p1
+psab6	transdecoder	exon	1	1904	.	+	.	ID=psab6.p1.exon1;Parent=psab6.p1
+psab6	transdecoder	CDS	2	1903	.	+	0	ID=cds.psab6.p1;Parent=psab6.p1
+psab6	transdecoder	three_prime_UTR	1904	1904	.	+	.	ID=psab6.p1.utr3p1;Parent=psab6.p1
+
+psab60	transdecoder	gene	1	813	.	+	.	ID=GENE.psab60~~psab60.p1;Name=ORF%20type%3Ainternal%20len%3A272%20%28%2B%29%2Cscore%3D316.39
+psab60	transdecoder	mRNA	1	813	.	+	.	ID=psab60.p1;Parent=GENE.psab60~~psab60.p1;Name=ORF%20type%3Ainternal%20len%3A272%20%28%2B%29%2Cscore%3D316.39
+psab60	transdecoder	exon	1	813	.	+	.	ID=psab60.p1.exon1;Parent=psab60.p1
+psab60	transdecoder	CDS	1	813	.	+	0	ID=cds.psab60.p1;Parent=psab60.p1
+
+psab61	transdecoder	gene	1	1854	.	+	.	ID=GENE.psab61~~psab61.p1;Name=ORF%20type%3Ainternal%20len%3A619%20%28%2B%29%2Cscore%3D764.10
+psab61	transdecoder	mRNA	1	1854	.	+	.	ID=psab61.p1;Parent=GENE.psab61~~psab61.p1;Name=ORF%20type%3Ainternal%20len%3A619%20%28%2B%29%2Cscore%3D764.10
+psab61	transdecoder	exon	1	1854	.	+	.	ID=psab61.p1.exon1;Parent=psab61.p1
+psab61	transdecoder	CDS	1	1854	.	+	0	ID=cds.psab61.p1;Parent=psab61.p1
+
+psab62	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab62~~psab62.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D886.13
+psab62	transdecoder	mRNA	1	1932	.	+	.	ID=psab62.p1;Parent=GENE.psab62~~psab62.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D886.13
+psab62	transdecoder	exon	1	1932	.	+	.	ID=psab62.p1.exon1;Parent=psab62.p1
+psab62	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab62.p1;Parent=psab62.p1
+
+psab63	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab63~~psab63.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D808.77
+psab63	transdecoder	mRNA	1	1932	.	+	.	ID=psab63.p1;Parent=GENE.psab63~~psab63.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D808.77
+psab63	transdecoder	exon	1	1932	.	+	.	ID=psab63.p1.exon1;Parent=psab63.p1
+psab63	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab63.p1;Parent=psab63.p1
+
+psab64	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab64~~psab64.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D814.60
+psab64	transdecoder	mRNA	1	1932	.	+	.	ID=psab64.p1;Parent=GENE.psab64~~psab64.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D814.60
+psab64	transdecoder	exon	1	1932	.	+	.	ID=psab64.p1.exon1;Parent=psab64.p1
+psab64	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab64.p1;Parent=psab64.p1
+
+psab65	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab65~~psab65.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D825.87
+psab65	transdecoder	mRNA	1	1932	.	+	.	ID=psab65.p1;Parent=GENE.psab65~~psab65.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D825.87
+psab65	transdecoder	exon	1	1932	.	+	.	ID=psab65.p1.exon1;Parent=psab65.p1
+psab65	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab65.p1;Parent=psab65.p1
+
+psab66	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab66~~psab66.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D682.04
+psab66	transdecoder	mRNA	1	1932	.	+	.	ID=psab66.p1;Parent=GENE.psab66~~psab66.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D682.04
+psab66	transdecoder	exon	1	1932	.	+	.	ID=psab66.p1.exon1;Parent=psab66.p1
+psab66	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab66.p1;Parent=psab66.p1
+
+psab67	transdecoder	gene	1	1917	.	+	.	ID=GENE.psab67~~psab67.p1;Name=ORF%20type%3Ainternal%20len%3A640%20%28%2B%29%2Cscore%3D709.36
+psab67	transdecoder	mRNA	1	1917	.	+	.	ID=psab67.p1;Parent=GENE.psab67~~psab67.p1;Name=ORF%20type%3Ainternal%20len%3A640%20%28%2B%29%2Cscore%3D709.36
+psab67	transdecoder	exon	1	1917	.	+	.	ID=psab67.p1.exon1;Parent=psab67.p1
+psab67	transdecoder	CDS	1	1917	.	+	0	ID=cds.psab67.p1;Parent=psab67.p1
+
+psab68	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab68~~psab68.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D809.31
+psab68	transdecoder	mRNA	1	1932	.	+	.	ID=psab68.p1;Parent=GENE.psab68~~psab68.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D809.31
+psab68	transdecoder	exon	1	1932	.	+	.	ID=psab68.p1.exon1;Parent=psab68.p1
+psab68	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab68.p1;Parent=psab68.p1
+
+psab69	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab69~~psab69.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D848.78
+psab69	transdecoder	mRNA	1	1932	.	+	.	ID=psab69.p1;Parent=GENE.psab69~~psab69.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D848.78
+psab69	transdecoder	exon	1	1932	.	+	.	ID=psab69.p1.exon1;Parent=psab69.p1
+psab69	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab69.p1;Parent=psab69.p1
+
+psab7	transdecoder	gene	1	1936	.	+	.	ID=GENE.psab7~~psab7.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D781.77
+psab7	transdecoder	mRNA	1	1936	.	+	.	ID=psab7.p1;Parent=GENE.psab7~~psab7.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D781.77
+psab7	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psab7.p1.utr5p1;Parent=psab7.p1
+psab7	transdecoder	exon	1	1936	.	+	.	ID=psab7.p1.exon1;Parent=psab7.p1
+psab7	transdecoder	CDS	3	1934	.	+	0	ID=cds.psab7.p1;Parent=psab7.p1
+psab7	transdecoder	three_prime_UTR	1935	1936	.	+	.	ID=psab7.p1.utr3p1;Parent=psab7.p1
+
+psab70	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab70~~psab70.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D757.02
+psab70	transdecoder	mRNA	1	1953	.	+	.	ID=psab70.p1;Parent=GENE.psab70~~psab70.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D757.02
+psab70	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab70.p1.utr5p1;Parent=psab70.p1
+psab70	transdecoder	exon	1	1953	.	+	.	ID=psab70.p1.exon1;Parent=psab70.p1
+psab70	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab70.p1;Parent=psab70.p1
+psab70	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab70.p1.utr3p1;Parent=psab70.p1
+
+psab71	transdecoder	gene	1	1953	.	+	.	ID=GENE.psab71~~psab71.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D739.57
+psab71	transdecoder	mRNA	1	1953	.	+	.	ID=psab71.p1;Parent=GENE.psab71~~psab71.p1;Name=ORF%20type%3Ainternal%20len%3A651%20%28%2B%29%2Cscore%3D739.57
+psab71	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab71.p1.utr5p1;Parent=psab71.p1
+psab71	transdecoder	exon	1	1953	.	+	.	ID=psab71.p1.exon1;Parent=psab71.p1
+psab71	transdecoder	CDS	2	1951	.	+	0	ID=cds.psab71.p1;Parent=psab71.p1
+psab71	transdecoder	three_prime_UTR	1952	1953	.	+	.	ID=psab71.p1.utr3p1;Parent=psab71.p1
+
+psab72	transdecoder	gene	1	1943	.	+	.	ID=GENE.psab72~~psab72.p1;Name=ORF%20type%3Ainternal%20len%3A648%20%28%2B%29%2Cscore%3D745.67
+psab72	transdecoder	mRNA	1	1943	.	+	.	ID=psab72.p1;Parent=GENE.psab72~~psab72.p1;Name=ORF%20type%3Ainternal%20len%3A648%20%28%2B%29%2Cscore%3D745.67
+psab72	transdecoder	exon	1	1943	.	+	.	ID=psab72.p1.exon1;Parent=psab72.p1
+psab72	transdecoder	CDS	1	1941	.	+	0	ID=cds.psab72.p1;Parent=psab72.p1
+psab72	transdecoder	three_prime_UTR	1942	1943	.	+	.	ID=psab72.p1.utr3p1;Parent=psab72.p1
+
+psab73	transdecoder	gene	1	781	.	+	.	ID=GENE.psab73~~psab73.p1;Name=ORF%20type%3Ainternal%20len%3A261%20%28%2B%29%2Cscore%3D303.29
+psab73	transdecoder	mRNA	1	781	.	+	.	ID=psab73.p1;Parent=GENE.psab73~~psab73.p1;Name=ORF%20type%3Ainternal%20len%3A261%20%28%2B%29%2Cscore%3D303.29
+psab73	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psab73.p1.utr5p1;Parent=psab73.p1
+psab73	transdecoder	exon	1	781	.	+	.	ID=psab73.p1.exon1;Parent=psab73.p1
+psab73	transdecoder	CDS	2	781	.	+	0	ID=cds.psab73.p1;Parent=psab73.p1
+
+psab74	transdecoder	gene	1	1887	.	+	.	ID=GENE.psab74~~psab74.p1;Name=ORF%20type%3Ainternal%20len%3A630%20%28%2B%29%2Cscore%3D662.38
+psab74	transdecoder	mRNA	1	1887	.	+	.	ID=psab74.p1;Parent=GENE.psab74~~psab74.p1;Name=ORF%20type%3Ainternal%20len%3A630%20%28%2B%29%2Cscore%3D662.38
+psab74	transdecoder	exon	1	1887	.	+	.	ID=psab74.p1.exon1;Parent=psab74.p1
+psab74	transdecoder	CDS	1	1887	.	+	0	ID=cds.psab74.p1;Parent=psab74.p1
+
+psab75	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab75~~psab75.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D791.01
+psab75	transdecoder	mRNA	1	1932	.	+	.	ID=psab75.p1;Parent=GENE.psab75~~psab75.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D791.01
+psab75	transdecoder	exon	1	1932	.	+	.	ID=psab75.p1.exon1;Parent=psab75.p1
+psab75	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab75.p1;Parent=psab75.p1
+
+psab76	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab76~~psab76.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D843.14
+psab76	transdecoder	mRNA	1	1932	.	+	.	ID=psab76.p1;Parent=GENE.psab76~~psab76.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D843.14
+psab76	transdecoder	exon	1	1932	.	+	.	ID=psab76.p1.exon1;Parent=psab76.p1
+psab76	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab76.p1;Parent=psab76.p1
+
+psab77	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab77~~psab77.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D828.57
+psab77	transdecoder	mRNA	1	1932	.	+	.	ID=psab77.p1;Parent=GENE.psab77~~psab77.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D828.57
+psab77	transdecoder	exon	1	1932	.	+	.	ID=psab77.p1.exon1;Parent=psab77.p1
+psab77	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab77.p1;Parent=psab77.p1
+
+psab78	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab78~~psab78.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D757.37
+psab78	transdecoder	mRNA	1	1932	.	+	.	ID=psab78.p1;Parent=GENE.psab78~~psab78.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D757.37
+psab78	transdecoder	exon	1	1932	.	+	.	ID=psab78.p1.exon1;Parent=psab78.p1
+psab78	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab78.p1;Parent=psab78.p1
+
+psab8	transdecoder	gene	1	1905	.	+	.	ID=GENE.psab8~~psab8.p1;Name=ORF%20type%3Ainternal%20len%3A636%20%28%2B%29%2Cscore%3D758.14
+psab8	transdecoder	mRNA	1	1905	.	+	.	ID=psab8.p1;Parent=GENE.psab8~~psab8.p1;Name=ORF%20type%3Ainternal%20len%3A636%20%28%2B%29%2Cscore%3D758.14
+psab8	transdecoder	exon	1	1905	.	+	.	ID=psab8.p1.exon1;Parent=psab8.p1
+psab8	transdecoder	CDS	1	1905	.	+	0	ID=cds.psab8.p1;Parent=psab8.p1
+
+psab9	transdecoder	gene	1	1932	.	+	.	ID=GENE.psab9~~psab9.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D719.60
+psab9	transdecoder	mRNA	1	1932	.	+	.	ID=psab9.p1;Parent=GENE.psab9~~psab9.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29%2Cscore%3D719.60
+psab9	transdecoder	exon	1	1932	.	+	.	ID=psab9.p1.exon1;Parent=psab9.p1
+psab9	transdecoder	CDS	1	1932	.	+	0	ID=cds.psab9.p1;Parent=psab9.p1
+

@@ -1,0 +1,771 @@
+psba1	transdecoder	gene	1	882	.	+	.	ID=GENE.psba1~~psba1.p1;Name=ORF%20type%3Ainternal%20len%3A295%20%28%2B%29%2Cscore%3D402.85
+psba1	transdecoder	mRNA	1	882	.	+	.	ID=psba1.p1;Parent=GENE.psba1~~psba1.p1;Name=ORF%20type%3Ainternal%20len%3A295%20%28%2B%29%2Cscore%3D402.85
+psba1	transdecoder	exon	1	882	.	+	.	ID=psba1.p1.exon1;Parent=psba1.p1
+psba1	transdecoder	CDS	1	882	.	+	0	ID=cds.psba1.p1;Parent=psba1.p1
+
+psba10	transdecoder	gene	1	863	.	+	.	ID=GENE.psba10~~psba10.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D486.53
+psba10	transdecoder	mRNA	1	863	.	+	.	ID=psba10.p1;Parent=GENE.psba10~~psba10.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D486.53
+psba10	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba10.p1.utr5p1;Parent=psba10.p1
+psba10	transdecoder	exon	1	863	.	+	.	ID=psba10.p1.exon1;Parent=psba10.p1
+psba10	transdecoder	CDS	3	863	.	+	0	ID=cds.psba10.p1;Parent=psba10.p1
+
+psba100	transdecoder	gene	1	576	.	+	.	ID=GENE.psba100~~psba100.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D360.73
+psba100	transdecoder	mRNA	1	576	.	+	.	ID=psba100.p1;Parent=GENE.psba100~~psba100.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D360.73
+psba100	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba100.p1.utr5p1;Parent=psba100.p1
+psba100	transdecoder	exon	1	576	.	+	.	ID=psba100.p1.exon1;Parent=psba100.p1
+psba100	transdecoder	CDS	3	575	.	+	0	ID=cds.psba100.p1;Parent=psba100.p1
+psba100	transdecoder	three_prime_UTR	576	576	.	+	.	ID=psba100.p1.utr3p1;Parent=psba100.p1
+
+psba101	transdecoder	gene	1	576	.	+	.	ID=GENE.psba101~~psba101.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D349.60
+psba101	transdecoder	mRNA	1	576	.	+	.	ID=psba101.p1;Parent=GENE.psba101~~psba101.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D349.60
+psba101	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba101.p1.utr5p1;Parent=psba101.p1
+psba101	transdecoder	exon	1	576	.	+	.	ID=psba101.p1.exon1;Parent=psba101.p1
+psba101	transdecoder	CDS	3	575	.	+	0	ID=cds.psba101.p1;Parent=psba101.p1
+psba101	transdecoder	three_prime_UTR	576	576	.	+	.	ID=psba101.p1.utr3p1;Parent=psba101.p1
+
+psba102	transdecoder	gene	1	942	.	+	.	ID=GENE.psba102~~psba102.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D515.05
+psba102	transdecoder	mRNA	1	942	.	+	.	ID=psba102.p1;Parent=GENE.psba102~~psba102.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D515.05
+psba102	transdecoder	exon	1	942	.	+	.	ID=psba102.p1.exon1;Parent=psba102.p1
+psba102	transdecoder	CDS	1	942	.	+	0	ID=cds.psba102.p1;Parent=psba102.p1
+
+psba103	transdecoder	gene	1	891	.	+	.	ID=GENE.psba103~~psba103.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D525.10
+psba103	transdecoder	mRNA	1	891	.	+	.	ID=psba103.p1;Parent=GENE.psba103~~psba103.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D525.10
+psba103	transdecoder	exon	1	891	.	+	.	ID=psba103.p1.exon1;Parent=psba103.p1
+psba103	transdecoder	CDS	1	891	.	+	0	ID=cds.psba103.p1;Parent=psba103.p1
+
+psba104	transdecoder	gene	1	1083	.	+	.	ID=GENE.psba104~~psba104.p1;Name=ORF%20type%3Acomplete%20len%3A361%20%28%2B%29%2Cscore%3D619.01
+psba104	transdecoder	mRNA	1	1083	.	+	.	ID=psba104.p1;Parent=GENE.psba104~~psba104.p1;Name=ORF%20type%3Acomplete%20len%3A361%20%28%2B%29%2Cscore%3D619.01
+psba104	transdecoder	exon	1	1083	.	+	.	ID=psba104.p1.exon1;Parent=psba104.p1
+psba104	transdecoder	CDS	1	1083	.	+	0	ID=cds.psba104.p1;Parent=psba104.p1
+
+psba105	transdecoder	gene	1	661	.	+	.	ID=GENE.psba105~~psba105.p1;Name=ORF%20type%3Ainternal%20len%3A221%20%28%2B%29%2Cscore%3D434.46
+psba105	transdecoder	mRNA	1	661	.	+	.	ID=psba105.p1;Parent=GENE.psba105~~psba105.p1;Name=ORF%20type%3Ainternal%20len%3A221%20%28%2B%29%2Cscore%3D434.46
+psba105	transdecoder	exon	1	661	.	+	.	ID=psba105.p1.exon1;Parent=psba105.p1
+psba105	transdecoder	CDS	1	660	.	+	0	ID=cds.psba105.p1;Parent=psba105.p1
+psba105	transdecoder	three_prime_UTR	661	661	.	+	.	ID=psba105.p1.utr3p1;Parent=psba105.p1
+
+psba106	transdecoder	gene	1	762	.	+	.	ID=GENE.psba106~~psba106.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D468.44
+psba106	transdecoder	mRNA	1	762	.	+	.	ID=psba106.p1;Parent=GENE.psba106~~psba106.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D468.44
+psba106	transdecoder	exon	1	762	.	+	.	ID=psba106.p1.exon1;Parent=psba106.p1
+psba106	transdecoder	CDS	1	762	.	+	0	ID=cds.psba106.p1;Parent=psba106.p1
+
+psba107	transdecoder	gene	1	762	.	+	.	ID=GENE.psba107~~psba107.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D495.65
+psba107	transdecoder	mRNA	1	762	.	+	.	ID=psba107.p1;Parent=GENE.psba107~~psba107.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D495.65
+psba107	transdecoder	exon	1	762	.	+	.	ID=psba107.p1.exon1;Parent=psba107.p1
+psba107	transdecoder	CDS	1	762	.	+	0	ID=cds.psba107.p1;Parent=psba107.p1
+
+psba108	transdecoder	gene	1	762	.	+	.	ID=GENE.psba108~~psba108.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D470.17
+psba108	transdecoder	mRNA	1	762	.	+	.	ID=psba108.p1;Parent=GENE.psba108~~psba108.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D470.17
+psba108	transdecoder	exon	1	762	.	+	.	ID=psba108.p1.exon1;Parent=psba108.p1
+psba108	transdecoder	CDS	1	762	.	+	0	ID=cds.psba108.p1;Parent=psba108.p1
+
+psba109	transdecoder	gene	1	891	.	+	.	ID=GENE.psba109~~psba109.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D554.73
+psba109	transdecoder	mRNA	1	891	.	+	.	ID=psba109.p1;Parent=GENE.psba109~~psba109.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D554.73
+psba109	transdecoder	exon	1	891	.	+	.	ID=psba109.p1.exon1;Parent=psba109.p1
+psba109	transdecoder	CDS	1	891	.	+	0	ID=cds.psba109.p1;Parent=psba109.p1
+
+psba11	transdecoder	gene	1	891	.	+	.	ID=GENE.psba11~~psba11.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D524.61
+psba11	transdecoder	mRNA	1	891	.	+	.	ID=psba11.p1;Parent=GENE.psba11~~psba11.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D524.61
+psba11	transdecoder	exon	1	891	.	+	.	ID=psba11.p1.exon1;Parent=psba11.p1
+psba11	transdecoder	CDS	1	891	.	+	0	ID=cds.psba11.p1;Parent=psba11.p1
+
+psba110	transdecoder	gene	1	896	.	+	.	ID=GENE.psba110~~psba110.p1;Name=ORF%20type%3A3prime_partial%20len%3A299%20%28%2B%29%2Cscore%3D556.26
+psba110	transdecoder	mRNA	1	896	.	+	.	ID=psba110.p1;Parent=GENE.psba110~~psba110.p1;Name=ORF%20type%3A3prime_partial%20len%3A299%20%28%2B%29%2Cscore%3D556.26
+psba110	transdecoder	exon	1	896	.	+	.	ID=psba110.p1.exon1;Parent=psba110.p1
+psba110	transdecoder	CDS	1	894	.	+	0	ID=cds.psba110.p1;Parent=psba110.p1
+psba110	transdecoder	three_prime_UTR	895	896	.	+	.	ID=psba110.p1.utr3p1;Parent=psba110.p1
+
+psba111	transdecoder	gene	1	762	.	+	.	ID=GENE.psba111~~psba111.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D472.85
+psba111	transdecoder	mRNA	1	762	.	+	.	ID=psba111.p1;Parent=GENE.psba111~~psba111.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D472.85
+psba111	transdecoder	exon	1	762	.	+	.	ID=psba111.p1.exon1;Parent=psba111.p1
+psba111	transdecoder	CDS	1	762	.	+	0	ID=cds.psba111.p1;Parent=psba111.p1
+
+psba112	transdecoder	gene	1	762	.	+	.	ID=GENE.psba112~~psba112.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D479.64
+psba112	transdecoder	mRNA	1	762	.	+	.	ID=psba112.p1;Parent=GENE.psba112~~psba112.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D479.64
+psba112	transdecoder	exon	1	762	.	+	.	ID=psba112.p1.exon1;Parent=psba112.p1
+psba112	transdecoder	CDS	1	762	.	+	0	ID=cds.psba112.p1;Parent=psba112.p1
+
+psba113	transdecoder	gene	1	762	.	+	.	ID=GENE.psba113~~psba113.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D459.59
+psba113	transdecoder	mRNA	1	762	.	+	.	ID=psba113.p1;Parent=GENE.psba113~~psba113.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D459.59
+psba113	transdecoder	exon	1	762	.	+	.	ID=psba113.p1.exon1;Parent=psba113.p1
+psba113	transdecoder	CDS	1	762	.	+	0	ID=cds.psba113.p1;Parent=psba113.p1
+
+psba114	transdecoder	gene	1	762	.	+	.	ID=GENE.psba114~~psba114.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D467.02
+psba114	transdecoder	mRNA	1	762	.	+	.	ID=psba114.p1;Parent=GENE.psba114~~psba114.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D467.02
+psba114	transdecoder	exon	1	762	.	+	.	ID=psba114.p1.exon1;Parent=psba114.p1
+psba114	transdecoder	CDS	1	762	.	+	0	ID=cds.psba114.p1;Parent=psba114.p1
+
+psba115	transdecoder	gene	1	762	.	+	.	ID=GENE.psba115~~psba115.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D476.27
+psba115	transdecoder	mRNA	1	762	.	+	.	ID=psba115.p1;Parent=GENE.psba115~~psba115.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D476.27
+psba115	transdecoder	exon	1	762	.	+	.	ID=psba115.p1.exon1;Parent=psba115.p1
+psba115	transdecoder	CDS	1	762	.	+	0	ID=cds.psba115.p1;Parent=psba115.p1
+
+psba116	transdecoder	gene	1	762	.	+	.	ID=GENE.psba116~~psba116.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D477.98
+psba116	transdecoder	mRNA	1	762	.	+	.	ID=psba116.p1;Parent=GENE.psba116~~psba116.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D477.98
+psba116	transdecoder	exon	1	762	.	+	.	ID=psba116.p1.exon1;Parent=psba116.p1
+psba116	transdecoder	CDS	1	762	.	+	0	ID=cds.psba116.p1;Parent=psba116.p1
+
+psba117	transdecoder	gene	1	762	.	+	.	ID=GENE.psba117~~psba117.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D487.95
+psba117	transdecoder	mRNA	1	762	.	+	.	ID=psba117.p1;Parent=GENE.psba117~~psba117.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D487.95
+psba117	transdecoder	exon	1	762	.	+	.	ID=psba117.p1.exon1;Parent=psba117.p1
+psba117	transdecoder	CDS	1	762	.	+	0	ID=cds.psba117.p1;Parent=psba117.p1
+
+psba118	transdecoder	gene	1	753	.	+	.	ID=GENE.psba118~~psba118.p1;Name=ORF%20type%3Ainternal%20len%3A252%20%28%2B%29%2Cscore%3D486.72
+psba118	transdecoder	mRNA	1	753	.	+	.	ID=psba118.p1;Parent=GENE.psba118~~psba118.p1;Name=ORF%20type%3Ainternal%20len%3A252%20%28%2B%29%2Cscore%3D486.72
+psba118	transdecoder	exon	1	753	.	+	.	ID=psba118.p1.exon1;Parent=psba118.p1
+psba118	transdecoder	CDS	1	753	.	+	0	ID=cds.psba118.p1;Parent=psba118.p1
+
+psba119	transdecoder	gene	1	762	.	+	.	ID=GENE.psba119~~psba119.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D484.76
+psba119	transdecoder	mRNA	1	762	.	+	.	ID=psba119.p1;Parent=GENE.psba119~~psba119.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D484.76
+psba119	transdecoder	exon	1	762	.	+	.	ID=psba119.p1.exon1;Parent=psba119.p1
+psba119	transdecoder	CDS	1	762	.	+	0	ID=cds.psba119.p1;Parent=psba119.p1
+
+psba12	transdecoder	gene	1	726	.	+	.	ID=GENE.psba12~~psba12.p1;Name=ORF%20type%3Ainternal%20len%3A243%20%28%2B%29%2Cscore%3D433.33
+psba12	transdecoder	mRNA	1	726	.	+	.	ID=psba12.p1;Parent=GENE.psba12~~psba12.p1;Name=ORF%20type%3Ainternal%20len%3A243%20%28%2B%29%2Cscore%3D433.33
+psba12	transdecoder	exon	1	726	.	+	.	ID=psba12.p1.exon1;Parent=psba12.p1
+psba12	transdecoder	CDS	1	726	.	+	0	ID=cds.psba12.p1;Parent=psba12.p1
+
+psba120	transdecoder	gene	1	762	.	+	.	ID=GENE.psba120~~psba120.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D477.20
+psba120	transdecoder	mRNA	1	762	.	+	.	ID=psba120.p1;Parent=GENE.psba120~~psba120.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D477.20
+psba120	transdecoder	exon	1	762	.	+	.	ID=psba120.p1.exon1;Parent=psba120.p1
+psba120	transdecoder	CDS	1	762	.	+	0	ID=cds.psba120.p1;Parent=psba120.p1
+
+psba121	transdecoder	gene	1	891	.	+	.	ID=GENE.psba121~~psba121.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D553.02
+psba121	transdecoder	mRNA	1	891	.	+	.	ID=psba121.p1;Parent=GENE.psba121~~psba121.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D553.02
+psba121	transdecoder	exon	1	891	.	+	.	ID=psba121.p1.exon1;Parent=psba121.p1
+psba121	transdecoder	CDS	1	891	.	+	0	ID=cds.psba121.p1;Parent=psba121.p1
+
+psba122	transdecoder	gene	1	762	.	+	.	ID=GENE.psba122~~psba122.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D471.51
+psba122	transdecoder	mRNA	1	762	.	+	.	ID=psba122.p1;Parent=GENE.psba122~~psba122.p1;Name=ORF%20type%3A3prime_partial%20len%3A255%20%28%2B%29%2Cscore%3D471.51
+psba122	transdecoder	exon	1	762	.	+	.	ID=psba122.p1.exon1;Parent=psba122.p1
+psba122	transdecoder	CDS	1	762	.	+	0	ID=cds.psba122.p1;Parent=psba122.p1
+
+psba123	transdecoder	gene	1	863	.	+	.	ID=GENE.psba123~~psba123.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D541.14
+psba123	transdecoder	mRNA	1	863	.	+	.	ID=psba123.p1;Parent=GENE.psba123~~psba123.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D541.14
+psba123	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba123.p1.utr5p1;Parent=psba123.p1
+psba123	transdecoder	exon	1	863	.	+	.	ID=psba123.p1.exon1;Parent=psba123.p1
+psba123	transdecoder	CDS	3	863	.	+	0	ID=cds.psba123.p1;Parent=psba123.p1
+
+psba124	transdecoder	gene	1	863	.	+	.	ID=GENE.psba124~~psba124.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D521.88
+psba124	transdecoder	mRNA	1	863	.	+	.	ID=psba124.p1;Parent=GENE.psba124~~psba124.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D521.88
+psba124	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba124.p1.utr5p1;Parent=psba124.p1
+psba124	transdecoder	exon	1	863	.	+	.	ID=psba124.p1.exon1;Parent=psba124.p1
+psba124	transdecoder	CDS	3	863	.	+	0	ID=cds.psba124.p1;Parent=psba124.p1
+
+psba125	transdecoder	gene	1	900	.	+	.	ID=GENE.psba125~~psba125.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D558.33
+psba125	transdecoder	mRNA	1	900	.	+	.	ID=psba125.p1;Parent=GENE.psba125~~psba125.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D558.33
+psba125	transdecoder	exon	1	900	.	+	.	ID=psba125.p1.exon1;Parent=psba125.p1
+psba125	transdecoder	CDS	1	900	.	+	0	ID=cds.psba125.p1;Parent=psba125.p1
+
+psba126	transdecoder	gene	1	942	.	+	.	ID=GENE.psba126~~psba126.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D558.03
+psba126	transdecoder	mRNA	1	942	.	+	.	ID=psba126.p1;Parent=GENE.psba126~~psba126.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D558.03
+psba126	transdecoder	exon	1	942	.	+	.	ID=psba126.p1.exon1;Parent=psba126.p1
+psba126	transdecoder	CDS	1	942	.	+	0	ID=cds.psba126.p1;Parent=psba126.p1
+
+psba127	transdecoder	gene	1	863	.	+	.	ID=GENE.psba127~~psba127.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D466.74
+psba127	transdecoder	mRNA	1	863	.	+	.	ID=psba127.p1;Parent=GENE.psba127~~psba127.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D466.74
+psba127	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba127.p1.utr5p1;Parent=psba127.p1
+psba127	transdecoder	exon	1	863	.	+	.	ID=psba127.p1.exon1;Parent=psba127.p1
+psba127	transdecoder	CDS	3	863	.	+	0	ID=cds.psba127.p1;Parent=psba127.p1
+
+psba128	transdecoder	gene	1	891	.	+	.	ID=GENE.psba128~~psba128.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D546.69
+psba128	transdecoder	mRNA	1	891	.	+	.	ID=psba128.p1;Parent=GENE.psba128~~psba128.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D546.69
+psba128	transdecoder	exon	1	891	.	+	.	ID=psba128.p1.exon1;Parent=psba128.p1
+psba128	transdecoder	CDS	1	891	.	+	0	ID=cds.psba128.p1;Parent=psba128.p1
+
+psba129	transdecoder	gene	1	756	.	+	.	ID=GENE.psba129~~psba129.p1;Name=ORF%20type%3Ainternal%20len%3A253%20%28%2B%29%2Cscore%3D454.39
+psba129	transdecoder	mRNA	1	756	.	+	.	ID=psba129.p1;Parent=GENE.psba129~~psba129.p1;Name=ORF%20type%3Ainternal%20len%3A253%20%28%2B%29%2Cscore%3D454.39
+psba129	transdecoder	exon	1	756	.	+	.	ID=psba129.p1.exon1;Parent=psba129.p1
+psba129	transdecoder	CDS	1	756	.	+	0	ID=cds.psba129.p1;Parent=psba129.p1
+
+psba13	transdecoder	gene	1	942	.	+	.	ID=GENE.psba13~~psba13.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D587.64
+psba13	transdecoder	mRNA	1	942	.	+	.	ID=psba13.p1;Parent=GENE.psba13~~psba13.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D587.64
+psba13	transdecoder	exon	1	942	.	+	.	ID=psba13.p1.exon1;Parent=psba13.p1
+psba13	transdecoder	CDS	1	942	.	+	0	ID=cds.psba13.p1;Parent=psba13.p1
+
+psba130	transdecoder	gene	1	578	.	+	.	ID=GENE.psba130~~psba130.p1;Name=ORF%20type%3Ainternal%20len%3A193%20%28%2B%29%2Cscore%3D348.55
+psba130	transdecoder	mRNA	1	578	.	+	.	ID=psba130.p1;Parent=GENE.psba130~~psba130.p1;Name=ORF%20type%3Ainternal%20len%3A193%20%28%2B%29%2Cscore%3D348.55
+psba130	transdecoder	exon	1	578	.	+	.	ID=psba130.p1.exon1;Parent=psba130.p1
+psba130	transdecoder	CDS	1	576	.	+	0	ID=cds.psba130.p1;Parent=psba130.p1
+psba130	transdecoder	three_prime_UTR	577	578	.	+	.	ID=psba130.p1.utr3p1;Parent=psba130.p1
+
+psba131	transdecoder	gene	1	900	.	+	.	ID=GENE.psba131~~psba131.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D507.75
+psba131	transdecoder	mRNA	1	900	.	+	.	ID=psba131.p1;Parent=GENE.psba131~~psba131.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D507.75
+psba131	transdecoder	exon	1	900	.	+	.	ID=psba131.p1.exon1;Parent=psba131.p1
+psba131	transdecoder	CDS	1	900	.	+	0	ID=cds.psba131.p1;Parent=psba131.p1
+
+psba132	transdecoder	gene	1	562	.	+	.	ID=GENE.psba132~~psba132.p1;Name=ORF%20type%3Ainternal%20len%3A188%20%28%2B%29%2Cscore%3D340.96
+psba132	transdecoder	mRNA	1	562	.	+	.	ID=psba132.p1;Parent=GENE.psba132~~psba132.p1;Name=ORF%20type%3Ainternal%20len%3A188%20%28%2B%29%2Cscore%3D340.96
+psba132	transdecoder	exon	1	562	.	+	.	ID=psba132.p1.exon1;Parent=psba132.p1
+psba132	transdecoder	CDS	1	561	.	+	0	ID=cds.psba132.p1;Parent=psba132.p1
+psba132	transdecoder	three_prime_UTR	562	562	.	+	.	ID=psba132.p1.utr3p1;Parent=psba132.p1
+
+psba133	transdecoder	gene	1	903	.	+	.	ID=GENE.psba133~~psba133.p1;Name=ORF%20type%3Ainternal%20len%3A302%20%28%2B%29%2Cscore%3D545.81
+psba133	transdecoder	mRNA	1	903	.	+	.	ID=psba133.p1;Parent=GENE.psba133~~psba133.p1;Name=ORF%20type%3Ainternal%20len%3A302%20%28%2B%29%2Cscore%3D545.81
+psba133	transdecoder	exon	1	903	.	+	.	ID=psba133.p1.exon1;Parent=psba133.p1
+psba133	transdecoder	CDS	1	903	.	+	0	ID=cds.psba133.p1;Parent=psba133.p1
+
+psba134	transdecoder	gene	1	900	.	+	.	ID=GENE.psba134~~psba134.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D504.17
+psba134	transdecoder	mRNA	1	900	.	+	.	ID=psba134.p1;Parent=GENE.psba134~~psba134.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D504.17
+psba134	transdecoder	exon	1	900	.	+	.	ID=psba134.p1.exon1;Parent=psba134.p1
+psba134	transdecoder	CDS	1	900	.	+	0	ID=cds.psba134.p1;Parent=psba134.p1
+
+psba14	transdecoder	gene	1	888	.	+	.	ID=GENE.psba14~~psba14.p1;Name=ORF%20type%3Ainternal%20len%3A297%20%28%2B%29%2Cscore%3D539.31
+psba14	transdecoder	mRNA	1	888	.	+	.	ID=psba14.p1;Parent=GENE.psba14~~psba14.p1;Name=ORF%20type%3Ainternal%20len%3A297%20%28%2B%29%2Cscore%3D539.31
+psba14	transdecoder	exon	1	888	.	+	.	ID=psba14.p1.exon1;Parent=psba14.p1
+psba14	transdecoder	CDS	1	888	.	+	0	ID=cds.psba14.p1;Parent=psba14.p1
+
+psba15	transdecoder	gene	1	900	.	+	.	ID=GENE.psba15~~psba15.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D443.00
+psba15	transdecoder	mRNA	1	900	.	+	.	ID=psba15.p1;Parent=GENE.psba15~~psba15.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D443.00
+psba15	transdecoder	exon	1	900	.	+	.	ID=psba15.p1.exon1;Parent=psba15.p1
+psba15	transdecoder	CDS	1	900	.	+	0	ID=cds.psba15.p1;Parent=psba15.p1
+
+psba16	transdecoder	gene	1	891	.	+	.	ID=GENE.psba16~~psba16.p1;Name=ORF%20type%3Ainternal%20len%3A298%20%28%2B%29%2Cscore%3D528.21
+psba16	transdecoder	mRNA	1	891	.	+	.	ID=psba16.p1;Parent=GENE.psba16~~psba16.p1;Name=ORF%20type%3Ainternal%20len%3A298%20%28%2B%29%2Cscore%3D528.21
+psba16	transdecoder	exon	1	891	.	+	.	ID=psba16.p1.exon1;Parent=psba16.p1
+psba16	transdecoder	CDS	1	891	.	+	0	ID=cds.psba16.p1;Parent=psba16.p1
+
+psba17	transdecoder	gene	1	942	.	+	.	ID=GENE.psba17~~psba17.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D526.81
+psba17	transdecoder	mRNA	1	942	.	+	.	ID=psba17.p1;Parent=GENE.psba17~~psba17.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D526.81
+psba17	transdecoder	exon	1	942	.	+	.	ID=psba17.p1.exon1;Parent=psba17.p1
+psba17	transdecoder	CDS	1	942	.	+	0	ID=cds.psba17.p1;Parent=psba17.p1
+
+psba18	transdecoder	gene	1	557	.	+	.	ID=GENE.psba18~~psba18.p1;Name=ORF%20type%3Ainternal%20len%3A186%20%28%2B%29%2Cscore%3D345.31
+psba18	transdecoder	mRNA	1	557	.	+	.	ID=psba18.p1;Parent=GENE.psba18~~psba18.p1;Name=ORF%20type%3Ainternal%20len%3A186%20%28%2B%29%2Cscore%3D345.31
+psba18	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba18.p1.utr5p1;Parent=psba18.p1
+psba18	transdecoder	exon	1	557	.	+	.	ID=psba18.p1.exon1;Parent=psba18.p1
+psba18	transdecoder	CDS	3	557	.	+	0	ID=cds.psba18.p1;Parent=psba18.p1
+
+psba19	transdecoder	gene	1	900	.	+	.	ID=GENE.psba19~~psba19.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D549.49
+psba19	transdecoder	mRNA	1	900	.	+	.	ID=psba19.p1;Parent=GENE.psba19~~psba19.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D549.49
+psba19	transdecoder	exon	1	900	.	+	.	ID=psba19.p1.exon1;Parent=psba19.p1
+psba19	transdecoder	CDS	1	900	.	+	0	ID=cds.psba19.p1;Parent=psba19.p1
+
+psba2	transdecoder	gene	1	891	.	+	.	ID=GENE.psba2~~psba2.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D446.26
+psba2	transdecoder	mRNA	1	891	.	+	.	ID=psba2.p1;Parent=GENE.psba2~~psba2.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D446.26
+psba2	transdecoder	exon	1	891	.	+	.	ID=psba2.p1.exon1;Parent=psba2.p1
+psba2	transdecoder	CDS	1	891	.	+	0	ID=cds.psba2.p1;Parent=psba2.p1
+
+psba20	transdecoder	gene	1	900	.	+	.	ID=GENE.psba20~~psba20.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D490.04
+psba20	transdecoder	mRNA	1	900	.	+	.	ID=psba20.p1;Parent=GENE.psba20~~psba20.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D490.04
+psba20	transdecoder	exon	1	900	.	+	.	ID=psba20.p1.exon1;Parent=psba20.p1
+psba20	transdecoder	CDS	1	900	.	+	0	ID=cds.psba20.p1;Parent=psba20.p1
+
+psba21	transdecoder	gene	1	829	.	+	.	ID=GENE.psba21~~psba21.p1;Name=ORF%20type%3A3prime_partial%20len%3A277%20%28%2B%29%2Cscore%3D481.66
+psba21	transdecoder	mRNA	1	829	.	+	.	ID=psba21.p1;Parent=GENE.psba21~~psba21.p1;Name=ORF%20type%3A3prime_partial%20len%3A277%20%28%2B%29%2Cscore%3D481.66
+psba21	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba21.p1.utr5p1;Parent=psba21.p1
+psba21	transdecoder	exon	1	829	.	+	.	ID=psba21.p1.exon1;Parent=psba21.p1
+psba21	transdecoder	CDS	2	829	.	+	0	ID=cds.psba21.p1;Parent=psba21.p1
+
+psba22	transdecoder	gene	1	903	.	+	.	ID=GENE.psba22~~psba22.p1;Name=ORF%20type%3Ainternal%20len%3A302%20%28%2B%29%2Cscore%3D519.62
+psba22	transdecoder	mRNA	1	903	.	+	.	ID=psba22.p1;Parent=GENE.psba22~~psba22.p1;Name=ORF%20type%3Ainternal%20len%3A302%20%28%2B%29%2Cscore%3D519.62
+psba22	transdecoder	exon	1	903	.	+	.	ID=psba22.p1.exon1;Parent=psba22.p1
+psba22	transdecoder	CDS	1	903	.	+	0	ID=cds.psba22.p1;Parent=psba22.p1
+
+psba23	transdecoder	gene	1	578	.	+	.	ID=GENE.psba23~~psba23.p1;Name=ORF%20type%3Ainternal%20len%3A193%20%28%2B%29%2Cscore%3D339.03
+psba23	transdecoder	mRNA	1	578	.	+	.	ID=psba23.p1;Parent=GENE.psba23~~psba23.p1;Name=ORF%20type%3Ainternal%20len%3A193%20%28%2B%29%2Cscore%3D339.03
+psba23	transdecoder	exon	1	578	.	+	.	ID=psba23.p1.exon1;Parent=psba23.p1
+psba23	transdecoder	CDS	1	576	.	+	0	ID=cds.psba23.p1;Parent=psba23.p1
+psba23	transdecoder	three_prime_UTR	577	578	.	+	.	ID=psba23.p1.utr3p1;Parent=psba23.p1
+
+psba24	transdecoder	gene	1	863	.	+	.	ID=GENE.psba24~~psba24.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D542.75
+psba24	transdecoder	mRNA	1	863	.	+	.	ID=psba24.p1;Parent=GENE.psba24~~psba24.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D542.75
+psba24	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba24.p1.utr5p1;Parent=psba24.p1
+psba24	transdecoder	exon	1	863	.	+	.	ID=psba24.p1.exon1;Parent=psba24.p1
+psba24	transdecoder	CDS	3	863	.	+	0	ID=cds.psba24.p1;Parent=psba24.p1
+
+psba25	transdecoder	gene	1	863	.	+	.	ID=GENE.psba25~~psba25.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D524.01
+psba25	transdecoder	mRNA	1	863	.	+	.	ID=psba25.p1;Parent=GENE.psba25~~psba25.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D524.01
+psba25	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba25.p1.utr5p1;Parent=psba25.p1
+psba25	transdecoder	exon	1	863	.	+	.	ID=psba25.p1.exon1;Parent=psba25.p1
+psba25	transdecoder	CDS	3	863	.	+	0	ID=cds.psba25.p1;Parent=psba25.p1
+
+psba26	transdecoder	gene	1	863	.	+	.	ID=GENE.psba26~~psba26.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D526.63
+psba26	transdecoder	mRNA	1	863	.	+	.	ID=psba26.p1;Parent=GENE.psba26~~psba26.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D526.63
+psba26	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba26.p1.utr5p1;Parent=psba26.p1
+psba26	transdecoder	exon	1	863	.	+	.	ID=psba26.p1.exon1;Parent=psba26.p1
+psba26	transdecoder	CDS	3	863	.	+	0	ID=cds.psba26.p1;Parent=psba26.p1
+
+psba27	transdecoder	gene	1	863	.	+	.	ID=GENE.psba27~~psba27.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.67
+psba27	transdecoder	mRNA	1	863	.	+	.	ID=psba27.p1;Parent=GENE.psba27~~psba27.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.67
+psba27	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba27.p1.utr5p1;Parent=psba27.p1
+psba27	transdecoder	exon	1	863	.	+	.	ID=psba27.p1.exon1;Parent=psba27.p1
+psba27	transdecoder	CDS	3	863	.	+	0	ID=cds.psba27.p1;Parent=psba27.p1
+
+psba28	transdecoder	gene	1	863	.	+	.	ID=GENE.psba28~~psba28.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D532.25
+psba28	transdecoder	mRNA	1	863	.	+	.	ID=psba28.p1;Parent=GENE.psba28~~psba28.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D532.25
+psba28	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba28.p1.utr5p1;Parent=psba28.p1
+psba28	transdecoder	exon	1	863	.	+	.	ID=psba28.p1.exon1;Parent=psba28.p1
+psba28	transdecoder	CDS	3	863	.	+	0	ID=cds.psba28.p1;Parent=psba28.p1
+
+psba29	transdecoder	gene	1	851	.	+	.	ID=GENE.psba29~~psba29.p1;Name=ORF%20type%3Ainternal%20len%3A284%20%28%2B%29%2Cscore%3D524.42
+psba29	transdecoder	mRNA	1	851	.	+	.	ID=psba29.p1;Parent=GENE.psba29~~psba29.p1;Name=ORF%20type%3Ainternal%20len%3A284%20%28%2B%29%2Cscore%3D524.42
+psba29	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba29.p1.utr5p1;Parent=psba29.p1
+psba29	transdecoder	exon	1	851	.	+	.	ID=psba29.p1.exon1;Parent=psba29.p1
+psba29	transdecoder	CDS	2	850	.	+	0	ID=cds.psba29.p1;Parent=psba29.p1
+psba29	transdecoder	three_prime_UTR	851	851	.	+	.	ID=psba29.p1.utr3p1;Parent=psba29.p1
+
+psba3	transdecoder	gene	1	897	.	+	.	ID=GENE.psba3~~psba3.p1;Name=ORF%20type%3Ainternal%20len%3A300%20%28%2B%29%2Cscore%3D523.12
+psba3	transdecoder	mRNA	1	897	.	+	.	ID=psba3.p1;Parent=GENE.psba3~~psba3.p1;Name=ORF%20type%3Ainternal%20len%3A300%20%28%2B%29%2Cscore%3D523.12
+psba3	transdecoder	exon	1	897	.	+	.	ID=psba3.p1.exon1;Parent=psba3.p1
+psba3	transdecoder	CDS	1	897	.	+	0	ID=cds.psba3.p1;Parent=psba3.p1
+
+psba30	transdecoder	gene	1	863	.	+	.	ID=GENE.psba30~~psba30.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D529.44
+psba30	transdecoder	mRNA	1	863	.	+	.	ID=psba30.p1;Parent=GENE.psba30~~psba30.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D529.44
+psba30	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba30.p1.utr5p1;Parent=psba30.p1
+psba30	transdecoder	exon	1	863	.	+	.	ID=psba30.p1.exon1;Parent=psba30.p1
+psba30	transdecoder	CDS	3	863	.	+	0	ID=cds.psba30.p1;Parent=psba30.p1
+
+psba31	transdecoder	gene	1	858	.	+	.	ID=GENE.psba31~~psba31.p1;Name=ORF%20type%3Ainternal%20len%3A286%20%28%2B%29%2Cscore%3D524.43
+psba31	transdecoder	mRNA	1	858	.	+	.	ID=psba31.p1;Parent=GENE.psba31~~psba31.p1;Name=ORF%20type%3Ainternal%20len%3A286%20%28%2B%29%2Cscore%3D524.43
+psba31	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba31.p1.utr5p1;Parent=psba31.p1
+psba31	transdecoder	exon	1	858	.	+	.	ID=psba31.p1.exon1;Parent=psba31.p1
+psba31	transdecoder	CDS	3	857	.	+	0	ID=cds.psba31.p1;Parent=psba31.p1
+psba31	transdecoder	three_prime_UTR	858	858	.	+	.	ID=psba31.p1.utr3p1;Parent=psba31.p1
+
+psba32	transdecoder	gene	1	863	.	+	.	ID=GENE.psba32~~psba32.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.37
+psba32	transdecoder	mRNA	1	863	.	+	.	ID=psba32.p1;Parent=GENE.psba32~~psba32.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.37
+psba32	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba32.p1.utr5p1;Parent=psba32.p1
+psba32	transdecoder	exon	1	863	.	+	.	ID=psba32.p1.exon1;Parent=psba32.p1
+psba32	transdecoder	CDS	3	863	.	+	0	ID=cds.psba32.p1;Parent=psba32.p1
+
+psba33	transdecoder	gene	1	855	.	+	.	ID=GENE.psba33~~psba33.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D540.35
+psba33	transdecoder	mRNA	1	855	.	+	.	ID=psba33.p1;Parent=GENE.psba33~~psba33.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D540.35
+psba33	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba33.p1.utr5p1;Parent=psba33.p1
+psba33	transdecoder	exon	1	855	.	+	.	ID=psba33.p1.exon1;Parent=psba33.p1
+psba33	transdecoder	CDS	3	854	.	+	0	ID=cds.psba33.p1;Parent=psba33.p1
+psba33	transdecoder	three_prime_UTR	855	855	.	+	.	ID=psba33.p1.utr3p1;Parent=psba33.p1
+
+psba34	transdecoder	gene	1	863	.	+	.	ID=GENE.psba34~~psba34.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D524.74
+psba34	transdecoder	mRNA	1	863	.	+	.	ID=psba34.p1;Parent=GENE.psba34~~psba34.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D524.74
+psba34	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba34.p1.utr5p1;Parent=psba34.p1
+psba34	transdecoder	exon	1	863	.	+	.	ID=psba34.p1.exon1;Parent=psba34.p1
+psba34	transdecoder	CDS	3	863	.	+	0	ID=cds.psba34.p1;Parent=psba34.p1
+
+psba35	transdecoder	gene	1	863	.	+	.	ID=GENE.psba35~~psba35.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D548.93
+psba35	transdecoder	mRNA	1	863	.	+	.	ID=psba35.p1;Parent=GENE.psba35~~psba35.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D548.93
+psba35	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba35.p1.utr5p1;Parent=psba35.p1
+psba35	transdecoder	exon	1	863	.	+	.	ID=psba35.p1.exon1;Parent=psba35.p1
+psba35	transdecoder	CDS	3	863	.	+	0	ID=cds.psba35.p1;Parent=psba35.p1
+
+psba36	transdecoder	gene	1	854	.	+	.	ID=GENE.psba36~~psba36.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D526.31
+psba36	transdecoder	mRNA	1	854	.	+	.	ID=psba36.p1;Parent=GENE.psba36~~psba36.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D526.31
+psba36	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba36.p1.utr5p1;Parent=psba36.p1
+psba36	transdecoder	exon	1	854	.	+	.	ID=psba36.p1.exon1;Parent=psba36.p1
+psba36	transdecoder	CDS	3	854	.	+	0	ID=cds.psba36.p1;Parent=psba36.p1
+
+psba37	transdecoder	gene	1	863	.	+	.	ID=GENE.psba37~~psba37.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D490.43
+psba37	transdecoder	mRNA	1	863	.	+	.	ID=psba37.p1;Parent=GENE.psba37~~psba37.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D490.43
+psba37	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba37.p1.utr5p1;Parent=psba37.p1
+psba37	transdecoder	exon	1	863	.	+	.	ID=psba37.p1.exon1;Parent=psba37.p1
+psba37	transdecoder	CDS	3	863	.	+	0	ID=cds.psba37.p1;Parent=psba37.p1
+
+psba38	transdecoder	gene	1	863	.	+	.	ID=GENE.psba38~~psba38.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D492.91
+psba38	transdecoder	mRNA	1	863	.	+	.	ID=psba38.p1;Parent=GENE.psba38~~psba38.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D492.91
+psba38	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba38.p1.utr5p1;Parent=psba38.p1
+psba38	transdecoder	exon	1	863	.	+	.	ID=psba38.p1.exon1;Parent=psba38.p1
+psba38	transdecoder	CDS	3	863	.	+	0	ID=cds.psba38.p1;Parent=psba38.p1
+
+psba39	transdecoder	gene	1	849	.	+	.	ID=GENE.psba39~~psba39.p1;Name=ORF%20type%3Ainternal%20len%3A284%20%28%2B%29%2Cscore%3D478.33
+psba39	transdecoder	mRNA	1	849	.	+	.	ID=psba39.p1;Parent=GENE.psba39~~psba39.p1;Name=ORF%20type%3Ainternal%20len%3A284%20%28%2B%29%2Cscore%3D478.33
+psba39	transdecoder	exon	1	849	.	+	.	ID=psba39.p1.exon1;Parent=psba39.p1
+psba39	transdecoder	CDS	1	849	.	+	0	ID=cds.psba39.p1;Parent=psba39.p1
+
+psba4	transdecoder	gene	1	888	.	+	.	ID=GENE.psba4~~psba4.p1;Name=ORF%20type%3A3prime_partial%20len%3A297%20%28%2B%29%2Cscore%3D547.79
+psba4	transdecoder	mRNA	1	888	.	+	.	ID=psba4.p1;Parent=GENE.psba4~~psba4.p1;Name=ORF%20type%3A3prime_partial%20len%3A297%20%28%2B%29%2Cscore%3D547.79
+psba4	transdecoder	exon	1	888	.	+	.	ID=psba4.p1.exon1;Parent=psba4.p1
+psba4	transdecoder	CDS	1	888	.	+	0	ID=cds.psba4.p1;Parent=psba4.p1
+
+psba40	transdecoder	gene	1	863	.	+	.	ID=GENE.psba40~~psba40.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D497.81
+psba40	transdecoder	mRNA	1	863	.	+	.	ID=psba40.p1;Parent=GENE.psba40~~psba40.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D497.81
+psba40	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba40.p1.utr5p1;Parent=psba40.p1
+psba40	transdecoder	exon	1	863	.	+	.	ID=psba40.p1.exon1;Parent=psba40.p1
+psba40	transdecoder	CDS	3	863	.	+	0	ID=cds.psba40.p1;Parent=psba40.p1
+
+psba41	transdecoder	gene	1	863	.	+	.	ID=GENE.psba41~~psba41.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.12
+psba41	transdecoder	mRNA	1	863	.	+	.	ID=psba41.p1;Parent=GENE.psba41~~psba41.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.12
+psba41	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba41.p1.utr5p1;Parent=psba41.p1
+psba41	transdecoder	exon	1	863	.	+	.	ID=psba41.p1.exon1;Parent=psba41.p1
+psba41	transdecoder	CDS	3	863	.	+	0	ID=cds.psba41.p1;Parent=psba41.p1
+
+psba42	transdecoder	gene	1	891	.	+	.	ID=GENE.psba42~~psba42.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D475.29
+psba42	transdecoder	mRNA	1	891	.	+	.	ID=psba42.p1;Parent=GENE.psba42~~psba42.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D475.29
+psba42	transdecoder	exon	1	891	.	+	.	ID=psba42.p1.exon1;Parent=psba42.p1
+psba42	transdecoder	CDS	1	891	.	+	0	ID=cds.psba42.p1;Parent=psba42.p1
+
+psba43	transdecoder	gene	1	855	.	+	.	ID=GENE.psba43~~psba43.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D496.73
+psba43	transdecoder	mRNA	1	855	.	+	.	ID=psba43.p1;Parent=GENE.psba43~~psba43.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D496.73
+psba43	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba43.p1.utr5p1;Parent=psba43.p1
+psba43	transdecoder	exon	1	855	.	+	.	ID=psba43.p1.exon1;Parent=psba43.p1
+psba43	transdecoder	CDS	3	854	.	+	0	ID=cds.psba43.p1;Parent=psba43.p1
+psba43	transdecoder	three_prime_UTR	855	855	.	+	.	ID=psba43.p1.utr3p1;Parent=psba43.p1
+
+psba44	transdecoder	gene	1	863	.	+	.	ID=GENE.psba44~~psba44.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D540.36
+psba44	transdecoder	mRNA	1	863	.	+	.	ID=psba44.p1;Parent=GENE.psba44~~psba44.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D540.36
+psba44	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba44.p1.utr5p1;Parent=psba44.p1
+psba44	transdecoder	exon	1	863	.	+	.	ID=psba44.p1.exon1;Parent=psba44.p1
+psba44	transdecoder	CDS	3	863	.	+	0	ID=cds.psba44.p1;Parent=psba44.p1
+
+psba45	transdecoder	gene	1	863	.	+	.	ID=GENE.psba45~~psba45.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D514.75
+psba45	transdecoder	mRNA	1	863	.	+	.	ID=psba45.p1;Parent=GENE.psba45~~psba45.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D514.75
+psba45	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba45.p1.utr5p1;Parent=psba45.p1
+psba45	transdecoder	exon	1	863	.	+	.	ID=psba45.p1.exon1;Parent=psba45.p1
+psba45	transdecoder	CDS	3	863	.	+	0	ID=cds.psba45.p1;Parent=psba45.p1
+
+psba46	transdecoder	gene	1	863	.	+	.	ID=GENE.psba46~~psba46.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D494.92
+psba46	transdecoder	mRNA	1	863	.	+	.	ID=psba46.p1;Parent=GENE.psba46~~psba46.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D494.92
+psba46	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba46.p1.utr5p1;Parent=psba46.p1
+psba46	transdecoder	exon	1	863	.	+	.	ID=psba46.p1.exon1;Parent=psba46.p1
+psba46	transdecoder	CDS	3	863	.	+	0	ID=cds.psba46.p1;Parent=psba46.p1
+
+psba47	transdecoder	gene	1	855	.	+	.	ID=GENE.psba47~~psba47.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D510.71
+psba47	transdecoder	mRNA	1	855	.	+	.	ID=psba47.p1;Parent=GENE.psba47~~psba47.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D510.71
+psba47	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba47.p1.utr5p1;Parent=psba47.p1
+psba47	transdecoder	exon	1	855	.	+	.	ID=psba47.p1.exon1;Parent=psba47.p1
+psba47	transdecoder	CDS	3	854	.	+	0	ID=cds.psba47.p1;Parent=psba47.p1
+psba47	transdecoder	three_prime_UTR	855	855	.	+	.	ID=psba47.p1.utr3p1;Parent=psba47.p1
+
+psba48	transdecoder	gene	1	863	.	+	.	ID=GENE.psba48~~psba48.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D512.49
+psba48	transdecoder	mRNA	1	863	.	+	.	ID=psba48.p1;Parent=GENE.psba48~~psba48.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D512.49
+psba48	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba48.p1.utr5p1;Parent=psba48.p1
+psba48	transdecoder	exon	1	863	.	+	.	ID=psba48.p1.exon1;Parent=psba48.p1
+psba48	transdecoder	CDS	3	863	.	+	0	ID=cds.psba48.p1;Parent=psba48.p1
+
+psba49	transdecoder	gene	1	858	.	+	.	ID=GENE.psba49~~psba49.p1;Name=ORF%20type%3Ainternal%20len%3A286%20%28%2B%29%2Cscore%3D538.57
+psba49	transdecoder	mRNA	1	858	.	+	.	ID=psba49.p1;Parent=GENE.psba49~~psba49.p1;Name=ORF%20type%3Ainternal%20len%3A286%20%28%2B%29%2Cscore%3D538.57
+psba49	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba49.p1.utr5p1;Parent=psba49.p1
+psba49	transdecoder	exon	1	858	.	+	.	ID=psba49.p1.exon1;Parent=psba49.p1
+psba49	transdecoder	CDS	3	857	.	+	0	ID=cds.psba49.p1;Parent=psba49.p1
+psba49	transdecoder	three_prime_UTR	858	858	.	+	.	ID=psba49.p1.utr3p1;Parent=psba49.p1
+
+psba5	transdecoder	gene	1	863	.	+	.	ID=GENE.psba5~~psba5.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D521.85
+psba5	transdecoder	mRNA	1	863	.	+	.	ID=psba5.p1;Parent=GENE.psba5~~psba5.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D521.85
+psba5	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba5.p1.utr5p1;Parent=psba5.p1
+psba5	transdecoder	exon	1	863	.	+	.	ID=psba5.p1.exon1;Parent=psba5.p1
+psba5	transdecoder	CDS	3	863	.	+	0	ID=cds.psba5.p1;Parent=psba5.p1
+
+psba50	transdecoder	gene	1	900	.	+	.	ID=GENE.psba50~~psba50.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D542.88
+psba50	transdecoder	mRNA	1	900	.	+	.	ID=psba50.p1;Parent=GENE.psba50~~psba50.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D542.88
+psba50	transdecoder	exon	1	900	.	+	.	ID=psba50.p1.exon1;Parent=psba50.p1
+psba50	transdecoder	CDS	1	900	.	+	0	ID=cds.psba50.p1;Parent=psba50.p1
+
+psba51	transdecoder	gene	1	891	.	+	.	ID=GENE.psba51~~psba51.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D505.87
+psba51	transdecoder	mRNA	1	891	.	+	.	ID=psba51.p1;Parent=GENE.psba51~~psba51.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D505.87
+psba51	transdecoder	exon	1	891	.	+	.	ID=psba51.p1.exon1;Parent=psba51.p1
+psba51	transdecoder	CDS	1	891	.	+	0	ID=cds.psba51.p1;Parent=psba51.p1
+
+psba52	transdecoder	gene	1	873	.	+	.	ID=GENE.psba52~~psba52.p1;Name=ORF%20type%3Ainternal%20len%3A292%20%28%2B%29%2Cscore%3D501.74
+psba52	transdecoder	mRNA	1	873	.	+	.	ID=psba52.p1;Parent=GENE.psba52~~psba52.p1;Name=ORF%20type%3Ainternal%20len%3A292%20%28%2B%29%2Cscore%3D501.74
+psba52	transdecoder	exon	1	873	.	+	.	ID=psba52.p1.exon1;Parent=psba52.p1
+psba52	transdecoder	CDS	1	873	.	+	0	ID=cds.psba52.p1;Parent=psba52.p1
+
+psba53	transdecoder	gene	1	894	.	+	.	ID=GENE.psba53~~psba53.p1;Name=ORF%20type%3A3prime_partial%20len%3A299%20%28%2B%29%2Cscore%3D525.32
+psba53	transdecoder	mRNA	1	894	.	+	.	ID=psba53.p1;Parent=GENE.psba53~~psba53.p1;Name=ORF%20type%3A3prime_partial%20len%3A299%20%28%2B%29%2Cscore%3D525.32
+psba53	transdecoder	exon	1	894	.	+	.	ID=psba53.p1.exon1;Parent=psba53.p1
+psba53	transdecoder	CDS	1	894	.	+	0	ID=cds.psba53.p1;Parent=psba53.p1
+
+psba54	transdecoder	gene	1	891	.	+	.	ID=GENE.psba54~~psba54.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D563.74
+psba54	transdecoder	mRNA	1	891	.	+	.	ID=psba54.p1;Parent=GENE.psba54~~psba54.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D563.74
+psba54	transdecoder	exon	1	891	.	+	.	ID=psba54.p1.exon1;Parent=psba54.p1
+psba54	transdecoder	CDS	1	891	.	+	0	ID=cds.psba54.p1;Parent=psba54.p1
+
+psba55	transdecoder	gene	1	891	.	+	.	ID=GENE.psba55~~psba55.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D551.45
+psba55	transdecoder	mRNA	1	891	.	+	.	ID=psba55.p1;Parent=GENE.psba55~~psba55.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D551.45
+psba55	transdecoder	exon	1	891	.	+	.	ID=psba55.p1.exon1;Parent=psba55.p1
+psba55	transdecoder	CDS	1	891	.	+	0	ID=cds.psba55.p1;Parent=psba55.p1
+
+psba56	transdecoder	gene	1	962	.	+	.	ID=GENE.psba56~~psba56.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D569.68
+psba56	transdecoder	mRNA	1	962	.	+	.	ID=psba56.p1;Parent=GENE.psba56~~psba56.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D569.68
+psba56	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba56.p1.utr5p1;Parent=psba56.p1
+psba56	transdecoder	exon	1	962	.	+	.	ID=psba56.p1.exon1;Parent=psba56.p1
+psba56	transdecoder	CDS	2	961	.	+	0	ID=cds.psba56.p1;Parent=psba56.p1
+psba56	transdecoder	three_prime_UTR	962	962	.	+	.	ID=psba56.p1.utr3p1;Parent=psba56.p1
+
+psba57	transdecoder	gene	1	946	.	+	.	ID=GENE.psba57~~psba57.p1;Name=ORF%20type%3Ainternal%20len%3A316%20%28%2B%29%2Cscore%3D553.08
+psba57	transdecoder	mRNA	1	946	.	+	.	ID=psba57.p1;Parent=GENE.psba57~~psba57.p1;Name=ORF%20type%3Ainternal%20len%3A316%20%28%2B%29%2Cscore%3D553.08
+psba57	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba57.p1.utr5p1;Parent=psba57.p1
+psba57	transdecoder	exon	1	946	.	+	.	ID=psba57.p1.exon1;Parent=psba57.p1
+psba57	transdecoder	CDS	2	946	.	+	0	ID=cds.psba57.p1;Parent=psba57.p1
+
+psba58	transdecoder	gene	1	954	.	+	.	ID=GENE.psba58~~psba58.p1;Name=ORF%20type%3Ainternal%20len%3A318%20%28%2B%29%2Cscore%3D549.96
+psba58	transdecoder	mRNA	1	954	.	+	.	ID=psba58.p1;Parent=GENE.psba58~~psba58.p1;Name=ORF%20type%3Ainternal%20len%3A318%20%28%2B%29%2Cscore%3D549.96
+psba58	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba58.p1.utr5p1;Parent=psba58.p1
+psba58	transdecoder	exon	1	954	.	+	.	ID=psba58.p1.exon1;Parent=psba58.p1
+psba58	transdecoder	CDS	2	952	.	+	0	ID=cds.psba58.p1;Parent=psba58.p1
+psba58	transdecoder	three_prime_UTR	953	954	.	+	.	ID=psba58.p1.utr3p1;Parent=psba58.p1
+
+psba59	transdecoder	gene	1	962	.	+	.	ID=GENE.psba59~~psba59.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D559.09
+psba59	transdecoder	mRNA	1	962	.	+	.	ID=psba59.p1;Parent=GENE.psba59~~psba59.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D559.09
+psba59	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba59.p1.utr5p1;Parent=psba59.p1
+psba59	transdecoder	exon	1	962	.	+	.	ID=psba59.p1.exon1;Parent=psba59.p1
+psba59	transdecoder	CDS	2	961	.	+	0	ID=cds.psba59.p1;Parent=psba59.p1
+psba59	transdecoder	three_prime_UTR	962	962	.	+	.	ID=psba59.p1.utr3p1;Parent=psba59.p1
+
+psba6	transdecoder	gene	1	863	.	+	.	ID=GENE.psba6~~psba6.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D503.62
+psba6	transdecoder	mRNA	1	863	.	+	.	ID=psba6.p1;Parent=GENE.psba6~~psba6.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D503.62
+psba6	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba6.p1.utr5p1;Parent=psba6.p1
+psba6	transdecoder	exon	1	863	.	+	.	ID=psba6.p1.exon1;Parent=psba6.p1
+psba6	transdecoder	CDS	3	863	.	+	0	ID=cds.psba6.p1;Parent=psba6.p1
+
+psba60	transdecoder	gene	1	937	.	+	.	ID=GENE.psba60~~psba60.p1;Name=ORF%20type%3Ainternal%20len%3A313%20%28%2B%29%2Cscore%3D535.23
+psba60	transdecoder	mRNA	1	937	.	+	.	ID=psba60.p1;Parent=GENE.psba60~~psba60.p1;Name=ORF%20type%3Ainternal%20len%3A313%20%28%2B%29%2Cscore%3D535.23
+psba60	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba60.p1.utr5p1;Parent=psba60.p1
+psba60	transdecoder	exon	1	937	.	+	.	ID=psba60.p1.exon1;Parent=psba60.p1
+psba60	transdecoder	CDS	2	937	.	+	0	ID=cds.psba60.p1;Parent=psba60.p1
+
+psba61	transdecoder	gene	1	962	.	+	.	ID=GENE.psba61~~psba61.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D547.73
+psba61	transdecoder	mRNA	1	962	.	+	.	ID=psba61.p1;Parent=GENE.psba61~~psba61.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D547.73
+psba61	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba61.p1.utr5p1;Parent=psba61.p1
+psba61	transdecoder	exon	1	962	.	+	.	ID=psba61.p1.exon1;Parent=psba61.p1
+psba61	transdecoder	CDS	2	961	.	+	0	ID=cds.psba61.p1;Parent=psba61.p1
+psba61	transdecoder	three_prime_UTR	962	962	.	+	.	ID=psba61.p1.utr3p1;Parent=psba61.p1
+
+psba62	transdecoder	gene	1	962	.	+	.	ID=GENE.psba62~~psba62.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D557.40
+psba62	transdecoder	mRNA	1	962	.	+	.	ID=psba62.p1;Parent=GENE.psba62~~psba62.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D557.40
+psba62	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba62.p1.utr5p1;Parent=psba62.p1
+psba62	transdecoder	exon	1	962	.	+	.	ID=psba62.p1.exon1;Parent=psba62.p1
+psba62	transdecoder	CDS	2	961	.	+	0	ID=cds.psba62.p1;Parent=psba62.p1
+psba62	transdecoder	three_prime_UTR	962	962	.	+	.	ID=psba62.p1.utr3p1;Parent=psba62.p1
+
+psba63	transdecoder	gene	1	950	.	+	.	ID=GENE.psba63~~psba63.p1;Name=ORF%20type%3Ainternal%20len%3A317%20%28%2B%29%2Cscore%3D537.14
+psba63	transdecoder	mRNA	1	950	.	+	.	ID=psba63.p1;Parent=GENE.psba63~~psba63.p1;Name=ORF%20type%3Ainternal%20len%3A317%20%28%2B%29%2Cscore%3D537.14
+psba63	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba63.p1.utr5p1;Parent=psba63.p1
+psba63	transdecoder	exon	1	950	.	+	.	ID=psba63.p1.exon1;Parent=psba63.p1
+psba63	transdecoder	CDS	2	949	.	+	0	ID=cds.psba63.p1;Parent=psba63.p1
+psba63	transdecoder	three_prime_UTR	950	950	.	+	.	ID=psba63.p1.utr3p1;Parent=psba63.p1
+
+psba64	transdecoder	gene	1	962	.	+	.	ID=GENE.psba64~~psba64.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D540.70
+psba64	transdecoder	mRNA	1	962	.	+	.	ID=psba64.p1;Parent=GENE.psba64~~psba64.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D540.70
+psba64	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba64.p1.utr5p1;Parent=psba64.p1
+psba64	transdecoder	exon	1	962	.	+	.	ID=psba64.p1.exon1;Parent=psba64.p1
+psba64	transdecoder	CDS	2	961	.	+	0	ID=cds.psba64.p1;Parent=psba64.p1
+psba64	transdecoder	three_prime_UTR	962	962	.	+	.	ID=psba64.p1.utr3p1;Parent=psba64.p1
+
+psba65	transdecoder	gene	1	959	.	+	.	ID=GENE.psba65~~psba65.p1;Name=ORF%20type%3Ainternal%20len%3A320%20%28%2B%29%2Cscore%3D553.17
+psba65	transdecoder	mRNA	1	959	.	+	.	ID=psba65.p1;Parent=GENE.psba65~~psba65.p1;Name=ORF%20type%3Ainternal%20len%3A320%20%28%2B%29%2Cscore%3D553.17
+psba65	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba65.p1.utr5p1;Parent=psba65.p1
+psba65	transdecoder	exon	1	959	.	+	.	ID=psba65.p1.exon1;Parent=psba65.p1
+psba65	transdecoder	CDS	2	958	.	+	0	ID=cds.psba65.p1;Parent=psba65.p1
+psba65	transdecoder	three_prime_UTR	959	959	.	+	.	ID=psba65.p1.utr3p1;Parent=psba65.p1
+
+psba66	transdecoder	gene	1	959	.	+	.	ID=GENE.psba66~~psba66.p1;Name=ORF%20type%3Ainternal%20len%3A320%20%28%2B%29%2Cscore%3D563.34
+psba66	transdecoder	mRNA	1	959	.	+	.	ID=psba66.p1;Parent=GENE.psba66~~psba66.p1;Name=ORF%20type%3Ainternal%20len%3A320%20%28%2B%29%2Cscore%3D563.34
+psba66	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba66.p1.utr5p1;Parent=psba66.p1
+psba66	transdecoder	exon	1	959	.	+	.	ID=psba66.p1.exon1;Parent=psba66.p1
+psba66	transdecoder	CDS	2	958	.	+	0	ID=cds.psba66.p1;Parent=psba66.p1
+psba66	transdecoder	three_prime_UTR	959	959	.	+	.	ID=psba66.p1.utr3p1;Parent=psba66.p1
+
+psba67	transdecoder	gene	1	962	.	+	.	ID=GENE.psba67~~psba67.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D547.93
+psba67	transdecoder	mRNA	1	962	.	+	.	ID=psba67.p1;Parent=GENE.psba67~~psba67.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D547.93
+psba67	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba67.p1.utr5p1;Parent=psba67.p1
+psba67	transdecoder	exon	1	962	.	+	.	ID=psba67.p1.exon1;Parent=psba67.p1
+psba67	transdecoder	CDS	2	961	.	+	0	ID=cds.psba67.p1;Parent=psba67.p1
+psba67	transdecoder	three_prime_UTR	962	962	.	+	.	ID=psba67.p1.utr3p1;Parent=psba67.p1
+
+psba68	transdecoder	gene	1	962	.	+	.	ID=GENE.psba68~~psba68.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D552.76
+psba68	transdecoder	mRNA	1	962	.	+	.	ID=psba68.p1;Parent=GENE.psba68~~psba68.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D552.76
+psba68	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba68.p1.utr5p1;Parent=psba68.p1
+psba68	transdecoder	exon	1	962	.	+	.	ID=psba68.p1.exon1;Parent=psba68.p1
+psba68	transdecoder	CDS	2	961	.	+	0	ID=cds.psba68.p1;Parent=psba68.p1
+psba68	transdecoder	three_prime_UTR	962	962	.	+	.	ID=psba68.p1.utr3p1;Parent=psba68.p1
+
+psba69	transdecoder	gene	1	962	.	+	.	ID=GENE.psba69~~psba69.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D592.96
+psba69	transdecoder	mRNA	1	962	.	+	.	ID=psba69.p1;Parent=GENE.psba69~~psba69.p1;Name=ORF%20type%3Ainternal%20len%3A321%20%28%2B%29%2Cscore%3D592.96
+psba69	transdecoder	five_prime_UTR	1	1	.	+	.	ID=psba69.p1.utr5p1;Parent=psba69.p1
+psba69	transdecoder	exon	1	962	.	+	.	ID=psba69.p1.exon1;Parent=psba69.p1
+psba69	transdecoder	CDS	2	961	.	+	0	ID=cds.psba69.p1;Parent=psba69.p1
+psba69	transdecoder	three_prime_UTR	962	962	.	+	.	ID=psba69.p1.utr3p1;Parent=psba69.p1
+
+psba7	transdecoder	gene	1	863	.	+	.	ID=GENE.psba7~~psba7.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D514.87
+psba7	transdecoder	mRNA	1	863	.	+	.	ID=psba7.p1;Parent=GENE.psba7~~psba7.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D514.87
+psba7	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba7.p1.utr5p1;Parent=psba7.p1
+psba7	transdecoder	exon	1	863	.	+	.	ID=psba7.p1.exon1;Parent=psba7.p1
+psba7	transdecoder	CDS	3	863	.	+	0	ID=cds.psba7.p1;Parent=psba7.p1
+
+psba70	transdecoder	gene	1	863	.	+	.	ID=GENE.psba70~~psba70.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D503.87
+psba70	transdecoder	mRNA	1	863	.	+	.	ID=psba70.p1;Parent=GENE.psba70~~psba70.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D503.87
+psba70	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba70.p1.utr5p1;Parent=psba70.p1
+psba70	transdecoder	exon	1	863	.	+	.	ID=psba70.p1.exon1;Parent=psba70.p1
+psba70	transdecoder	CDS	3	863	.	+	0	ID=cds.psba70.p1;Parent=psba70.p1
+
+psba71	transdecoder	gene	1	863	.	+	.	ID=GENE.psba71~~psba71.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D507.50
+psba71	transdecoder	mRNA	1	863	.	+	.	ID=psba71.p1;Parent=GENE.psba71~~psba71.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D507.50
+psba71	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba71.p1.utr5p1;Parent=psba71.p1
+psba71	transdecoder	exon	1	863	.	+	.	ID=psba71.p1.exon1;Parent=psba71.p1
+psba71	transdecoder	CDS	3	863	.	+	0	ID=cds.psba71.p1;Parent=psba71.p1
+
+psba72	transdecoder	gene	1	863	.	+	.	ID=GENE.psba72~~psba72.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D498.64
+psba72	transdecoder	mRNA	1	863	.	+	.	ID=psba72.p1;Parent=GENE.psba72~~psba72.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D498.64
+psba72	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba72.p1.utr5p1;Parent=psba72.p1
+psba72	transdecoder	exon	1	863	.	+	.	ID=psba72.p1.exon1;Parent=psba72.p1
+psba72	transdecoder	CDS	3	863	.	+	0	ID=cds.psba72.p1;Parent=psba72.p1
+
+psba73	transdecoder	gene	1	855	.	+	.	ID=GENE.psba73~~psba73.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D486.02
+psba73	transdecoder	mRNA	1	855	.	+	.	ID=psba73.p1;Parent=GENE.psba73~~psba73.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D486.02
+psba73	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba73.p1.utr5p1;Parent=psba73.p1
+psba73	transdecoder	exon	1	855	.	+	.	ID=psba73.p1.exon1;Parent=psba73.p1
+psba73	transdecoder	CDS	3	854	.	+	0	ID=cds.psba73.p1;Parent=psba73.p1
+psba73	transdecoder	three_prime_UTR	855	855	.	+	.	ID=psba73.p1.utr3p1;Parent=psba73.p1
+
+psba74	transdecoder	gene	1	900	.	+	.	ID=GENE.psba74~~psba74.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D541.62
+psba74	transdecoder	mRNA	1	900	.	+	.	ID=psba74.p1;Parent=GENE.psba74~~psba74.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D541.62
+psba74	transdecoder	exon	1	900	.	+	.	ID=psba74.p1.exon1;Parent=psba74.p1
+psba74	transdecoder	CDS	1	900	.	+	0	ID=cds.psba74.p1;Parent=psba74.p1
+
+psba75	transdecoder	gene	1	863	.	+	.	ID=GENE.psba75~~psba75.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D521.41
+psba75	transdecoder	mRNA	1	863	.	+	.	ID=psba75.p1;Parent=GENE.psba75~~psba75.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D521.41
+psba75	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba75.p1.utr5p1;Parent=psba75.p1
+psba75	transdecoder	exon	1	863	.	+	.	ID=psba75.p1.exon1;Parent=psba75.p1
+psba75	transdecoder	CDS	3	863	.	+	0	ID=cds.psba75.p1;Parent=psba75.p1
+
+psba76	transdecoder	gene	1	863	.	+	.	ID=GENE.psba76~~psba76.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D498.73
+psba76	transdecoder	mRNA	1	863	.	+	.	ID=psba76.p1;Parent=GENE.psba76~~psba76.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D498.73
+psba76	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba76.p1.utr5p1;Parent=psba76.p1
+psba76	transdecoder	exon	1	863	.	+	.	ID=psba76.p1.exon1;Parent=psba76.p1
+psba76	transdecoder	CDS	3	863	.	+	0	ID=cds.psba76.p1;Parent=psba76.p1
+
+psba77	transdecoder	gene	1	863	.	+	.	ID=GENE.psba77~~psba77.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.50
+psba77	transdecoder	mRNA	1	863	.	+	.	ID=psba77.p1;Parent=GENE.psba77~~psba77.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.50
+psba77	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba77.p1.utr5p1;Parent=psba77.p1
+psba77	transdecoder	exon	1	863	.	+	.	ID=psba77.p1.exon1;Parent=psba77.p1
+psba77	transdecoder	CDS	3	863	.	+	0	ID=cds.psba77.p1;Parent=psba77.p1
+
+psba78	transdecoder	gene	1	863	.	+	.	ID=GENE.psba78~~psba78.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.05
+psba78	transdecoder	mRNA	1	863	.	+	.	ID=psba78.p1;Parent=GENE.psba78~~psba78.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D522.05
+psba78	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba78.p1.utr5p1;Parent=psba78.p1
+psba78	transdecoder	exon	1	863	.	+	.	ID=psba78.p1.exon1;Parent=psba78.p1
+psba78	transdecoder	CDS	3	863	.	+	0	ID=cds.psba78.p1;Parent=psba78.p1
+
+psba79	transdecoder	gene	1	855	.	+	.	ID=GENE.psba79~~psba79.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D516.34
+psba79	transdecoder	mRNA	1	855	.	+	.	ID=psba79.p1;Parent=GENE.psba79~~psba79.p1;Name=ORF%20type%3Ainternal%20len%3A285%20%28%2B%29%2Cscore%3D516.34
+psba79	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba79.p1.utr5p1;Parent=psba79.p1
+psba79	transdecoder	exon	1	855	.	+	.	ID=psba79.p1.exon1;Parent=psba79.p1
+psba79	transdecoder	CDS	3	854	.	+	0	ID=cds.psba79.p1;Parent=psba79.p1
+psba79	transdecoder	three_prime_UTR	855	855	.	+	.	ID=psba79.p1.utr3p1;Parent=psba79.p1
+
+psba8	transdecoder	gene	1	882	.	+	.	ID=GENE.psba8~~psba8.p1;Name=ORF%20type%3Ainternal%20len%3A295%20%28%2B%29%2Cscore%3D460.10
+psba8	transdecoder	mRNA	1	882	.	+	.	ID=psba8.p1;Parent=GENE.psba8~~psba8.p1;Name=ORF%20type%3Ainternal%20len%3A295%20%28%2B%29%2Cscore%3D460.10
+psba8	transdecoder	exon	1	882	.	+	.	ID=psba8.p1.exon1;Parent=psba8.p1
+psba8	transdecoder	CDS	1	882	.	+	0	ID=cds.psba8.p1;Parent=psba8.p1
+
+psba80	transdecoder	gene	1	863	.	+	.	ID=GENE.psba80~~psba80.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D503.83
+psba80	transdecoder	mRNA	1	863	.	+	.	ID=psba80.p1;Parent=GENE.psba80~~psba80.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D503.83
+psba80	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba80.p1.utr5p1;Parent=psba80.p1
+psba80	transdecoder	exon	1	863	.	+	.	ID=psba80.p1.exon1;Parent=psba80.p1
+psba80	transdecoder	CDS	3	863	.	+	0	ID=cds.psba80.p1;Parent=psba80.p1
+
+psba81	transdecoder	gene	1	891	.	+	.	ID=GENE.psba81~~psba81.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D532.96
+psba81	transdecoder	mRNA	1	891	.	+	.	ID=psba81.p1;Parent=GENE.psba81~~psba81.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D532.96
+psba81	transdecoder	exon	1	891	.	+	.	ID=psba81.p1.exon1;Parent=psba81.p1
+psba81	transdecoder	CDS	1	891	.	+	0	ID=cds.psba81.p1;Parent=psba81.p1
+
+psba82	transdecoder	gene	1	863	.	+	.	ID=GENE.psba82~~psba82.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D498.42
+psba82	transdecoder	mRNA	1	863	.	+	.	ID=psba82.p1;Parent=GENE.psba82~~psba82.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D498.42
+psba82	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba82.p1.utr5p1;Parent=psba82.p1
+psba82	transdecoder	exon	1	863	.	+	.	ID=psba82.p1.exon1;Parent=psba82.p1
+psba82	transdecoder	CDS	3	863	.	+	0	ID=cds.psba82.p1;Parent=psba82.p1
+
+psba83	transdecoder	gene	1	863	.	+	.	ID=GENE.psba83~~psba83.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D512.34
+psba83	transdecoder	mRNA	1	863	.	+	.	ID=psba83.p1;Parent=GENE.psba83~~psba83.p1;Name=ORF%20type%3Ainternal%20len%3A288%20%28%2B%29%2Cscore%3D512.34
+psba83	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba83.p1.utr5p1;Parent=psba83.p1
+psba83	transdecoder	exon	1	863	.	+	.	ID=psba83.p1.exon1;Parent=psba83.p1
+psba83	transdecoder	CDS	3	863	.	+	0	ID=cds.psba83.p1;Parent=psba83.p1
+
+psba84	transdecoder	gene	1	891	.	+	.	ID=GENE.psba84~~psba84.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D505.46
+psba84	transdecoder	mRNA	1	891	.	+	.	ID=psba84.p1;Parent=GENE.psba84~~psba84.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D505.46
+psba84	transdecoder	exon	1	891	.	+	.	ID=psba84.p1.exon1;Parent=psba84.p1
+psba84	transdecoder	CDS	1	891	.	+	0	ID=cds.psba84.p1;Parent=psba84.p1
+
+psba85	transdecoder	gene	1	891	.	+	.	ID=GENE.psba85~~psba85.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D521.64
+psba85	transdecoder	mRNA	1	891	.	+	.	ID=psba85.p1;Parent=GENE.psba85~~psba85.p1;Name=ORF%20type%3A3prime_partial%20len%3A298%20%28%2B%29%2Cscore%3D521.64
+psba85	transdecoder	exon	1	891	.	+	.	ID=psba85.p1.exon1;Parent=psba85.p1
+psba85	transdecoder	CDS	1	891	.	+	0	ID=cds.psba85.p1;Parent=psba85.p1
+
+psba86	transdecoder	gene	1	864	.	+	.	ID=GENE.psba86~~psba86.p1;Name=ORF%20type%3Ainternal%20len%3A289%20%28%2B%29%2Cscore%3D537.09
+psba86	transdecoder	mRNA	1	864	.	+	.	ID=psba86.p1;Parent=GENE.psba86~~psba86.p1;Name=ORF%20type%3Ainternal%20len%3A289%20%28%2B%29%2Cscore%3D537.09
+psba86	transdecoder	exon	1	864	.	+	.	ID=psba86.p1.exon1;Parent=psba86.p1
+psba86	transdecoder	CDS	1	864	.	+	0	ID=cds.psba86.p1;Parent=psba86.p1
+
+psba87	transdecoder	gene	1	725	.	+	.	ID=GENE.psba87~~psba87.p1;Name=ORF%20type%3Ainternal%20len%3A242%20%28%2B%29%2Cscore%3D432.56
+psba87	transdecoder	mRNA	1	725	.	+	.	ID=psba87.p1;Parent=GENE.psba87~~psba87.p1;Name=ORF%20type%3Ainternal%20len%3A242%20%28%2B%29%2Cscore%3D432.56
+psba87	transdecoder	exon	1	725	.	+	.	ID=psba87.p1.exon1;Parent=psba87.p1
+psba87	transdecoder	CDS	1	723	.	+	0	ID=cds.psba87.p1;Parent=psba87.p1
+psba87	transdecoder	three_prime_UTR	724	725	.	+	.	ID=psba87.p1.utr3p1;Parent=psba87.p1
+
+psba88	transdecoder	gene	1	873	.	+	.	ID=GENE.psba88~~psba88.p1;Name=ORF%20type%3Ainternal%20len%3A292%20%28%2B%29%2Cscore%3D491.52
+psba88	transdecoder	mRNA	1	873	.	+	.	ID=psba88.p1;Parent=GENE.psba88~~psba88.p1;Name=ORF%20type%3Ainternal%20len%3A292%20%28%2B%29%2Cscore%3D491.52
+psba88	transdecoder	exon	1	873	.	+	.	ID=psba88.p1.exon1;Parent=psba88.p1
+psba88	transdecoder	CDS	1	873	.	+	0	ID=cds.psba88.p1;Parent=psba88.p1
+
+psba89	transdecoder	gene	1	894	.	+	.	ID=GENE.psba89~~psba89.p1;Name=ORF%20type%3Ainternal%20len%3A299%20%28%2B%29%2Cscore%3D513.90
+psba89	transdecoder	mRNA	1	894	.	+	.	ID=psba89.p1;Parent=GENE.psba89~~psba89.p1;Name=ORF%20type%3Ainternal%20len%3A299%20%28%2B%29%2Cscore%3D513.90
+psba89	transdecoder	exon	1	894	.	+	.	ID=psba89.p1.exon1;Parent=psba89.p1
+psba89	transdecoder	CDS	1	894	.	+	0	ID=cds.psba89.p1;Parent=psba89.p1
+
+psba9	transdecoder	gene	1	897	.	+	.	ID=GENE.psba9~~psba9.p1;Name=ORF%20type%3Ainternal%20len%3A300%20%28%2B%29%2Cscore%3D534.68
+psba9	transdecoder	mRNA	1	897	.	+	.	ID=psba9.p1;Parent=GENE.psba9~~psba9.p1;Name=ORF%20type%3Ainternal%20len%3A300%20%28%2B%29%2Cscore%3D534.68
+psba9	transdecoder	exon	1	897	.	+	.	ID=psba9.p1.exon1;Parent=psba9.p1
+psba9	transdecoder	CDS	1	897	.	+	0	ID=cds.psba9.p1;Parent=psba9.p1
+
+psba90	transdecoder	gene	1	942	.	+	.	ID=GENE.psba90~~psba90.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D533.00
+psba90	transdecoder	mRNA	1	942	.	+	.	ID=psba90.p1;Parent=GENE.psba90~~psba90.p1;Name=ORF%20type%3Ainternal%20len%3A315%20%28%2B%29%2Cscore%3D533.00
+psba90	transdecoder	exon	1	942	.	+	.	ID=psba90.p1.exon1;Parent=psba90.p1
+psba90	transdecoder	CDS	1	942	.	+	0	ID=cds.psba90.p1;Parent=psba90.p1
+
+psba91	transdecoder	gene	1	897	.	+	.	ID=GENE.psba91~~psba91.p1;Name=ORF%20type%3Ainternal%20len%3A300%20%28%2B%29%2Cscore%3D537.00
+psba91	transdecoder	mRNA	1	897	.	+	.	ID=psba91.p1;Parent=GENE.psba91~~psba91.p1;Name=ORF%20type%3Ainternal%20len%3A300%20%28%2B%29%2Cscore%3D537.00
+psba91	transdecoder	exon	1	897	.	+	.	ID=psba91.p1.exon1;Parent=psba91.p1
+psba91	transdecoder	CDS	1	897	.	+	0	ID=cds.psba91.p1;Parent=psba91.p1
+
+psba92	transdecoder	gene	1	576	.	+	.	ID=GENE.psba92~~psba92.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D328.24
+psba92	transdecoder	mRNA	1	576	.	+	.	ID=psba92.p1;Parent=GENE.psba92~~psba92.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D328.24
+psba92	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba92.p1.utr5p1;Parent=psba92.p1
+psba92	transdecoder	exon	1	576	.	+	.	ID=psba92.p1.exon1;Parent=psba92.p1
+psba92	transdecoder	CDS	3	575	.	+	0	ID=cds.psba92.p1;Parent=psba92.p1
+psba92	transdecoder	three_prime_UTR	576	576	.	+	.	ID=psba92.p1.utr3p1;Parent=psba92.p1
+
+psba93	transdecoder	gene	1	900	.	+	.	ID=GENE.psba93~~psba93.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D537.17
+psba93	transdecoder	mRNA	1	900	.	+	.	ID=psba93.p1;Parent=GENE.psba93~~psba93.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D537.17
+psba93	transdecoder	exon	1	900	.	+	.	ID=psba93.p1.exon1;Parent=psba93.p1
+psba93	transdecoder	CDS	1	900	.	+	0	ID=cds.psba93.p1;Parent=psba93.p1
+
+psba94	transdecoder	gene	1	576	.	+	.	ID=GENE.psba94~~psba94.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D346.03
+psba94	transdecoder	mRNA	1	576	.	+	.	ID=psba94.p1;Parent=GENE.psba94~~psba94.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D346.03
+psba94	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba94.p1.utr5p1;Parent=psba94.p1
+psba94	transdecoder	exon	1	576	.	+	.	ID=psba94.p1.exon1;Parent=psba94.p1
+psba94	transdecoder	CDS	3	575	.	+	0	ID=cds.psba94.p1;Parent=psba94.p1
+psba94	transdecoder	three_prime_UTR	576	576	.	+	.	ID=psba94.p1.utr3p1;Parent=psba94.p1
+
+psba95	transdecoder	gene	1	576	.	+	.	ID=GENE.psba95~~psba95.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D343.39
+psba95	transdecoder	mRNA	1	576	.	+	.	ID=psba95.p1;Parent=GENE.psba95~~psba95.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D343.39
+psba95	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba95.p1.utr5p1;Parent=psba95.p1
+psba95	transdecoder	exon	1	576	.	+	.	ID=psba95.p1.exon1;Parent=psba95.p1
+psba95	transdecoder	CDS	3	575	.	+	0	ID=cds.psba95.p1;Parent=psba95.p1
+psba95	transdecoder	three_prime_UTR	576	576	.	+	.	ID=psba95.p1.utr3p1;Parent=psba95.p1
+
+psba96	transdecoder	gene	1	576	.	+	.	ID=GENE.psba96~~psba96.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D326.46
+psba96	transdecoder	mRNA	1	576	.	+	.	ID=psba96.p1;Parent=GENE.psba96~~psba96.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D326.46
+psba96	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba96.p1.utr5p1;Parent=psba96.p1
+psba96	transdecoder	exon	1	576	.	+	.	ID=psba96.p1.exon1;Parent=psba96.p1
+psba96	transdecoder	CDS	3	575	.	+	0	ID=cds.psba96.p1;Parent=psba96.p1
+psba96	transdecoder	three_prime_UTR	576	576	.	+	.	ID=psba96.p1.utr3p1;Parent=psba96.p1
+
+psba97	transdecoder	gene	1	576	.	+	.	ID=GENE.psba97~~psba97.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D348.71
+psba97	transdecoder	mRNA	1	576	.	+	.	ID=psba97.p1;Parent=GENE.psba97~~psba97.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D348.71
+psba97	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba97.p1.utr5p1;Parent=psba97.p1
+psba97	transdecoder	exon	1	576	.	+	.	ID=psba97.p1.exon1;Parent=psba97.p1
+psba97	transdecoder	CDS	3	575	.	+	0	ID=cds.psba97.p1;Parent=psba97.p1
+psba97	transdecoder	three_prime_UTR	576	576	.	+	.	ID=psba97.p1.utr3p1;Parent=psba97.p1
+
+psba98	transdecoder	gene	1	900	.	+	.	ID=GENE.psba98~~psba98.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D521.89
+psba98	transdecoder	mRNA	1	900	.	+	.	ID=psba98.p1;Parent=GENE.psba98~~psba98.p1;Name=ORF%20type%3Ainternal%20len%3A301%20%28%2B%29%2Cscore%3D521.89
+psba98	transdecoder	exon	1	900	.	+	.	ID=psba98.p1.exon1;Parent=psba98.p1
+psba98	transdecoder	CDS	1	900	.	+	0	ID=cds.psba98.p1;Parent=psba98.p1
+
+psba99	transdecoder	gene	1	576	.	+	.	ID=GENE.psba99~~psba99.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D344.16
+psba99	transdecoder	mRNA	1	576	.	+	.	ID=psba99.p1;Parent=GENE.psba99~~psba99.p1;Name=ORF%20type%3Ainternal%20len%3A192%20%28%2B%29%2Cscore%3D344.16
+psba99	transdecoder	five_prime_UTR	1	2	.	+	.	ID=psba99.p1.utr5p1;Parent=psba99.p1
+psba99	transdecoder	exon	1	576	.	+	.	ID=psba99.p1.exon1;Parent=psba99.p1
+psba99	transdecoder	CDS	3	575	.	+	0	ID=cds.psba99.p1;Parent=psba99.p1
+psba99	transdecoder	three_prime_UTR	576	576	.	+	.	ID=psba99.p1.utr3p1;Parent=psba99.p1
+

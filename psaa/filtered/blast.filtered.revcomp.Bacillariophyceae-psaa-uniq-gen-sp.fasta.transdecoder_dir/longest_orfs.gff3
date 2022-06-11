@@ -1,0 +1,201 @@
+psaa1	transdecoder	gene	1	1308	.	+	.	ID=GENE.psaa1~~psaa1.p1;Name=ORF%20type%3Ainternal%20len%3A437%20%28%2B%29
+psaa1	transdecoder	mRNA	1	1308	.	+	.	ID=psaa1.p1;Parent=GENE.psaa1~~psaa1.p1;Name=ORF%20type%3Ainternal%20len%3A437%20%28%2B%29
+psaa1	transdecoder	exon	1	1308	.	+	.	ID=psaa1.p1.exon1;Parent=psaa1.p1
+psaa1	transdecoder	CDS	1	1308	.	+	0	ID=cds.psaa1.p1;Parent=psaa1.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa2	transdecoder	gene	1	1557	.	+	.	ID=GENE.psaa2~~psaa2.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa2	transdecoder	mRNA	1	1557	.	+	.	ID=psaa2.p1;Parent=GENE.psaa2~~psaa2.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa2	transdecoder	exon	1	1557	.	+	.	ID=psaa2.p1.exon1;Parent=psaa2.p1
+psaa2	transdecoder	CDS	1	1557	.	+	0	ID=cds.psaa2.p1;Parent=psaa2.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa3	transdecoder	gene	1	1569	.	+	.	ID=GENE.psaa3~~psaa3.p1;Name=ORF%20type%3Ainternal%20len%3A524%20%28%2B%29
+psaa3	transdecoder	mRNA	1	1569	.	+	.	ID=psaa3.p1;Parent=GENE.psaa3~~psaa3.p1;Name=ORF%20type%3Ainternal%20len%3A524%20%28%2B%29
+psaa3	transdecoder	exon	1	1569	.	+	.	ID=psaa3.p1.exon1;Parent=psaa3.p1
+psaa3	transdecoder	CDS	1	1569	.	+	0	ID=cds.psaa3.p1;Parent=psaa3.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa4	transdecoder	gene	1	1542	.	+	.	ID=GENE.psaa4~~psaa4.p1;Name=ORF%20type%3Ainternal%20len%3A515%20%28%2B%29
+psaa4	transdecoder	mRNA	1	1542	.	+	.	ID=psaa4.p1;Parent=GENE.psaa4~~psaa4.p1;Name=ORF%20type%3Ainternal%20len%3A515%20%28%2B%29
+psaa4	transdecoder	exon	1	1542	.	+	.	ID=psaa4.p1.exon1;Parent=psaa4.p1
+psaa4	transdecoder	CDS	1	1542	.	+	0	ID=cds.psaa4.p1;Parent=psaa4.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa5	transdecoder	gene	1	1506	.	+	.	ID=GENE.psaa5~~psaa5.p1;Name=ORF%20type%3Ainternal%20len%3A503%20%28%2B%29
+psaa5	transdecoder	mRNA	1	1506	.	+	.	ID=psaa5.p1;Parent=GENE.psaa5~~psaa5.p1;Name=ORF%20type%3Ainternal%20len%3A503%20%28%2B%29
+psaa5	transdecoder	exon	1	1506	.	+	.	ID=psaa5.p1.exon1;Parent=psaa5.p1
+psaa5	transdecoder	CDS	1	1506	.	+	0	ID=cds.psaa5.p1;Parent=psaa5.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa6	transdecoder	gene	1	1536	.	+	.	ID=GENE.psaa6~~psaa6.p1;Name=ORF%20type%3Ainternal%20len%3A513%20%28%2B%29
+psaa6	transdecoder	mRNA	1	1536	.	+	.	ID=psaa6.p1;Parent=GENE.psaa6~~psaa6.p1;Name=ORF%20type%3Ainternal%20len%3A513%20%28%2B%29
+psaa6	transdecoder	exon	1	1536	.	+	.	ID=psaa6.p1.exon1;Parent=psaa6.p1
+psaa6	transdecoder	CDS	1	1536	.	+	0	ID=cds.psaa6.p1;Parent=psaa6.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa7	transdecoder	gene	1	1536	.	+	.	ID=GENE.psaa7~~psaa7.p1;Name=ORF%20type%3Ainternal%20len%3A513%20%28%2B%29
+psaa7	transdecoder	mRNA	1	1536	.	+	.	ID=psaa7.p1;Parent=GENE.psaa7~~psaa7.p1;Name=ORF%20type%3Ainternal%20len%3A513%20%28%2B%29
+psaa7	transdecoder	exon	1	1536	.	+	.	ID=psaa7.p1.exon1;Parent=psaa7.p1
+psaa7	transdecoder	CDS	1	1536	.	+	0	ID=cds.psaa7.p1;Parent=psaa7.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa8	transdecoder	gene	1	1011	.	+	.	ID=GENE.psaa8~~psaa8.p1;Name=ORF%20type%3Ainternal%20len%3A338%20%28%2B%29
+psaa8	transdecoder	mRNA	1	1011	.	+	.	ID=psaa8.p1;Parent=GENE.psaa8~~psaa8.p1;Name=ORF%20type%3Ainternal%20len%3A338%20%28%2B%29
+psaa8	transdecoder	exon	1	1011	.	+	.	ID=psaa8.p1.exon1;Parent=psaa8.p1
+psaa8	transdecoder	CDS	1	1011	.	+	0	ID=cds.psaa8.p1;Parent=psaa8.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa9	transdecoder	gene	1	1548	.	+	.	ID=GENE.psaa9~~psaa9.p1;Name=ORF%20type%3Ainternal%20len%3A517%20%28%2B%29
+psaa9	transdecoder	mRNA	1	1548	.	+	.	ID=psaa9.p1;Parent=GENE.psaa9~~psaa9.p1;Name=ORF%20type%3Ainternal%20len%3A517%20%28%2B%29
+psaa9	transdecoder	exon	1	1548	.	+	.	ID=psaa9.p1.exon1;Parent=psaa9.p1
+psaa9	transdecoder	CDS	1	1548	.	+	0	ID=cds.psaa9.p1;Parent=psaa9.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa10	transdecoder	gene	1	1266	.	+	.	ID=GENE.psaa10~~psaa10.p1;Name=ORF%20type%3Ainternal%20len%3A423%20%28%2B%29
+psaa10	transdecoder	mRNA	1	1266	.	+	.	ID=psaa10.p1;Parent=GENE.psaa10~~psaa10.p1;Name=ORF%20type%3Ainternal%20len%3A423%20%28%2B%29
+psaa10	transdecoder	exon	1	1266	.	+	.	ID=psaa10.p1.exon1;Parent=psaa10.p1
+psaa10	transdecoder	CDS	1	1266	.	+	0	ID=cds.psaa10.p1;Parent=psaa10.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa11	transdecoder	gene	1	1554	.	+	.	ID=GENE.psaa11~~psaa11.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa11	transdecoder	mRNA	1	1554	.	+	.	ID=psaa11.p1;Parent=GENE.psaa11~~psaa11.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa11	transdecoder	exon	1	1554	.	+	.	ID=psaa11.p1.exon1;Parent=psaa11.p1
+psaa11	transdecoder	CDS	1	1554	.	+	0	ID=cds.psaa11.p1;Parent=psaa11.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa12	transdecoder	gene	1	1536	.	+	.	ID=GENE.psaa12~~psaa12.p1;Name=ORF%20type%3Ainternal%20len%3A513%20%28%2B%29
+psaa12	transdecoder	mRNA	1	1536	.	+	.	ID=psaa12.p1;Parent=GENE.psaa12~~psaa12.p1;Name=ORF%20type%3Ainternal%20len%3A513%20%28%2B%29
+psaa12	transdecoder	exon	1	1536	.	+	.	ID=psaa12.p1.exon1;Parent=psaa12.p1
+psaa12	transdecoder	CDS	1	1536	.	+	0	ID=cds.psaa12.p1;Parent=psaa12.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa13	transdecoder	gene	1	1530	.	+	.	ID=GENE.psaa13~~psaa13.p1;Name=ORF%20type%3Ainternal%20len%3A511%20%28%2B%29
+psaa13	transdecoder	mRNA	1	1530	.	+	.	ID=psaa13.p1;Parent=GENE.psaa13~~psaa13.p1;Name=ORF%20type%3Ainternal%20len%3A511%20%28%2B%29
+psaa13	transdecoder	exon	1	1530	.	+	.	ID=psaa13.p1.exon1;Parent=psaa13.p1
+psaa13	transdecoder	CDS	1	1530	.	+	0	ID=cds.psaa13.p1;Parent=psaa13.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa14	transdecoder	gene	1	1482	.	+	.	ID=GENE.psaa14~~psaa14.p1;Name=ORF%20type%3Ainternal%20len%3A495%20%28%2B%29
+psaa14	transdecoder	mRNA	1	1482	.	+	.	ID=psaa14.p1;Parent=GENE.psaa14~~psaa14.p1;Name=ORF%20type%3Ainternal%20len%3A495%20%28%2B%29
+psaa14	transdecoder	exon	1	1482	.	+	.	ID=psaa14.p1.exon1;Parent=psaa14.p1
+psaa14	transdecoder	CDS	1	1482	.	+	0	ID=cds.psaa14.p1;Parent=psaa14.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa15	transdecoder	gene	1	1536	.	+	.	ID=GENE.psaa15~~psaa15.p1;Name=ORF%20type%3Ainternal%20len%3A513%20%28%2B%29
+psaa15	transdecoder	mRNA	1	1536	.	+	.	ID=psaa15.p1;Parent=GENE.psaa15~~psaa15.p1;Name=ORF%20type%3Ainternal%20len%3A513%20%28%2B%29
+psaa15	transdecoder	exon	1	1536	.	+	.	ID=psaa15.p1.exon1;Parent=psaa15.p1
+psaa15	transdecoder	CDS	1	1536	.	+	0	ID=cds.psaa15.p1;Parent=psaa15.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa16	transdecoder	gene	1	1527	.	+	.	ID=GENE.psaa16~~psaa16.p1;Name=ORF%20type%3Ainternal%20len%3A510%20%28%2B%29
+psaa16	transdecoder	mRNA	1	1527	.	+	.	ID=psaa16.p1;Parent=GENE.psaa16~~psaa16.p1;Name=ORF%20type%3Ainternal%20len%3A510%20%28%2B%29
+psaa16	transdecoder	exon	1	1527	.	+	.	ID=psaa16.p1.exon1;Parent=psaa16.p1
+psaa16	transdecoder	CDS	1	1527	.	+	0	ID=cds.psaa16.p1;Parent=psaa16.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa17	transdecoder	gene	1	1539	.	+	.	ID=GENE.psaa17~~psaa17.p1;Name=ORF%20type%3Ainternal%20len%3A514%20%28%2B%29
+psaa17	transdecoder	mRNA	1	1539	.	+	.	ID=psaa17.p1;Parent=GENE.psaa17~~psaa17.p1;Name=ORF%20type%3Ainternal%20len%3A514%20%28%2B%29
+psaa17	transdecoder	exon	1	1539	.	+	.	ID=psaa17.p1.exon1;Parent=psaa17.p1
+psaa17	transdecoder	CDS	1	1539	.	+	0	ID=cds.psaa17.p1;Parent=psaa17.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa18	transdecoder	gene	1	1557	.	+	.	ID=GENE.psaa18~~psaa18.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa18	transdecoder	mRNA	1	1557	.	+	.	ID=psaa18.p1;Parent=GENE.psaa18~~psaa18.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa18	transdecoder	exon	1	1557	.	+	.	ID=psaa18.p1.exon1;Parent=psaa18.p1
+psaa18	transdecoder	CDS	1	1557	.	+	0	ID=cds.psaa18.p1;Parent=psaa18.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa19	transdecoder	gene	1	1539	.	+	.	ID=GENE.psaa19~~psaa19.p1;Name=ORF%20type%3Ainternal%20len%3A514%20%28%2B%29
+psaa19	transdecoder	mRNA	1	1539	.	+	.	ID=psaa19.p1;Parent=GENE.psaa19~~psaa19.p1;Name=ORF%20type%3Ainternal%20len%3A514%20%28%2B%29
+psaa19	transdecoder	exon	1	1539	.	+	.	ID=psaa19.p1.exon1;Parent=psaa19.p1
+psaa19	transdecoder	CDS	1	1539	.	+	0	ID=cds.psaa19.p1;Parent=psaa19.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa20	transdecoder	gene	1	1512	.	+	.	ID=GENE.psaa20~~psaa20.p1;Name=ORF%20type%3Ainternal%20len%3A505%20%28%2B%29
+psaa20	transdecoder	mRNA	1	1512	.	+	.	ID=psaa20.p1;Parent=GENE.psaa20~~psaa20.p1;Name=ORF%20type%3Ainternal%20len%3A505%20%28%2B%29
+psaa20	transdecoder	exon	1	1512	.	+	.	ID=psaa20.p1.exon1;Parent=psaa20.p1
+psaa20	transdecoder	CDS	1	1512	.	+	0	ID=cds.psaa20.p1;Parent=psaa20.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa21	transdecoder	gene	1	1557	.	+	.	ID=GENE.psaa21~~psaa21.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa21	transdecoder	mRNA	1	1557	.	+	.	ID=psaa21.p1;Parent=GENE.psaa21~~psaa21.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa21	transdecoder	exon	1	1557	.	+	.	ID=psaa21.p1.exon1;Parent=psaa21.p1
+psaa21	transdecoder	CDS	1	1557	.	+	0	ID=cds.psaa21.p1;Parent=psaa21.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa22	transdecoder	gene	1	1554	.	+	.	ID=GENE.psaa22~~psaa22.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa22	transdecoder	mRNA	1	1554	.	+	.	ID=psaa22.p1;Parent=GENE.psaa22~~psaa22.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa22	transdecoder	exon	1	1554	.	+	.	ID=psaa22.p1.exon1;Parent=psaa22.p1
+psaa22	transdecoder	CDS	1	1554	.	+	0	ID=cds.psaa22.p1;Parent=psaa22.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa23	transdecoder	gene	1	1554	.	+	.	ID=GENE.psaa23~~psaa23.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa23	transdecoder	mRNA	1	1554	.	+	.	ID=psaa23.p1;Parent=GENE.psaa23~~psaa23.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa23	transdecoder	exon	1	1554	.	+	.	ID=psaa23.p1.exon1;Parent=psaa23.p1
+psaa23	transdecoder	CDS	1	1554	.	+	0	ID=cds.psaa23.p1;Parent=psaa23.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa24	transdecoder	gene	1	1455	.	+	.	ID=GENE.psaa24~~psaa24.p1;Name=ORF%20type%3A3prime_partial%20len%3A486%20%28%2B%29
+psaa24	transdecoder	mRNA	1	1455	.	+	.	ID=psaa24.p1;Parent=GENE.psaa24~~psaa24.p1;Name=ORF%20type%3A3prime_partial%20len%3A486%20%28%2B%29
+psaa24	transdecoder	exon	1	1455	.	+	.	ID=psaa24.p1.exon1;Parent=psaa24.p1
+psaa24	transdecoder	CDS	1	1455	.	+	0	ID=cds.psaa24.p1;Parent=psaa24.p1;3_prime_partial=true
+
+psaa25	transdecoder	gene	1	1524	.	+	.	ID=GENE.psaa25~~psaa25.p1;Name=ORF%20type%3Ainternal%20len%3A509%20%28%2B%29
+psaa25	transdecoder	mRNA	1	1524	.	+	.	ID=psaa25.p1;Parent=GENE.psaa25~~psaa25.p1;Name=ORF%20type%3Ainternal%20len%3A509%20%28%2B%29
+psaa25	transdecoder	exon	1	1524	.	+	.	ID=psaa25.p1.exon1;Parent=psaa25.p1
+psaa25	transdecoder	CDS	1	1524	.	+	0	ID=cds.psaa25.p1;Parent=psaa25.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa26	transdecoder	gene	1	1323	.	+	.	ID=GENE.psaa26~~psaa26.p1;Name=ORF%20type%3Ainternal%20len%3A442%20%28%2B%29
+psaa26	transdecoder	mRNA	1	1323	.	+	.	ID=psaa26.p1;Parent=GENE.psaa26~~psaa26.p1;Name=ORF%20type%3Ainternal%20len%3A442%20%28%2B%29
+psaa26	transdecoder	exon	1	1323	.	+	.	ID=psaa26.p1.exon1;Parent=psaa26.p1
+psaa26	transdecoder	CDS	1	1323	.	+	0	ID=cds.psaa26.p1;Parent=psaa26.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa27	transdecoder	gene	1	1551	.	+	.	ID=GENE.psaa27~~psaa27.p1;Name=ORF%20type%3Ainternal%20len%3A518%20%28%2B%29
+psaa27	transdecoder	mRNA	1	1551	.	+	.	ID=psaa27.p1;Parent=GENE.psaa27~~psaa27.p1;Name=ORF%20type%3Ainternal%20len%3A518%20%28%2B%29
+psaa27	transdecoder	exon	1	1551	.	+	.	ID=psaa27.p1.exon1;Parent=psaa27.p1
+psaa27	transdecoder	CDS	1	1551	.	+	0	ID=cds.psaa27.p1;Parent=psaa27.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa28	transdecoder	gene	1	1557	.	+	.	ID=GENE.psaa28~~psaa28.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa28	transdecoder	mRNA	1	1557	.	+	.	ID=psaa28.p1;Parent=GENE.psaa28~~psaa28.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa28	transdecoder	exon	1	1557	.	+	.	ID=psaa28.p1.exon1;Parent=psaa28.p1
+psaa28	transdecoder	CDS	1	1557	.	+	0	ID=cds.psaa28.p1;Parent=psaa28.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa29	transdecoder	gene	1	695	.	+	.	ID=GENE.psaa29~~psaa29.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29
+psaa29	transdecoder	mRNA	1	695	.	+	.	ID=psaa29.p1;Parent=GENE.psaa29~~psaa29.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29
+psaa29	transdecoder	exon	1	695	.	+	.	ID=psaa29.p1.exon1;Parent=psaa29.p1
+psaa29	transdecoder	CDS	1	693	.	+	0	ID=cds.psaa29.p1;Parent=psaa29.p1;5_prime_partial=true;3_prime_partial=true
+psaa29	transdecoder	three_prime_UTR	694	695	.	+	.	ID=psaa29.p1.utr3p1;Parent=psaa29.p1
+
+psaa30	transdecoder	gene	1	1557	.	+	.	ID=GENE.psaa30~~psaa30.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa30	transdecoder	mRNA	1	1557	.	+	.	ID=psaa30.p1;Parent=GENE.psaa30~~psaa30.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa30	transdecoder	exon	1	1557	.	+	.	ID=psaa30.p1.exon1;Parent=psaa30.p1
+psaa30	transdecoder	CDS	1	1557	.	+	0	ID=cds.psaa30.p1;Parent=psaa30.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa31	transdecoder	gene	1	1554	.	+	.	ID=GENE.psaa31~~psaa31.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa31	transdecoder	mRNA	1	1554	.	+	.	ID=psaa31.p1;Parent=GENE.psaa31~~psaa31.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa31	transdecoder	exon	1	1554	.	+	.	ID=psaa31.p1.exon1;Parent=psaa31.p1
+psaa31	transdecoder	CDS	1	1554	.	+	0	ID=cds.psaa31.p1;Parent=psaa31.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa32	transdecoder	gene	1	1557	.	+	.	ID=GENE.psaa32~~psaa32.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa32	transdecoder	mRNA	1	1557	.	+	.	ID=psaa32.p1;Parent=GENE.psaa32~~psaa32.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa32	transdecoder	exon	1	1557	.	+	.	ID=psaa32.p1.exon1;Parent=psaa32.p1
+psaa32	transdecoder	CDS	1	1557	.	+	0	ID=cds.psaa32.p1;Parent=psaa32.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa33	transdecoder	gene	1	1527	.	+	.	ID=GENE.psaa33~~psaa33.p1;Name=ORF%20type%3Ainternal%20len%3A510%20%28%2B%29
+psaa33	transdecoder	mRNA	1	1527	.	+	.	ID=psaa33.p1;Parent=GENE.psaa33~~psaa33.p1;Name=ORF%20type%3Ainternal%20len%3A510%20%28%2B%29
+psaa33	transdecoder	exon	1	1527	.	+	.	ID=psaa33.p1.exon1;Parent=psaa33.p1
+psaa33	transdecoder	CDS	1	1527	.	+	0	ID=cds.psaa33.p1;Parent=psaa33.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa34	transdecoder	gene	1	1557	.	+	.	ID=GENE.psaa34~~psaa34.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa34	transdecoder	mRNA	1	1557	.	+	.	ID=psaa34.p1;Parent=GENE.psaa34~~psaa34.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa34	transdecoder	exon	1	1557	.	+	.	ID=psaa34.p1.exon1;Parent=psaa34.p1
+psaa34	transdecoder	CDS	1	1557	.	+	0	ID=cds.psaa34.p1;Parent=psaa34.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa35	transdecoder	gene	1	1530	.	+	.	ID=GENE.psaa35~~psaa35.p1;Name=ORF%20type%3Ainternal%20len%3A511%20%28%2B%29
+psaa35	transdecoder	mRNA	1	1530	.	+	.	ID=psaa35.p1;Parent=GENE.psaa35~~psaa35.p1;Name=ORF%20type%3Ainternal%20len%3A511%20%28%2B%29
+psaa35	transdecoder	exon	1	1530	.	+	.	ID=psaa35.p1.exon1;Parent=psaa35.p1
+psaa35	transdecoder	CDS	1	1530	.	+	0	ID=cds.psaa35.p1;Parent=psaa35.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa36	transdecoder	gene	1	1551	.	+	.	ID=GENE.psaa36~~psaa36.p1;Name=ORF%20type%3Ainternal%20len%3A518%20%28%2B%29
+psaa36	transdecoder	mRNA	1	1551	.	+	.	ID=psaa36.p1;Parent=GENE.psaa36~~psaa36.p1;Name=ORF%20type%3Ainternal%20len%3A518%20%28%2B%29
+psaa36	transdecoder	exon	1	1551	.	+	.	ID=psaa36.p1.exon1;Parent=psaa36.p1
+psaa36	transdecoder	CDS	1	1551	.	+	0	ID=cds.psaa36.p1;Parent=psaa36.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa37	transdecoder	gene	1	1554	.	+	.	ID=GENE.psaa37~~psaa37.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa37	transdecoder	mRNA	1	1554	.	+	.	ID=psaa37.p1;Parent=GENE.psaa37~~psaa37.p1;Name=ORF%20type%3Ainternal%20len%3A519%20%28%2B%29
+psaa37	transdecoder	exon	1	1554	.	+	.	ID=psaa37.p1.exon1;Parent=psaa37.p1
+psaa37	transdecoder	CDS	1	1554	.	+	0	ID=cds.psaa37.p1;Parent=psaa37.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa38	transdecoder	gene	1	1557	.	+	.	ID=GENE.psaa38~~psaa38.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa38	transdecoder	mRNA	1	1557	.	+	.	ID=psaa38.p1;Parent=GENE.psaa38~~psaa38.p1;Name=ORF%20type%3Ainternal%20len%3A520%20%28%2B%29
+psaa38	transdecoder	exon	1	1557	.	+	.	ID=psaa38.p1.exon1;Parent=psaa38.p1
+psaa38	transdecoder	CDS	1	1557	.	+	0	ID=cds.psaa38.p1;Parent=psaa38.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa39	transdecoder	gene	1	1542	.	+	.	ID=GENE.psaa39~~psaa39.p1;Name=ORF%20type%3Ainternal%20len%3A515%20%28%2B%29
+psaa39	transdecoder	mRNA	1	1542	.	+	.	ID=psaa39.p1;Parent=GENE.psaa39~~psaa39.p1;Name=ORF%20type%3Ainternal%20len%3A515%20%28%2B%29
+psaa39	transdecoder	exon	1	1542	.	+	.	ID=psaa39.p1.exon1;Parent=psaa39.p1
+psaa39	transdecoder	CDS	1	1542	.	+	0	ID=cds.psaa39.p1;Parent=psaa39.p1;5_prime_partial=true;3_prime_partial=true
+
+psaa40	transdecoder	gene	1	1530	.	+	.	ID=GENE.psaa40~~psaa40.p1;Name=ORF%20type%3Ainternal%20len%3A511%20%28%2B%29
+psaa40	transdecoder	mRNA	1	1530	.	+	.	ID=psaa40.p1;Parent=GENE.psaa40~~psaa40.p1;Name=ORF%20type%3Ainternal%20len%3A511%20%28%2B%29
+psaa40	transdecoder	exon	1	1530	.	+	.	ID=psaa40.p1.exon1;Parent=psaa40.p1
+psaa40	transdecoder	CDS	1	1530	.	+	0	ID=cds.psaa40.p1;Parent=psaa40.p1;5_prime_partial=true;3_prime_partial=true
+

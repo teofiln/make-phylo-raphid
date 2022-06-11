@@ -1,0 +1,402 @@
+cob1	transdecoder	gene	1	710	.	+	.	ID=GENE.cob1~~cob1.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob1	transdecoder	mRNA	1	710	.	+	.	ID=cob1.p1;Parent=GENE.cob1~~cob1.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob1	transdecoder	exon	1	710	.	+	.	ID=cob1.p1.exon1;Parent=cob1.p1
+cob1	transdecoder	CDS	1	708	.	+	0	ID=cds.cob1.p1;Parent=cob1.p1;5_prime_partial=true;3_prime_partial=true
+cob1	transdecoder	three_prime_UTR	709	710	.	+	.	ID=cob1.p1.utr3p1;Parent=cob1.p1
+
+cob2	transdecoder	gene	1	549	.	+	.	ID=GENE.cob2~~cob2.p1;Name=ORF%20type%3Ainternal%20len%3A184%20%28%2B%29
+cob2	transdecoder	mRNA	1	549	.	+	.	ID=cob2.p1;Parent=GENE.cob2~~cob2.p1;Name=ORF%20type%3Ainternal%20len%3A184%20%28%2B%29
+cob2	transdecoder	exon	1	549	.	+	.	ID=cob2.p1.exon1;Parent=cob2.p1
+cob2	transdecoder	CDS	1	549	.	+	0	ID=cds.cob2.p1;Parent=cob2.p1;5_prime_partial=true;3_prime_partial=true
+
+cob3	transdecoder	gene	1	542	.	+	.	ID=GENE.cob3~~cob3.p1;Name=ORF%20type%3Ainternal%20len%3A181%20%28%2B%29
+cob3	transdecoder	mRNA	1	542	.	+	.	ID=cob3.p1;Parent=GENE.cob3~~cob3.p1;Name=ORF%20type%3Ainternal%20len%3A181%20%28%2B%29
+cob3	transdecoder	exon	1	542	.	+	.	ID=cob3.p1.exon1;Parent=cob3.p1
+cob3	transdecoder	CDS	1	540	.	+	0	ID=cds.cob3.p1;Parent=cob3.p1;5_prime_partial=true;3_prime_partial=true
+cob3	transdecoder	three_prime_UTR	541	542	.	+	.	ID=cob3.p1.utr3p1;Parent=cob3.p1
+
+cob4	transdecoder	gene	1	512	.	+	.	ID=GENE.cob4~~cob4.p1;Name=ORF%20type%3Ainternal%20len%3A171%20%28%2B%29
+cob4	transdecoder	mRNA	1	512	.	+	.	ID=cob4.p1;Parent=GENE.cob4~~cob4.p1;Name=ORF%20type%3Ainternal%20len%3A171%20%28%2B%29
+cob4	transdecoder	exon	1	512	.	+	.	ID=cob4.p1.exon1;Parent=cob4.p1
+cob4	transdecoder	CDS	1	510	.	+	0	ID=cds.cob4.p1;Parent=cob4.p1;5_prime_partial=true;3_prime_partial=true
+cob4	transdecoder	three_prime_UTR	511	512	.	+	.	ID=cob4.p1.utr3p1;Parent=cob4.p1
+
+cob5	transdecoder	gene	1	708	.	+	.	ID=GENE.cob5~~cob5.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob5	transdecoder	mRNA	1	708	.	+	.	ID=cob5.p1;Parent=GENE.cob5~~cob5.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob5	transdecoder	exon	1	708	.	+	.	ID=cob5.p1.exon1;Parent=cob5.p1
+cob5	transdecoder	CDS	1	708	.	+	0	ID=cds.cob5.p1;Parent=cob5.p1;5_prime_partial=true;3_prime_partial=true
+
+cob6	transdecoder	gene	1	707	.	+	.	ID=GENE.cob6~~cob6.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob6	transdecoder	mRNA	1	707	.	+	.	ID=cob6.p1;Parent=GENE.cob6~~cob6.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob6	transdecoder	exon	1	707	.	+	.	ID=cob6.p1.exon1;Parent=cob6.p1
+cob6	transdecoder	CDS	1	705	.	+	0	ID=cds.cob6.p1;Parent=cob6.p1;5_prime_partial=true;3_prime_partial=true
+cob6	transdecoder	three_prime_UTR	706	707	.	+	.	ID=cob6.p1.utr3p1;Parent=cob6.p1
+
+cob8	transdecoder	gene	1	708	.	+	.	ID=GENE.cob8~~cob8.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob8	transdecoder	mRNA	1	708	.	+	.	ID=cob8.p1;Parent=GENE.cob8~~cob8.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob8	transdecoder	exon	1	708	.	+	.	ID=cob8.p1.exon1;Parent=cob8.p1
+cob8	transdecoder	CDS	1	708	.	+	0	ID=cds.cob8.p1;Parent=cob8.p1;5_prime_partial=true;3_prime_partial=true
+
+cob9	transdecoder	gene	1	529	.	+	.	ID=GENE.cob9~~cob9.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob9	transdecoder	mRNA	1	529	.	+	.	ID=cob9.p1;Parent=GENE.cob9~~cob9.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob9	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob9.p1.utr5p1;Parent=cob9.p1
+cob9	transdecoder	exon	1	529	.	+	.	ID=cob9.p1.exon1;Parent=cob9.p1
+cob9	transdecoder	CDS	2	529	.	+	0	ID=cds.cob9.p1;Parent=cob9.p1;5_prime_partial=true;3_prime_partial=true
+
+cob10	transdecoder	gene	1	708	.	+	.	ID=GENE.cob10~~cob10.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob10	transdecoder	mRNA	1	708	.	+	.	ID=cob10.p1;Parent=GENE.cob10~~cob10.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob10	transdecoder	exon	1	708	.	+	.	ID=cob10.p1.exon1;Parent=cob10.p1
+cob10	transdecoder	CDS	1	708	.	+	0	ID=cds.cob10.p1;Parent=cob10.p1;5_prime_partial=true;3_prime_partial=true
+
+cob11	transdecoder	gene	1	660	.	+	.	ID=GENE.cob11~~cob11.p1;Name=ORF%20type%3Ainternal%20len%3A220%20%28%2B%29
+cob11	transdecoder	mRNA	1	660	.	+	.	ID=cob11.p1;Parent=GENE.cob11~~cob11.p1;Name=ORF%20type%3Ainternal%20len%3A220%20%28%2B%29
+cob11	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob11.p1.utr5p1;Parent=cob11.p1
+cob11	transdecoder	exon	1	660	.	+	.	ID=cob11.p1.exon1;Parent=cob11.p1
+cob11	transdecoder	CDS	2	658	.	+	0	ID=cds.cob11.p1;Parent=cob11.p1;5_prime_partial=true;3_prime_partial=true
+cob11	transdecoder	three_prime_UTR	659	660	.	+	.	ID=cob11.p1.utr3p1;Parent=cob11.p1
+
+cob12	transdecoder	gene	1	708	.	+	.	ID=GENE.cob12~~cob12.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob12	transdecoder	mRNA	1	708	.	+	.	ID=cob12.p1;Parent=GENE.cob12~~cob12.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob12	transdecoder	exon	1	708	.	+	.	ID=cob12.p1.exon1;Parent=cob12.p1
+cob12	transdecoder	CDS	1	708	.	+	0	ID=cds.cob12.p1;Parent=cob12.p1;5_prime_partial=true;3_prime_partial=true
+
+cob13	transdecoder	gene	1	529	.	+	.	ID=GENE.cob13~~cob13.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob13	transdecoder	mRNA	1	529	.	+	.	ID=cob13.p1;Parent=GENE.cob13~~cob13.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob13	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob13.p1.utr5p1;Parent=cob13.p1
+cob13	transdecoder	exon	1	529	.	+	.	ID=cob13.p1.exon1;Parent=cob13.p1
+cob13	transdecoder	CDS	2	529	.	+	0	ID=cds.cob13.p1;Parent=cob13.p1;5_prime_partial=true;3_prime_partial=true
+
+cob14	transdecoder	gene	1	547	.	+	.	ID=GENE.cob14~~cob14.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob14	transdecoder	mRNA	1	547	.	+	.	ID=cob14.p1;Parent=GENE.cob14~~cob14.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob14	transdecoder	exon	1	547	.	+	.	ID=cob14.p1.exon1;Parent=cob14.p1
+cob14	transdecoder	CDS	1	546	.	+	0	ID=cds.cob14.p1;Parent=cob14.p1;5_prime_partial=true;3_prime_partial=true
+cob14	transdecoder	three_prime_UTR	547	547	.	+	.	ID=cob14.p1.utr3p1;Parent=cob14.p1
+
+cob15	transdecoder	gene	1	594	.	+	.	ID=GENE.cob15~~cob15.p1;Name=ORF%20type%3Ainternal%20len%3A198%20%28%2B%29
+cob15	transdecoder	mRNA	1	594	.	+	.	ID=cob15.p1;Parent=GENE.cob15~~cob15.p1;Name=ORF%20type%3Ainternal%20len%3A198%20%28%2B%29
+cob15	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob15.p1.utr5p1;Parent=cob15.p1
+cob15	transdecoder	exon	1	594	.	+	.	ID=cob15.p1.exon1;Parent=cob15.p1
+cob15	transdecoder	CDS	2	592	.	+	0	ID=cds.cob15.p1;Parent=cob15.p1;5_prime_partial=true;3_prime_partial=true
+cob15	transdecoder	three_prime_UTR	593	594	.	+	.	ID=cob15.p1.utr3p1;Parent=cob15.p1
+
+cob16	transdecoder	gene	1	551	.	+	.	ID=GENE.cob16~~cob16.p1;Name=ORF%20type%3Ainternal%20len%3A184%20%28%2B%29
+cob16	transdecoder	mRNA	1	551	.	+	.	ID=cob16.p1;Parent=GENE.cob16~~cob16.p1;Name=ORF%20type%3Ainternal%20len%3A184%20%28%2B%29
+cob16	transdecoder	five_prime_UTR	1	2	.	+	.	ID=cob16.p1.utr5p1;Parent=cob16.p1
+cob16	transdecoder	exon	1	551	.	+	.	ID=cob16.p1.exon1;Parent=cob16.p1
+cob16	transdecoder	CDS	3	551	.	+	0	ID=cds.cob16.p1;Parent=cob16.p1;5_prime_partial=true;3_prime_partial=true
+
+cob17	transdecoder	gene	1	708	.	+	.	ID=GENE.cob17~~cob17.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob17	transdecoder	mRNA	1	708	.	+	.	ID=cob17.p1;Parent=GENE.cob17~~cob17.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob17	transdecoder	exon	1	708	.	+	.	ID=cob17.p1.exon1;Parent=cob17.p1
+cob17	transdecoder	CDS	1	708	.	+	0	ID=cds.cob17.p1;Parent=cob17.p1;5_prime_partial=true;3_prime_partial=true
+
+cob18	transdecoder	gene	1	708	.	+	.	ID=GENE.cob18~~cob18.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob18	transdecoder	mRNA	1	708	.	+	.	ID=cob18.p1;Parent=GENE.cob18~~cob18.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob18	transdecoder	exon	1	708	.	+	.	ID=cob18.p1.exon1;Parent=cob18.p1
+cob18	transdecoder	CDS	1	708	.	+	0	ID=cds.cob18.p1;Parent=cob18.p1;5_prime_partial=true;3_prime_partial=true
+
+cob19	transdecoder	gene	1	710	.	+	.	ID=GENE.cob19~~cob19.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob19	transdecoder	mRNA	1	710	.	+	.	ID=cob19.p1;Parent=GENE.cob19~~cob19.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob19	transdecoder	exon	1	710	.	+	.	ID=cob19.p1.exon1;Parent=cob19.p1
+cob19	transdecoder	CDS	1	708	.	+	0	ID=cds.cob19.p1;Parent=cob19.p1;5_prime_partial=true;3_prime_partial=true
+cob19	transdecoder	three_prime_UTR	709	710	.	+	.	ID=cob19.p1.utr3p1;Parent=cob19.p1
+
+cob20	transdecoder	gene	1	550	.	+	.	ID=GENE.cob20~~cob20.p1;Name=ORF%20type%3Ainternal%20len%3A184%20%28%2B%29
+cob20	transdecoder	mRNA	1	550	.	+	.	ID=cob20.p1;Parent=GENE.cob20~~cob20.p1;Name=ORF%20type%3Ainternal%20len%3A184%20%28%2B%29
+cob20	transdecoder	exon	1	550	.	+	.	ID=cob20.p1.exon1;Parent=cob20.p1
+cob20	transdecoder	CDS	1	549	.	+	0	ID=cds.cob20.p1;Parent=cob20.p1;5_prime_partial=true;3_prime_partial=true
+cob20	transdecoder	three_prime_UTR	550	550	.	+	.	ID=cob20.p1.utr3p1;Parent=cob20.p1
+
+cob21	transdecoder	gene	1	709	.	+	.	ID=GENE.cob21~~cob21.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob21	transdecoder	mRNA	1	709	.	+	.	ID=cob21.p1;Parent=GENE.cob21~~cob21.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob21	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob21.p1.utr5p1;Parent=cob21.p1
+cob21	transdecoder	exon	1	709	.	+	.	ID=cob21.p1.exon1;Parent=cob21.p1
+cob21	transdecoder	CDS	2	709	.	+	0	ID=cds.cob21.p1;Parent=cob21.p1;5_prime_partial=true;3_prime_partial=true
+
+cob22	transdecoder	gene	1	711	.	+	.	ID=GENE.cob22~~cob22.p1;Name=ORF%20type%3Ainternal%20len%3A238%20%28%2B%29
+cob22	transdecoder	mRNA	1	711	.	+	.	ID=cob22.p1;Parent=GENE.cob22~~cob22.p1;Name=ORF%20type%3Ainternal%20len%3A238%20%28%2B%29
+cob22	transdecoder	exon	1	711	.	+	.	ID=cob22.p1.exon1;Parent=cob22.p1
+cob22	transdecoder	CDS	1	711	.	+	0	ID=cds.cob22.p1;Parent=cob22.p1;5_prime_partial=true;3_prime_partial=true
+
+cob23	transdecoder	gene	1	707	.	+	.	ID=GENE.cob23~~cob23.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob23	transdecoder	mRNA	1	707	.	+	.	ID=cob23.p1;Parent=GENE.cob23~~cob23.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob23	transdecoder	exon	1	707	.	+	.	ID=cob23.p1.exon1;Parent=cob23.p1
+cob23	transdecoder	CDS	1	705	.	+	0	ID=cds.cob23.p1;Parent=cob23.p1;5_prime_partial=true;3_prime_partial=true
+cob23	transdecoder	three_prime_UTR	706	707	.	+	.	ID=cob23.p1.utr3p1;Parent=cob23.p1
+
+cob24	transdecoder	gene	1	546	.	+	.	ID=GENE.cob24~~cob24.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob24	transdecoder	mRNA	1	546	.	+	.	ID=cob24.p1;Parent=GENE.cob24~~cob24.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob24	transdecoder	exon	1	546	.	+	.	ID=cob24.p1.exon1;Parent=cob24.p1
+cob24	transdecoder	CDS	1	546	.	+	0	ID=cds.cob24.p1;Parent=cob24.p1;5_prime_partial=true;3_prime_partial=true
+
+cob25	transdecoder	gene	1	546	.	+	.	ID=GENE.cob25~~cob25.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob25	transdecoder	mRNA	1	546	.	+	.	ID=cob25.p1;Parent=GENE.cob25~~cob25.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob25	transdecoder	exon	1	546	.	+	.	ID=cob25.p1.exon1;Parent=cob25.p1
+cob25	transdecoder	CDS	1	546	.	+	0	ID=cds.cob25.p1;Parent=cob25.p1;5_prime_partial=true;3_prime_partial=true
+
+cob26	transdecoder	gene	1	547	.	+	.	ID=GENE.cob26~~cob26.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob26	transdecoder	mRNA	1	547	.	+	.	ID=cob26.p1;Parent=GENE.cob26~~cob26.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob26	transdecoder	exon	1	547	.	+	.	ID=cob26.p1.exon1;Parent=cob26.p1
+cob26	transdecoder	CDS	1	546	.	+	0	ID=cds.cob26.p1;Parent=cob26.p1;5_prime_partial=true;3_prime_partial=true
+cob26	transdecoder	three_prime_UTR	547	547	.	+	.	ID=cob26.p1.utr3p1;Parent=cob26.p1
+
+cob27	transdecoder	gene	1	694	.	+	.	ID=GENE.cob27~~cob27.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29
+cob27	transdecoder	mRNA	1	694	.	+	.	ID=cob27.p1;Parent=GENE.cob27~~cob27.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29
+cob27	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob27.p1.utr5p1;Parent=cob27.p1
+cob27	transdecoder	exon	1	694	.	+	.	ID=cob27.p1.exon1;Parent=cob27.p1
+cob27	transdecoder	CDS	2	694	.	+	0	ID=cds.cob27.p1;Parent=cob27.p1;5_prime_partial=true;3_prime_partial=true
+
+cob28	transdecoder	gene	1	697	.	+	.	ID=GENE.cob28~~cob28.p1;Name=ORF%20type%3Ainternal%20len%3A233%20%28%2B%29
+cob28	transdecoder	mRNA	1	697	.	+	.	ID=cob28.p1;Parent=GENE.cob28~~cob28.p1;Name=ORF%20type%3Ainternal%20len%3A233%20%28%2B%29
+cob28	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob28.p1.utr5p1;Parent=cob28.p1
+cob28	transdecoder	exon	1	697	.	+	.	ID=cob28.p1.exon1;Parent=cob28.p1
+cob28	transdecoder	CDS	2	697	.	+	0	ID=cds.cob28.p1;Parent=cob28.p1;5_prime_partial=true;3_prime_partial=true
+
+cob29	transdecoder	gene	1	694	.	+	.	ID=GENE.cob29~~cob29.p1;Name=ORF%20type%3A3prime_partial%20len%3A232%20%28%2B%29
+cob29	transdecoder	mRNA	1	694	.	+	.	ID=cob29.p1;Parent=GENE.cob29~~cob29.p1;Name=ORF%20type%3A3prime_partial%20len%3A232%20%28%2B%29
+cob29	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob29.p1.utr5p1;Parent=cob29.p1
+cob29	transdecoder	exon	1	694	.	+	.	ID=cob29.p1.exon1;Parent=cob29.p1
+cob29	transdecoder	CDS	2	694	.	+	0	ID=cds.cob29.p1;Parent=cob29.p1;3_prime_partial=true
+
+cob31	transdecoder	gene	1	696	.	+	.	ID=GENE.cob31~~cob31.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29
+cob31	transdecoder	mRNA	1	696	.	+	.	ID=cob31.p1;Parent=GENE.cob31~~cob31.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28%2B%29
+cob31	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob31.p1.utr5p1;Parent=cob31.p1
+cob31	transdecoder	exon	1	696	.	+	.	ID=cob31.p1.exon1;Parent=cob31.p1
+cob31	transdecoder	CDS	2	694	.	+	0	ID=cds.cob31.p1;Parent=cob31.p1;5_prime_partial=true;3_prime_partial=true
+cob31	transdecoder	three_prime_UTR	695	696	.	+	.	ID=cob31.p1.utr3p1;Parent=cob31.p1
+
+cob32	transdecoder	gene	1	699	.	+	.	ID=GENE.cob32~~cob32.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob32	transdecoder	mRNA	1	699	.	+	.	ID=cob32.p1;Parent=GENE.cob32~~cob32.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob32	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob32.p1.utr5p1;Parent=cob32.p1
+cob32	transdecoder	exon	1	699	.	+	.	ID=cob32.p1.exon1;Parent=cob32.p1
+cob32	transdecoder	CDS	2	697	.	+	0	ID=cds.cob32.p1;Parent=cob32.p1;3_prime_partial=true
+cob32	transdecoder	three_prime_UTR	698	699	.	+	.	ID=cob32.p1.utr3p1;Parent=cob32.p1
+
+cob33	transdecoder	gene	1	697	.	+	.	ID=GENE.cob33~~cob33.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob33	transdecoder	mRNA	1	697	.	+	.	ID=cob33.p1;Parent=GENE.cob33~~cob33.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob33	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob33.p1.utr5p1;Parent=cob33.p1
+cob33	transdecoder	exon	1	697	.	+	.	ID=cob33.p1.exon1;Parent=cob33.p1
+cob33	transdecoder	CDS	2	697	.	+	0	ID=cds.cob33.p1;Parent=cob33.p1;3_prime_partial=true
+
+cob34	transdecoder	gene	1	697	.	+	.	ID=GENE.cob34~~cob34.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob34	transdecoder	mRNA	1	697	.	+	.	ID=cob34.p1;Parent=GENE.cob34~~cob34.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob34	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob34.p1.utr5p1;Parent=cob34.p1
+cob34	transdecoder	exon	1	697	.	+	.	ID=cob34.p1.exon1;Parent=cob34.p1
+cob34	transdecoder	CDS	2	697	.	+	0	ID=cds.cob34.p1;Parent=cob34.p1;3_prime_partial=true
+
+cob35	transdecoder	gene	1	699	.	+	.	ID=GENE.cob35~~cob35.p1;Name=ORF%20type%3Ainternal%20len%3A233%20%28%2B%29
+cob35	transdecoder	mRNA	1	699	.	+	.	ID=cob35.p1;Parent=GENE.cob35~~cob35.p1;Name=ORF%20type%3Ainternal%20len%3A233%20%28%2B%29
+cob35	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob35.p1.utr5p1;Parent=cob35.p1
+cob35	transdecoder	exon	1	699	.	+	.	ID=cob35.p1.exon1;Parent=cob35.p1
+cob35	transdecoder	CDS	2	697	.	+	0	ID=cds.cob35.p1;Parent=cob35.p1;5_prime_partial=true;3_prime_partial=true
+cob35	transdecoder	three_prime_UTR	698	699	.	+	.	ID=cob35.p1.utr3p1;Parent=cob35.p1
+
+cob36	transdecoder	gene	1	697	.	+	.	ID=GENE.cob36~~cob36.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob36	transdecoder	mRNA	1	697	.	+	.	ID=cob36.p1;Parent=GENE.cob36~~cob36.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob36	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob36.p1.utr5p1;Parent=cob36.p1
+cob36	transdecoder	exon	1	697	.	+	.	ID=cob36.p1.exon1;Parent=cob36.p1
+cob36	transdecoder	CDS	2	697	.	+	0	ID=cds.cob36.p1;Parent=cob36.p1;3_prime_partial=true
+
+cob37	transdecoder	gene	1	697	.	+	.	ID=GENE.cob37~~cob37.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob37	transdecoder	mRNA	1	697	.	+	.	ID=cob37.p1;Parent=GENE.cob37~~cob37.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob37	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob37.p1.utr5p1;Parent=cob37.p1
+cob37	transdecoder	exon	1	697	.	+	.	ID=cob37.p1.exon1;Parent=cob37.p1
+cob37	transdecoder	CDS	2	697	.	+	0	ID=cds.cob37.p1;Parent=cob37.p1;3_prime_partial=true
+
+cob38	transdecoder	gene	1	697	.	+	.	ID=GENE.cob38~~cob38.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob38	transdecoder	mRNA	1	697	.	+	.	ID=cob38.p1;Parent=GENE.cob38~~cob38.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob38	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob38.p1.utr5p1;Parent=cob38.p1
+cob38	transdecoder	exon	1	697	.	+	.	ID=cob38.p1.exon1;Parent=cob38.p1
+cob38	transdecoder	CDS	2	697	.	+	0	ID=cds.cob38.p1;Parent=cob38.p1;3_prime_partial=true
+
+cob39	transdecoder	gene	1	697	.	+	.	ID=GENE.cob39~~cob39.p1;Name=ORF%20type%3Ainternal%20len%3A233%20%28%2B%29
+cob39	transdecoder	mRNA	1	697	.	+	.	ID=cob39.p1;Parent=GENE.cob39~~cob39.p1;Name=ORF%20type%3Ainternal%20len%3A233%20%28%2B%29
+cob39	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob39.p1.utr5p1;Parent=cob39.p1
+cob39	transdecoder	exon	1	697	.	+	.	ID=cob39.p1.exon1;Parent=cob39.p1
+cob39	transdecoder	CDS	2	697	.	+	0	ID=cds.cob39.p1;Parent=cob39.p1;5_prime_partial=true;3_prime_partial=true
+
+cob40	transdecoder	gene	1	699	.	+	.	ID=GENE.cob40~~cob40.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob40	transdecoder	mRNA	1	699	.	+	.	ID=cob40.p1;Parent=GENE.cob40~~cob40.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob40	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob40.p1.utr5p1;Parent=cob40.p1
+cob40	transdecoder	exon	1	699	.	+	.	ID=cob40.p1.exon1;Parent=cob40.p1
+cob40	transdecoder	CDS	2	697	.	+	0	ID=cds.cob40.p1;Parent=cob40.p1;3_prime_partial=true
+cob40	transdecoder	three_prime_UTR	698	699	.	+	.	ID=cob40.p1.utr3p1;Parent=cob40.p1
+
+cob41	transdecoder	gene	1	697	.	+	.	ID=GENE.cob41~~cob41.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob41	transdecoder	mRNA	1	697	.	+	.	ID=cob41.p1;Parent=GENE.cob41~~cob41.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob41	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob41.p1.utr5p1;Parent=cob41.p1
+cob41	transdecoder	exon	1	697	.	+	.	ID=cob41.p1.exon1;Parent=cob41.p1
+cob41	transdecoder	CDS	2	697	.	+	0	ID=cds.cob41.p1;Parent=cob41.p1;3_prime_partial=true
+
+cob42	transdecoder	gene	1	697	.	+	.	ID=GENE.cob42~~cob42.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob42	transdecoder	mRNA	1	697	.	+	.	ID=cob42.p1;Parent=GENE.cob42~~cob42.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob42	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob42.p1.utr5p1;Parent=cob42.p1
+cob42	transdecoder	exon	1	697	.	+	.	ID=cob42.p1.exon1;Parent=cob42.p1
+cob42	transdecoder	CDS	2	697	.	+	0	ID=cds.cob42.p1;Parent=cob42.p1;3_prime_partial=true
+
+cob43	transdecoder	gene	1	699	.	+	.	ID=GENE.cob43~~cob43.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob43	transdecoder	mRNA	1	699	.	+	.	ID=cob43.p1;Parent=GENE.cob43~~cob43.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob43	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob43.p1.utr5p1;Parent=cob43.p1
+cob43	transdecoder	exon	1	699	.	+	.	ID=cob43.p1.exon1;Parent=cob43.p1
+cob43	transdecoder	CDS	2	697	.	+	0	ID=cds.cob43.p1;Parent=cob43.p1;3_prime_partial=true
+cob43	transdecoder	three_prime_UTR	698	699	.	+	.	ID=cob43.p1.utr3p1;Parent=cob43.p1
+
+cob44	transdecoder	gene	1	708	.	+	.	ID=GENE.cob44~~cob44.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob44	transdecoder	mRNA	1	708	.	+	.	ID=cob44.p1;Parent=GENE.cob44~~cob44.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob44	transdecoder	exon	1	708	.	+	.	ID=cob44.p1.exon1;Parent=cob44.p1
+cob44	transdecoder	CDS	1	708	.	+	0	ID=cds.cob44.p1;Parent=cob44.p1;5_prime_partial=true;3_prime_partial=true
+
+cob45	transdecoder	gene	1	548	.	+	.	ID=GENE.cob45~~cob45.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob45	transdecoder	mRNA	1	548	.	+	.	ID=cob45.p1;Parent=GENE.cob45~~cob45.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob45	transdecoder	five_prime_UTR	1	2	.	+	.	ID=cob45.p1.utr5p1;Parent=cob45.p1
+cob45	transdecoder	exon	1	548	.	+	.	ID=cob45.p1.exon1;Parent=cob45.p1
+cob45	transdecoder	CDS	3	548	.	+	0	ID=cds.cob45.p1;Parent=cob45.p1;5_prime_partial=true;3_prime_partial=true
+
+cob46	transdecoder	gene	1	707	.	+	.	ID=GENE.cob46~~cob46.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob46	transdecoder	mRNA	1	707	.	+	.	ID=cob46.p1;Parent=GENE.cob46~~cob46.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob46	transdecoder	exon	1	707	.	+	.	ID=cob46.p1.exon1;Parent=cob46.p1
+cob46	transdecoder	CDS	1	705	.	+	0	ID=cds.cob46.p1;Parent=cob46.p1;5_prime_partial=true;3_prime_partial=true
+cob46	transdecoder	three_prime_UTR	706	707	.	+	.	ID=cob46.p1.utr3p1;Parent=cob46.p1
+
+cob47	transdecoder	gene	1	699	.	+	.	ID=GENE.cob47~~cob47.p1;Name=ORF%20type%3Ainternal%20len%3A233%20%28%2B%29
+cob47	transdecoder	mRNA	1	699	.	+	.	ID=cob47.p1;Parent=GENE.cob47~~cob47.p1;Name=ORF%20type%3Ainternal%20len%3A233%20%28%2B%29
+cob47	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob47.p1.utr5p1;Parent=cob47.p1
+cob47	transdecoder	exon	1	699	.	+	.	ID=cob47.p1.exon1;Parent=cob47.p1
+cob47	transdecoder	CDS	2	697	.	+	0	ID=cds.cob47.p1;Parent=cob47.p1;5_prime_partial=true;3_prime_partial=true
+cob47	transdecoder	three_prime_UTR	698	699	.	+	.	ID=cob47.p1.utr3p1;Parent=cob47.p1
+
+cob48	transdecoder	gene	1	699	.	+	.	ID=GENE.cob48~~cob48.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob48	transdecoder	mRNA	1	699	.	+	.	ID=cob48.p1;Parent=GENE.cob48~~cob48.p1;Name=ORF%20type%3A3prime_partial%20len%3A233%20%28%2B%29
+cob48	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob48.p1.utr5p1;Parent=cob48.p1
+cob48	transdecoder	exon	1	699	.	+	.	ID=cob48.p1.exon1;Parent=cob48.p1
+cob48	transdecoder	CDS	2	697	.	+	0	ID=cds.cob48.p1;Parent=cob48.p1;3_prime_partial=true
+cob48	transdecoder	three_prime_UTR	698	699	.	+	.	ID=cob48.p1.utr3p1;Parent=cob48.p1
+
+cob49	transdecoder	gene	1	546	.	+	.	ID=GENE.cob49~~cob49.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob49	transdecoder	mRNA	1	546	.	+	.	ID=cob49.p1;Parent=GENE.cob49~~cob49.p1;Name=ORF%20type%3Ainternal%20len%3A183%20%28%2B%29
+cob49	transdecoder	exon	1	546	.	+	.	ID=cob49.p1.exon1;Parent=cob49.p1
+cob49	transdecoder	CDS	1	546	.	+	0	ID=cds.cob49.p1;Parent=cob49.p1;5_prime_partial=true;3_prime_partial=true
+
+cob50	transdecoder	gene	1	710	.	+	.	ID=GENE.cob50~~cob50.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob50	transdecoder	mRNA	1	710	.	+	.	ID=cob50.p1;Parent=GENE.cob50~~cob50.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob50	transdecoder	exon	1	710	.	+	.	ID=cob50.p1.exon1;Parent=cob50.p1
+cob50	transdecoder	CDS	1	708	.	+	0	ID=cds.cob50.p1;Parent=cob50.p1;5_prime_partial=true;3_prime_partial=true
+cob50	transdecoder	three_prime_UTR	709	710	.	+	.	ID=cob50.p1.utr3p1;Parent=cob50.p1
+
+cob51	transdecoder	gene	1	707	.	+	.	ID=GENE.cob51~~cob51.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob51	transdecoder	mRNA	1	707	.	+	.	ID=cob51.p1;Parent=GENE.cob51~~cob51.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob51	transdecoder	exon	1	707	.	+	.	ID=cob51.p1.exon1;Parent=cob51.p1
+cob51	transdecoder	CDS	1	705	.	+	0	ID=cds.cob51.p1;Parent=cob51.p1;5_prime_partial=true;3_prime_partial=true
+cob51	transdecoder	three_prime_UTR	706	707	.	+	.	ID=cob51.p1.utr3p1;Parent=cob51.p1
+
+cob52	transdecoder	gene	1	707	.	+	.	ID=GENE.cob52~~cob52.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob52	transdecoder	mRNA	1	707	.	+	.	ID=cob52.p1;Parent=GENE.cob52~~cob52.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob52	transdecoder	exon	1	707	.	+	.	ID=cob52.p1.exon1;Parent=cob52.p1
+cob52	transdecoder	CDS	1	705	.	+	0	ID=cds.cob52.p1;Parent=cob52.p1;5_prime_partial=true;3_prime_partial=true
+cob52	transdecoder	three_prime_UTR	706	707	.	+	.	ID=cob52.p1.utr3p1;Parent=cob52.p1
+
+cob53	transdecoder	gene	1	542	.	+	.	ID=GENE.cob53~~cob53.p1;Name=ORF%20type%3Ainternal%20len%3A181%20%28%2B%29
+cob53	transdecoder	mRNA	1	542	.	+	.	ID=cob53.p1;Parent=GENE.cob53~~cob53.p1;Name=ORF%20type%3Ainternal%20len%3A181%20%28%2B%29
+cob53	transdecoder	exon	1	542	.	+	.	ID=cob53.p1.exon1;Parent=cob53.p1
+cob53	transdecoder	CDS	1	540	.	+	0	ID=cds.cob53.p1;Parent=cob53.p1;5_prime_partial=true;3_prime_partial=true
+cob53	transdecoder	three_prime_UTR	541	542	.	+	.	ID=cob53.p1.utr3p1;Parent=cob53.p1
+
+cob54	transdecoder	gene	1	707	.	+	.	ID=GENE.cob54~~cob54.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob54	transdecoder	mRNA	1	707	.	+	.	ID=cob54.p1;Parent=GENE.cob54~~cob54.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob54	transdecoder	exon	1	707	.	+	.	ID=cob54.p1.exon1;Parent=cob54.p1
+cob54	transdecoder	CDS	1	705	.	+	0	ID=cds.cob54.p1;Parent=cob54.p1;5_prime_partial=true;3_prime_partial=true
+cob54	transdecoder	three_prime_UTR	706	707	.	+	.	ID=cob54.p1.utr3p1;Parent=cob54.p1
+
+cob55	transdecoder	gene	1	708	.	+	.	ID=GENE.cob55~~cob55.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob55	transdecoder	mRNA	1	708	.	+	.	ID=cob55.p1;Parent=GENE.cob55~~cob55.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob55	transdecoder	exon	1	708	.	+	.	ID=cob55.p1.exon1;Parent=cob55.p1
+cob55	transdecoder	CDS	1	708	.	+	0	ID=cds.cob55.p1;Parent=cob55.p1;5_prime_partial=true;3_prime_partial=true
+
+cob56	transdecoder	gene	1	660	.	+	.	ID=GENE.cob56~~cob56.p1;Name=ORF%20type%3Ainternal%20len%3A220%20%28%2B%29
+cob56	transdecoder	mRNA	1	660	.	+	.	ID=cob56.p1;Parent=GENE.cob56~~cob56.p1;Name=ORF%20type%3Ainternal%20len%3A220%20%28%2B%29
+cob56	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob56.p1.utr5p1;Parent=cob56.p1
+cob56	transdecoder	exon	1	660	.	+	.	ID=cob56.p1.exon1;Parent=cob56.p1
+cob56	transdecoder	CDS	2	658	.	+	0	ID=cds.cob56.p1;Parent=cob56.p1;5_prime_partial=true;3_prime_partial=true
+cob56	transdecoder	three_prime_UTR	659	660	.	+	.	ID=cob56.p1.utr3p1;Parent=cob56.p1
+
+cob57	transdecoder	gene	1	529	.	+	.	ID=GENE.cob57~~cob57.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob57	transdecoder	mRNA	1	529	.	+	.	ID=cob57.p1;Parent=GENE.cob57~~cob57.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob57	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob57.p1.utr5p1;Parent=cob57.p1
+cob57	transdecoder	exon	1	529	.	+	.	ID=cob57.p1.exon1;Parent=cob57.p1
+cob57	transdecoder	CDS	2	529	.	+	0	ID=cds.cob57.p1;Parent=cob57.p1;5_prime_partial=true;3_prime_partial=true
+
+cob58	transdecoder	gene	1	529	.	+	.	ID=GENE.cob58~~cob58.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob58	transdecoder	mRNA	1	529	.	+	.	ID=cob58.p1;Parent=GENE.cob58~~cob58.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob58	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob58.p1.utr5p1;Parent=cob58.p1
+cob58	transdecoder	exon	1	529	.	+	.	ID=cob58.p1.exon1;Parent=cob58.p1
+cob58	transdecoder	CDS	2	529	.	+	0	ID=cds.cob58.p1;Parent=cob58.p1;5_prime_partial=true;3_prime_partial=true
+
+cob59	transdecoder	gene	1	529	.	+	.	ID=GENE.cob59~~cob59.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob59	transdecoder	mRNA	1	529	.	+	.	ID=cob59.p1;Parent=GENE.cob59~~cob59.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob59	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob59.p1.utr5p1;Parent=cob59.p1
+cob59	transdecoder	exon	1	529	.	+	.	ID=cob59.p1.exon1;Parent=cob59.p1
+cob59	transdecoder	CDS	2	529	.	+	0	ID=cds.cob59.p1;Parent=cob59.p1;5_prime_partial=true;3_prime_partial=true
+
+cob60	transdecoder	gene	1	529	.	+	.	ID=GENE.cob60~~cob60.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob60	transdecoder	mRNA	1	529	.	+	.	ID=cob60.p1;Parent=GENE.cob60~~cob60.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob60	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob60.p1.utr5p1;Parent=cob60.p1
+cob60	transdecoder	exon	1	529	.	+	.	ID=cob60.p1.exon1;Parent=cob60.p1
+cob60	transdecoder	CDS	2	529	.	+	0	ID=cds.cob60.p1;Parent=cob60.p1;5_prime_partial=true;3_prime_partial=true
+
+cob61	transdecoder	gene	1	542	.	+	.	ID=GENE.cob61~~cob61.p1;Name=ORF%20type%3Ainternal%20len%3A181%20%28%2B%29
+cob61	transdecoder	mRNA	1	542	.	+	.	ID=cob61.p1;Parent=GENE.cob61~~cob61.p1;Name=ORF%20type%3Ainternal%20len%3A181%20%28%2B%29
+cob61	transdecoder	exon	1	542	.	+	.	ID=cob61.p1.exon1;Parent=cob61.p1
+cob61	transdecoder	CDS	1	540	.	+	0	ID=cds.cob61.p1;Parent=cob61.p1;5_prime_partial=true;3_prime_partial=true
+cob61	transdecoder	three_prime_UTR	541	542	.	+	.	ID=cob61.p1.utr3p1;Parent=cob61.p1
+
+cob62	transdecoder	gene	1	707	.	+	.	ID=GENE.cob62~~cob62.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob62	transdecoder	mRNA	1	707	.	+	.	ID=cob62.p1;Parent=GENE.cob62~~cob62.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob62	transdecoder	exon	1	707	.	+	.	ID=cob62.p1.exon1;Parent=cob62.p1
+cob62	transdecoder	CDS	1	705	.	+	0	ID=cds.cob62.p1;Parent=cob62.p1;5_prime_partial=true;3_prime_partial=true
+cob62	transdecoder	three_prime_UTR	706	707	.	+	.	ID=cob62.p1.utr3p1;Parent=cob62.p1
+
+cob63	transdecoder	gene	1	708	.	+	.	ID=GENE.cob63~~cob63.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob63	transdecoder	mRNA	1	708	.	+	.	ID=cob63.p1;Parent=GENE.cob63~~cob63.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob63	transdecoder	exon	1	708	.	+	.	ID=cob63.p1.exon1;Parent=cob63.p1
+cob63	transdecoder	CDS	1	708	.	+	0	ID=cds.cob63.p1;Parent=cob63.p1;5_prime_partial=true;3_prime_partial=true
+
+cob64	transdecoder	gene	1	707	.	+	.	ID=GENE.cob64~~cob64.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob64	transdecoder	mRNA	1	707	.	+	.	ID=cob64.p1;Parent=GENE.cob64~~cob64.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob64	transdecoder	exon	1	707	.	+	.	ID=cob64.p1.exon1;Parent=cob64.p1
+cob64	transdecoder	CDS	1	705	.	+	0	ID=cds.cob64.p1;Parent=cob64.p1;5_prime_partial=true;3_prime_partial=true
+cob64	transdecoder	three_prime_UTR	706	707	.	+	.	ID=cob64.p1.utr3p1;Parent=cob64.p1
+
+cob65	transdecoder	gene	1	529	.	+	.	ID=GENE.cob65~~cob65.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob65	transdecoder	mRNA	1	529	.	+	.	ID=cob65.p1;Parent=GENE.cob65~~cob65.p1;Name=ORF%20type%3Ainternal%20len%3A177%20%28%2B%29
+cob65	transdecoder	five_prime_UTR	1	1	.	+	.	ID=cob65.p1.utr5p1;Parent=cob65.p1
+cob65	transdecoder	exon	1	529	.	+	.	ID=cob65.p1.exon1;Parent=cob65.p1
+cob65	transdecoder	CDS	2	529	.	+	0	ID=cds.cob65.p1;Parent=cob65.p1;5_prime_partial=true;3_prime_partial=true
+
+cob66	transdecoder	gene	1	708	.	+	.	ID=GENE.cob66~~cob66.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob66	transdecoder	mRNA	1	708	.	+	.	ID=cob66.p1;Parent=GENE.cob66~~cob66.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob66	transdecoder	exon	1	708	.	+	.	ID=cob66.p1.exon1;Parent=cob66.p1
+cob66	transdecoder	CDS	1	708	.	+	0	ID=cds.cob66.p1;Parent=cob66.p1;5_prime_partial=true;3_prime_partial=true
+
+cob67	transdecoder	gene	1	707	.	+	.	ID=GENE.cob67~~cob67.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob67	transdecoder	mRNA	1	707	.	+	.	ID=cob67.p1;Parent=GENE.cob67~~cob67.p1;Name=ORF%20type%3Ainternal%20len%3A236%20%28%2B%29
+cob67	transdecoder	exon	1	707	.	+	.	ID=cob67.p1.exon1;Parent=cob67.p1
+cob67	transdecoder	CDS	1	705	.	+	0	ID=cds.cob67.p1;Parent=cob67.p1;5_prime_partial=true;3_prime_partial=true
+cob67	transdecoder	three_prime_UTR	706	707	.	+	.	ID=cob67.p1.utr3p1;Parent=cob67.p1
+
+cob68	transdecoder	gene	1	708	.	+	.	ID=GENE.cob68~~cob68.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob68	transdecoder	mRNA	1	708	.	+	.	ID=cob68.p1;Parent=GENE.cob68~~cob68.p1;Name=ORF%20type%3Ainternal%20len%3A237%20%28%2B%29
+cob68	transdecoder	exon	1	708	.	+	.	ID=cob68.p1.exon1;Parent=cob68.p1
+cob68	transdecoder	CDS	1	708	.	+	0	ID=cds.cob68.p1;Parent=cob68.p1;5_prime_partial=true;3_prime_partial=true
+
+cob69	transdecoder	gene	1	711	.	+	.	ID=GENE.cob69~~cob69.p1;Name=ORF%20type%3Ainternal%20len%3A238%20%28%2B%29
+cob69	transdecoder	mRNA	1	711	.	+	.	ID=cob69.p1;Parent=GENE.cob69~~cob69.p1;Name=ORF%20type%3Ainternal%20len%3A238%20%28%2B%29
+cob69	transdecoder	exon	1	711	.	+	.	ID=cob69.p1.exon1;Parent=cob69.p1
+cob69	transdecoder	CDS	1	711	.	+	0	ID=cds.cob69.p1;Parent=cob69.p1;5_prime_partial=true;3_prime_partial=true
+
+cob30	transdecoder	gene	1	696	.	-	.	ID=GENE.cob30~~cob30.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28-%29
+cob30	transdecoder	mRNA	1	696	.	-	.	ID=cob30.p1;Parent=GENE.cob30~~cob30.p1;Name=ORF%20type%3Ainternal%20len%3A232%20%28-%29
+cob30	transdecoder	five_prime_UTR	696	696	.	-	.	ID=cob30.p1.utr5p1;Parent=cob30.p1
+cob30	transdecoder	exon	1	696	.	-	.	ID=cob30.p1.exon1;Parent=cob30.p1
+cob30	transdecoder	CDS	3	695	.	-	0	ID=cds.cob30.p1;Parent=cob30.p1;5_prime_partial=true;3_prime_partial=true
+cob30	transdecoder	three_prime_UTR	1	2	.	-	.	ID=cob30.p1.utr3p1;Parent=cob30.p1
+
