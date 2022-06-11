@@ -119,23 +119,6 @@ purrr::map_dbl(species_id_seqs, nrow)
 
 # 3. concatenate
 
-# ideally, we'd use `reduce`, but that seems to run out of RAM:
-purrr::reduce(species_id_seqs[1:7], dplyr::inner_join, by = "species_id")
-
-# try one by one, still crashing the R session.
-dplyr::left_join(species_id_seqs[["rbcl"]], species_id_seqs[["18s"]], by = "species_id") |>
-    dplyr::left_join(species_id_seqs[[3]], by = "species_id") |>
-    dplyr::left_join(species_id_seqs[[4]], by = "species_id") |>
-    dplyr::left_join(species_id_seqs[[5]], by = "species_id") |>
-    dplyr::left_join(species_id_seqs[[6]], by = "species_id")
-#     dplyr::left_join(species_id_seqs[[7]], by = "species_id") |>
-#     dplyr::left_join(species_id_seqs[[8]], by = "species_id") |>
-#     dplyr::left_join(species_id_seqs[[9]], by = "species_id") |>
-#     dplyr::left_join(species_id_seqs[[10]], by = "species_id") |>
-#     dplyr::left_join(species_id_seqs[[11]], by = "species_id")
-
-
-
 # step 1 is many joins
 concat_full <-
     purrr::reduce(species_id_seqs, dplyr::left_join, by = "species_id") |>
