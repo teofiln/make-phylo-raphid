@@ -141,3 +141,21 @@ readr::write_tsv(
     x = final_alignment_table,
     file = "to-concatenate-2022-06-09/final-alignment.table"
 )
+
+# create a partition file
+
+aln_lens <- purrr::map_dbl(species_id_seqs, function(x) nchar(x[[2]][[1]]))
+cum_lens <- cumsum(aln_lens)
+cum_star <- c(0, cum_lens[-length(cum_lens)])+1
+
+table_for_partitioning <- dplyr::tibble(
+    gene = names(cum_lens), 
+    start = cum_star, 
+    end = cum_lens
+    ) 
+
+# save
+readr::write_tsv(
+    x = table_for_partitioning,
+    file = "to-concatenate-2022-06-09/table-for-partitioning.table"
+)
