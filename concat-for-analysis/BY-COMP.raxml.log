@@ -1,0 +1,69 @@
+
+RAxML-NG v. 1.1.0 released on 29.11.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz, 4 cores, 31 GB RAM
+
+RAxML-NG was called at 02-Jul-2022 12:22:00 as follows:
+
+/home/teo/src/raxml-ng/raxml-ng --check --msa final-alignment.afa --model by-comp --prefix BY-COMP
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1656786120
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+[00:00:00] Reading alignment from file: final-alignment.afa
+[00:00:00] Loaded alignment with 1174 taxa and 13985 sites
+
+WARNING: Fully undetermined columns found: 2
+
+WARNING: Fully undetermined sequences found: 3
+
+WARNING: Sequences 36_afrocymbella_sp_1450 and 41_afrocymbella_sp_1462 are exactly identical!
+WARNING: Sequences 83_afrocymbella_sp_T673 and 93_afrocymbella_sp_T945 are exactly identical!
+WARNING: Sequences 149_Aneumastus_albanicus and 157_Aneumastus_subapiculatus are exactly identical!
+WARNING: Duplicate sequences found: 3
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /home/teo/Documents/work/make-phylo-raphid/concat-for-analysis/BY-COMP.raxml.reduced.phy
+
+NOTE: The corresponding reduced partition file was saved to:
+/home/teo/Documents/work/make-phylo-raphid/concat-for-analysis/BY-COMP.raxml.reduced.partition
+
+Alignment comprises 3 partitions and 13983 sites
+
+Partition 0: nucl
+Model: GTR+FO+G4m+B
+Alignment sites: 3576
+Gaps: 69.59 %
+Invariant sites: 14.85 %
+
+Partition 1: mito
+Model: GTR+FO+G4m+B
+Alignment sites: 1689
+Gaps: 96.00 %
+Invariant sites: 53.40 %
+
+Partition 2: chlo
+Model: GTR+FO+G4m+B
+Alignment sites: 8718
+Gaps: 83.52 %
+Invariant sites: 56.39 %
+
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /home/teo/Documents/work/make-phylo-raphid/concat-for-analysis/BY-COMP.raxml.log
+
+Analysis started: 02-Jul-2022 12:22:00 / finished: 02-Jul-2022 12:22:01
+
+Elapsed time: 0.564 seconds
+

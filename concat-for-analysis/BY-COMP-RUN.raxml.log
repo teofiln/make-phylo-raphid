@@ -1,0 +1,79 @@
+
+RAxML-NG v. 1.1.0 released on 29.11.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz, 4 cores, 31 GB RAM
+
+RAxML-NG was called at 02-Jul-2022 12:50:20 as follows:
+
+/home/teo/src/raxml-ng/raxml-ng --msa final-alignment.afa --model by-comp --prefix BY-COMP-RUN --threads 4 --seed 2 --brlen scaled --tree pars{100},rand{100}
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (100) + parsimony (100)
+  random seed: 2
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000000
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (4 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: final-alignment.afa
+[00:00:00] Loaded alignment with 1174 taxa and 13985 sites
+
+WARNING: Fully undetermined columns found: 2
+
+WARNING: Fully undetermined sequences found: 3
+
+WARNING: Sequences 36_afrocymbella_sp_1450 and 41_afrocymbella_sp_1462 are exactly identical!
+WARNING: Sequences 83_afrocymbella_sp_T673 and 93_afrocymbella_sp_T945 are exactly identical!
+WARNING: Sequences 149_Aneumastus_albanicus and 157_Aneumastus_subapiculatus are exactly identical!
+WARNING: Duplicate sequences found: 3
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /home/teo/Documents/work/make-phylo-raphid/concat-for-analysis/BY-COMP-RUN.raxml.reduced.phy
+
+NOTE: The corresponding reduced partition file was saved to:
+/home/teo/Documents/work/make-phylo-raphid/concat-for-analysis/BY-COMP-RUN.raxml.reduced.partition
+
+Alignment comprises 3 partitions and 8800 patterns
+
+Partition 0: nucl
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 3576 / 3266
+Gaps: 69.59 %
+Invariant sites: 14.85 %
+
+Partition 1: mito
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 1689 / 912
+Gaps: 96.00 %
+Invariant sites: 53.40 %
+
+Partition 2: chlo
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 8718 / 4622
+Gaps: 83.52 %
+Invariant sites: 56.39 %
+
+
+NOTE: Binary MSA file already exists: BY-COMP-RUN.raxml.rba
+
+Parallelization scheme autoconfig: 1 worker(s) x 4 thread(s)
+
+Parallel reduction/worker buffer size: 1 KB  / 0 KB
+
+[00:00:00] Generating 100 random starting tree(s) with 1174 taxa
+[00:00:01] Generating 100 parsimony starting tree(s) with 1174 taxa
+[00:07:45] Data distribution: max. partitions/sites/weight per thread: 2 / 2200 / 35200
+[00:07:45] Data distribution: max. searches per worker: 200
+
+Starting ML tree search with 200 distinct starting trees
+

@@ -1,0 +1,213 @@
+
+RAxML-NG v. 1.1.0 released on 29.11.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz, 4 cores, 31 GB RAM
+
+RAxML-NG was called at 02-Jul-2022 12:22:59 as follows:
+
+/home/teo/src/raxml-ng/raxml-ng --check --msa final-alignment.afa --model by-gene-by-codon --prefix BY-GENE-BY-CODON
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1656786179
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+[00:00:00] Reading alignment from file: final-alignment.afa
+[00:00:00] Loaded alignment with 1174 taxa and 13985 sites
+
+WARNING: Fully undetermined columns found: 2
+
+WARNING: Fully undetermined sequences found: 3
+
+WARNING: Sequences 36_afrocymbella_sp_1450 and 41_afrocymbella_sp_1462 are exactly identical!
+WARNING: Sequences 83_afrocymbella_sp_T673 and 93_afrocymbella_sp_T945 are exactly identical!
+WARNING: Sequences 149_Aneumastus_albanicus and 157_Aneumastus_subapiculatus are exactly identical!
+WARNING: Duplicate sequences found: 3
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /home/teo/Documents/work/make-phylo-raphid/concat-for-analysis/BY-GENE-BY-CODON.raxml.reduced.phy
+
+NOTE: The corresponding reduced partition file was saved to:
+/home/teo/Documents/work/make-phylo-raphid/concat-for-analysis/BY-GENE-BY-CODON.raxml.reduced.partition
+
+Alignment comprises 27 partitions and 13983 sites
+
+Partition 0: 16s
+Model: GTR+FO+G4m+B
+Alignment sites: 1179
+Gaps: 95.44 %
+Invariant sites: 28.33 %
+
+Partition 1: 18s
+Model: GTR+FO+G4m+B
+Alignment sites: 1757
+Gaps: 49.31 %
+Invariant sites: 5.58 %
+
+Partition 2: 28s
+Model: GTR+FO+G4m+B
+Alignment sites: 640
+Gaps: 77.67 %
+Invariant sites: 15.47 %
+
+Partition 3: cob.1
+Model: GTR+FO+G4m+B
+Alignment sites: 239
+Gaps: 94.74 %
+Invariant sites: 43.93 %
+
+Partition 4: cob.2
+Model: GTR+FO+G4m+B
+Alignment sites: 239
+Gaps: 94.74 %
+Invariant sites: 63.18 %
+
+Partition 5: cob.3
+Model: GTR+FO+G4m+B
+Alignment sites: 239
+Gaps: 94.74 %
+Invariant sites: 6.28 %
+
+Partition 6: cox1.1
+Model: GTR+FO+G4m+B
+Alignment sites: 324
+Gaps: 96.93 %
+Invariant sites: 70.99 %
+
+Partition 7: cox1.2
+Model: GTR+FO+G4m+B
+Alignment sites: 324
+Gaps: 96.93 %
+Invariant sites: 90.74 %
+
+Partition 8: cox1.3
+Model: GTR+FO+G4m+B
+Alignment sites: 324
+Gaps: 96.93 %
+Invariant sites: 33.02 %
+
+Partition 9: atpb.1
+Model: GTR+FO+G4m+B
+Alignment sites: 429
+Gaps: 96.90 %
+Invariant sites: 76.92 %
+
+Partition 10: atpb.2
+Model: GTR+FO+G4m+B
+Alignment sites: 429
+Gaps: 96.90 %
+Invariant sites: 89.74 %
+
+Partition 11: atpb.3
+Model: GTR+FO+G4m+B
+Alignment sites: 429
+Gaps: 96.90 %
+Invariant sites: 10.02 %
+
+Partition 12: psaa.1
+Model: GTR+FO+G4m+B
+Alignment sites: 526
+Gaps: 96.79 %
+Invariant sites: 73.38 %
+
+Partition 13: psaa.2
+Model: GTR+FO+G4m+B
+Alignment sites: 526
+Gaps: 96.79 %
+Invariant sites: 92.02 %
+
+Partition 14: psaa.3
+Model: GTR+FO+G4m+B
+Alignment sites: 526
+Gaps: 96.79 %
+Invariant sites: 11.22 %
+
+Partition 15: psab.1
+Model: GTR+FO+G4m+B
+Alignment sites: 655
+Gaps: 93.67 %
+Invariant sites: 69.77 %
+
+Partition 16: psab.2
+Model: GTR+FO+G4m+B
+Alignment sites: 655
+Gaps: 93.67 %
+Invariant sites: 88.40 %
+
+Partition 17: psab.3
+Model: GTR+FO+G4m+B
+Alignment sites: 655
+Gaps: 93.67 %
+Invariant sites: 8.40 %
+
+Partition 18: psba.1
+Model: GTR+FO+G4m+B
+Alignment sites: 360
+Gaps: 91.09 %
+Invariant sites: 85.00 %
+
+Partition 19: psba.2
+Model: GTR+FO+G4m+B
+Alignment sites: 360
+Gaps: 91.09 %
+Invariant sites: 91.39 %
+
+Partition 20: psba.3
+Model: GTR+FO+G4m+B
+Alignment sites: 360
+Gaps: 91.09 %
+Invariant sites: 36.94 %
+
+Partition 21: psbc.1
+Model: GTR+FO+G4m+B
+Alignment sites: 424
+Gaps: 77.28 %
+Invariant sites: 64.86 %
+
+Partition 22: psbc.2
+Model: GTR+FO+G4m+B
+Alignment sites: 424
+Gaps: 77.28 %
+Invariant sites: 82.78 %
+
+Partition 23: psbc.3
+Model: GTR+FO+G4m+B
+Alignment sites: 424
+Gaps: 77.28 %
+Invariant sites: 8.73 %
+
+Partition 24: rbcl.1
+Model: GTR+FO+G4m+B
+Alignment sites: 512
+Gaps: 45.55 %
+Invariant sites: 58.40 %
+
+Partition 25: rbcl.2
+Model: GTR+FO+G4m+B
+Alignment sites: 512
+Gaps: 45.55 %
+Invariant sites: 68.75 %
+
+Partition 26: rbcl.3
+Model: GTR+FO+G4m+B
+Alignment sites: 512
+Gaps: 45.56 %
+Invariant sites: 10.94 %
+
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /home/teo/Documents/work/make-phylo-raphid/concat-for-analysis/BY-GENE-BY-CODON.raxml.log
+
+Analysis started: 02-Jul-2022 12:22:59 / finished: 02-Jul-2022 12:22:59
+
+Elapsed time: 0.470 seconds
+

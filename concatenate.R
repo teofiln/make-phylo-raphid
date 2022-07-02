@@ -87,7 +87,7 @@ species_table <- dplyr::distinct(global_table, species_id, genus, species)
 
 parse_gene_id <- function(seqs_data) {
     seqs_data |>
-        dplyr::mutate(gene_id = get_field(rlang::.data$tag, 1) |>
+        dplyr::mutate(gene_id = get_field(tag, 1) |>
             gsub(pattern = ">", replacement = "") |>
             gsub(pattern = ".p1", replacement = ""))
 }
@@ -95,9 +95,9 @@ parse_gene_id <- function(seqs_data) {
 join_species_id <- function(seqs_data, global_data) {
     dplyr::left_join(global_data, seqs_data, by = "gene_id") |>
         dplyr::arrange(dplyr::desc(seq)) |>
-        dplyr::distinct(rlang::.data$species_id, .keep_all = TRUE) |>
-        dplyr::select(rlang::.data$species_id, seq) |>
-        dplyr::arrange(rlang::.data$species_id)
+        dplyr::distinct(species_id, .keep_all = TRUE) |>
+        dplyr::select(species_id, seq) |>
+        dplyr::arrange(species_id)
 }
 
 species_id_seqs <- purrr::map(seqs, function(x) {
@@ -134,7 +134,9 @@ final_alignment_table <- concat_full |>
         col = "tag", sep = "_", remove = FALSE,
         species_id, genus, species
     ) |>
-    dplyr::select(tag, concat)
+    dplyr::select(tag, concat) |>
+    dplyr::mutate(tag = gsub("-", "", tag)) |>
+    dplyr::mutate(tag = gsub("\\.", "", tag))
 
 # save
 readr::write_tsv(
