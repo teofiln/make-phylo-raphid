@@ -87,7 +87,7 @@ species_table <- dplyr::distinct(global_table, species_id, genus, species)
 
 parse_gene_id <- function(seqs_data) {
     seqs_data |>
-        dplyr::mutate(gene_id = get_field(tag, 1) |>
+        dplyr::mutate(gene_id = get_field(rlang::.data$tag, 1) |>
             gsub(pattern = ">", replacement = "") |>
             gsub(pattern = ".p1", replacement = ""))
 }
@@ -95,9 +95,9 @@ parse_gene_id <- function(seqs_data) {
 join_species_id <- function(seqs_data, global_data) {
     dplyr::left_join(global_data, seqs_data, by = "gene_id") |>
         dplyr::arrange(dplyr::desc(seq)) |>
-        dplyr::distinct(species_id, .keep_all = TRUE) |>
-        dplyr::select(species_id, seq) |>
-        dplyr::arrange(species_id)
+        dplyr::distinct(rlang::.data$species_id, .keep_all = TRUE) |>
+        dplyr::select(rlang::.data$species_id, seq) |>
+        dplyr::arrange(rlang::.data$species_id)
 }
 
 species_id_seqs <- purrr::map(seqs, function(x) {
@@ -146,13 +146,13 @@ readr::write_tsv(
 
 aln_lens <- purrr::map_dbl(species_id_seqs, function(x) nchar(x[[2]][[1]]))
 cum_lens <- cumsum(aln_lens)
-cum_star <- c(0, cum_lens[-length(cum_lens)])+1
+cum_star <- c(0, cum_lens[-length(cum_lens)]) + 1
 
 table_for_partitioning <- dplyr::tibble(
-    gene = names(cum_lens), 
-    start = cum_star, 
+    gene = names(cum_lens),
+    start = cum_star,
     end = cum_lens
-    ) 
+    )
 
 # save
 readr::write_tsv(
